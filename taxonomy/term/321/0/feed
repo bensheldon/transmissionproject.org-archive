@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - Salesforce</title>
+ <link>http://transmissionproject.org/taxonomy/term/321/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Marketing and UI Design</title>
+ <link>http://transmissionproject.org/content/marketing-and-ui-design</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/adwords">adwords</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/analytics">analytics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-outreach">online outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/36">seo</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/strategic-planning">Strategic planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/user-interface">user interface</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 20:50:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">849 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Technology Capacity Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-capacity-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 02 Nov 2010 18:40:20 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">742 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website Developer</title>
+ <link>http://transmissionproject.org/content/website-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/joomla">joomla</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 02 Nov 2010 18:32:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">741 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Technology Enhancement Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-enhancement-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/google-ads">google ads</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Tue, 02 Nov 2010 16:23:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">727 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CMS/CRM system comparison chart</title>
+ <link>http://transmissionproject.org/resources/2010/10/cmscrm-system-comparison-chart</link>
+ <description>&lt;p&gt;An initial look into potential new CMS/CRM systems for &lt;a href=&quot;http://kbcs.fm/site/PageServer&quot;&gt;KBCS&lt;/a&gt; by corps member Amber Cortez. The comparison chart lines up their top three contenders by price, and other&amp;nbsp;factors.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/cmscrm-system-comparison-chart#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/comparison">comparison</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/crm">crm</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/CMS &amp; DATABASE SPREADSHEET KBCS.xls" length="27648" type="application/vnd.ms-excel" />
+ <pubDate>Mon, 04 Oct 2010 20:14:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">304 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>New resource in WORKBENCH</title>
+ <link>http://transmissionproject.org/current/2010/8/new-resource-in-workbench</link>
+ <description>&lt;p&gt;Hello&amp;nbsp;all,&lt;/p&gt;
+&lt;p&gt;As a Digital Arts Service Corps member serving at Transmission Project &lt;span class=&quot;caps&quot;&gt;HQ&lt;/span&gt;, one of my roles is to conduct research on emerging trends in the public media and nonprofit fields &amp;#8211; hopefully to the benefit of other Corps members and the Transmission Project’s partner organizations alike. For ten years, the Transmission Project has recruited one-year Americorps*&lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; members (VISTAs) into its Digital Arts Service Corps and placed them with community-based media organizations in support of an explicitly-defined capacity building project. It is my goal to share some of our knowledge and experience&amp;nbsp;here.&lt;/p&gt;
+&lt;p&gt;This week I discuss the increasing popularity of Salesforce among nonprofits and delve into both the situations that have enabled past VISTAs’ successes and the setbacks that have hindered them in implementing this new platform. The article is listed under &lt;a href=&quot;http://transmissionproject.org/resources/2010/8/vista-and-the-database&quot;&gt;resources &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; artifacts&lt;/a&gt; and can also be downloaded from attachments,&amp;nbsp;below.&lt;/p&gt;
+&lt;p&gt;Finally, I would like to thank those who contributed to the ariticle&amp;#8217;s creation.&lt;br /&gt;
+- Marc Baizman, Nonprofit Technology Consulting&lt;br /&gt;
+(&lt;a href=&quot;http://www.mcgtraining.com&quot; title=&quot;http://www.mcgtraining.com&quot;&gt;http://www.mcgtraining.com&lt;/a&gt;)&lt;br /&gt;
+- Billy Brown, Transmission Project&lt;br /&gt;
+(&lt;a href=&quot;http://www.transmissionproject.org&quot; title=&quot;http://www.transmissionproject.org&quot;&gt;http://www.transmissionproject.org&lt;/a&gt;&lt;br /&gt;
+- Stephen Jordan, &lt;span class=&quot;caps&quot;&gt;UTEC&lt;/span&gt;&lt;br /&gt;
+(&lt;a href=&quot;http://www.utec-lowell.org&quot; title=&quot;http://www.utec-lowell.org&quot;&gt;http://www.utec-lowell.org&lt;/a&gt;)&lt;br /&gt;
+- Nick Szuberla, Appalshop&lt;br /&gt;
+(&lt;a href=&quot;http://www.appalshop.org&quot; title=&quot;http://www.appalshop.org&quot;&gt;http://www.appalshop.org&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I do hope the article is of help. If you have questions after reading, please contact&amp;nbsp;me,&lt;/p&gt;
+&lt;p&gt;Howie Fisher @ The Transmission Project&lt;br /&gt;
+&lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; member&lt;br /&gt;
+(617) 287 - 7152&lt;br /&gt;
+&lt;a href=&quot;mailto:howie@transmissionproject.org&quot;&gt;howie@transmissionproject.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://transmissionproject.org&quot; title=&quot;http://transmissionproject.org&quot;&gt;http://transmissionproject.org&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/8/new-resource-in-workbench#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - The VISTA and the Database_0.pdf" length="357975" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 19:02:46 +0000</pubDate>
+ <dc:creator>Howie Fisher</dc:creator>
+ <guid isPermaLink="false">264 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>VISTA and the Database</title>
+ <link>http://transmissionproject.org/resources/2010/8/vista-and-the-database</link>
+ <description>&lt;p&gt;An article about past Digital Arts Service Corps members&amp;#8217; experiences with the implementation of&amp;nbsp;Salesforce.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/8/vista-and-the-database#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - The VISTA and the Database_2.pdf" length="357975" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 18:49:10 +0000</pubDate>
+ <dc:creator>Howie Fisher</dc:creator>
+ <guid isPermaLink="false">263 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

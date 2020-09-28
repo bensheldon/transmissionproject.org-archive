@@ -1,0 +1,825 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <!-- Mechanically generated; do not edit. -->
+  <head>
+    <style>
+      html, body, span, applet, object, iframe, h1,
+      h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
+      acronym, address, big, cite, code, del, dfn, em,
+      font, img, ins, kbd, q, s, samp, small, strike,
+      strong, sub, sup, tt, var, b, u, i, center, dl,
+      dt, dd, fieldset, form, label,
+      legend, table, caption, tbody, tfoot, thead,
+      tr, th, td, li, ol, ul {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        background: transparent;
+      }
+      h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+      code, center, .table_pad {
+        text-align: left;
+        margin: 0;
+        padding: .1in .3in;
+      }
+      #inner, h1 {
+        width: 750px;
+        background-color: #FFFBEE;
+        text-align: left;
+        margin: 0 auto;
+        padding: 0 0 4px 0;
+      }
+      body {
+        font-family: "Arial, Verdana, Trebuchet, Helvetica, Geneva, Sans, Sans-serif";
+      }
+      table {
+        border-collapse: collapse;
+      }
+      th, td {
+        padding-left:  4px;
+        padding-right: 4px;
+      }
+      td, th {
+        border: 1px solid #000;
+      }
+      th {text-align:center;}
+      h1 {
+        text-align: center;
+        background-color: #FF0;
+        border: 1px solid #B00;
+      }
+      ol, ul {
+        list-style: none;
+        margin-left: .05in;
+        padding-left: .05in;
+        padding-top:    2px;
+        padding-bottom: 2px;
+      }
+      li {
+        margin:  0;
+        padding: 0;
+      }
+      p {
+        padding-top:    .05in;
+        padding-bottom: .06in;
+        font-size: 12pt;
+      }
+      pre {
+        padding-bottom: 0;
+      }
+    </style>
+    <title>
+      Plan for Testing the Content Management System
+    </title>
+  </head>
+  <body style="background-color: #95B; margin: .6in auto .6in auto; text-align: center;">
+    <h1>
+      <div style="padding: 0.25in; font-size: 32pt;">
+        Plan for Testing the
+        <br>
+        </br>
+        Content Management System
+      </div>
+    </h1>
+    <div id="inner">
+      <h2 style="text-align: center">
+        Table of Contents
+      </h2>
+      <ul>
+        <li>
+          <a href="test_plan.html#1">
+            1.
+          </a>
+          <em>
+            Significance of This Document
+          </em>
+        </li>
+        <ul>
+        </ul>
+        <li>
+          <a href="test_plan.html#2">
+            2.
+          </a>
+          <em>
+            Basic Sanity Check
+          </em>
+        </li>
+        <ul>
+          <li>
+            <a href="test_plan.html#2_1">
+              2.1.
+            </a>
+            <em>
+              Editors
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_2">
+              2.2.
+            </a>
+            <em>
+              Form Submissions
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_3">
+              2.3.
+            </a>
+            <em>
+              Events
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_4">
+              2.4.
+            </a>
+            <em>
+              Files
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_5">
+              2.5.
+            </a>
+            <em>
+              Images
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_6">
+              2.6.
+            </a>
+            <em>
+              Pages
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#2_7">
+              2.7.
+            </a>
+            <em>
+              Dashboard
+            </em>
+          </li>
+        </ul>
+        <li>
+          <a href="test_plan.html#3">
+            3.
+          </a>
+          <em>
+            More Testing
+          </em>
+        </li>
+        <ul>
+          <li>
+            <a href="test_plan.html#3_1">
+              3.1.
+            </a>
+            <em>
+              Editors
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_2">
+              3.2.
+            </a>
+            <em>
+              Form Submissions
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_3">
+              3.3.
+            </a>
+            <em>
+              Events
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_4">
+              3.4.
+            </a>
+            <em>
+              Files
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_5">
+              3.5.
+            </a>
+            <em>
+              Images
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_6">
+              3.6.
+            </a>
+            <em>
+              Pages
+            </em>
+          </li>
+          <li>
+            <a href="test_plan.html#3_7">
+              3.7.
+            </a>
+            <em>
+              Dashboard
+            </em>
+          </li>
+        </ul>
+        <li>
+          <a href="test_plan.html#4">
+            4.
+          </a>
+          <em>
+            Appendix A: How to Run the Automated Tests
+          </em>
+        </li>
+        <ul>
+        </ul>
+        <li>
+          <a href="test_plan.html#5">
+            5.
+          </a>
+          <em>
+            Appendix B: How to Develop Test Cases
+          </em>
+        </li>
+        <ul>
+        </ul>
+        <li>
+          <a href="test_plan.html#6">
+            6.
+          </a>
+          <em>
+            Appendix C: Glossary
+          </em>
+        </li>
+        <ul>
+        </ul>
+      </ul>
+      <hr>
+      </hr>
+      <h2 id="1">
+        1. Significance of This Document
+      </h2>
+      <p>
+        As the title of this document suggests, this document
+        concerns itself with testing.
+        However, please note that the document lists
+        stories about the usage of the system.
+        These stories, taken together, outline the requirements
+        that the system is designed to fulfill.
+        Therefore, this document addresses requirements
+        as well as testing.
+        After all, requirements and testing are fundamentally
+        related, since the requirements of any system
+        define the boundary between correct and incorrect
+        behavior on the part of the system,
+        and testing provides some means to judge whether
+        the system meets the requirements when it is
+        exercised.
+      </p>
+      <hr>
+      </hr>
+      <h2 id="2">
+        2. Basic Sanity Check
+      </h2>
+      <h3 id="2_1">
+        2.1. Editors
+      </h3>
+      <h4 id="2_1_1">
+        2.1.1. An administrator can register a person as an editor.
+      </h4>
+      <p>
+        When registering a person as an editor, the
+        administrator can (must?) set the password for the new
+        editor.
+      </p>
+      <p>
+        The automated test case
+        <em>
+          20_basic_sanity/010_editors/010_create.sel
+        </em>
+        provides a simple test of the requirement
+        that the administrator must be able to register a
+        person so that the system can know that person
+        as an editor.
+      </p>
+      <p>
+        This test case depends on the setup procedure having
+        been run, which logs the session in as the
+        administrator.  The setup procedure looks like a suite
+        of two test cases under the directory
+        <em>
+          10_setup
+        </em>
+        .  The tests are arranged such that if you allow the
+        test runner to run all the tests at once, it will run
+        the setup suite right before it runs
+        <em>
+          20_basic_sanity/010_editors/010_create.sel
+        </em>
+        , thus fulfilling the latter's precondition of
+        having the session already
+        logged in as the administrator.
+      </p>
+      <h4 id="2_1_2">
+        2.1.2. An administrator can change the password of an editor who is already registered.
+      </h4>
+      <p>
+        The automated test case
+        <em>
+          20_basic_sanity/010_editors/020_change_password
+        </em>
+        provides a simple test of this ability.
+        It depends on the prior test case for its preconditions,
+        those being that the session is logged in as the
+        administrator and that the editor whose password
+        we intend to change
+        has already been described to the system as an editor.
+      </p>
+      <h4 id="2_1_3">
+        2.1.3. An administrator can remove an editor.
+      </h4>
+      <p>
+        The automated test case
+        <em>
+          20_basic_sanity/010_editors/030_delete
+        </em>
+        provides a simple test of this ability.
+        It depends on earlier test cases for its preconditions,
+        those being that the session is logged in as the
+        administrator and that the editor that we intend
+        to remove
+        has already been entered into the system.
+      </p>
+      <h4 id="2_1_4">
+        2.1.4. A person registered as an editor can log in.
+      </h4>
+      <p>
+        The automated test case
+        <em>
+          20_basic_sanity/010_editors/060_sign_in.sel
+        </em>
+        tests this capability.
+        The test depends on earlier tests for having set up the
+        system to meet the precondition that the editor as whom
+        we intend to sign in has already been entered in the
+        system (and entered more recently than the last time
+        removed).
+      </p>
+      <p>
+        This test case establishes a precondition on which all
+        the subsequent tests in the "basic sanity test" suite
+        depend, namely, that the session is
+        logged in as an editor.
+      </p>
+      <h3 id="2_2">
+        2.2. Form Submissions
+      </h3>
+      <h4 id="2_2_1">
+        2.2.1. The editor can edit the list of notification e-mail addresses for a given submissive form page, via the 'Form Submissions' section of the editorial portal of the CMS.
+      </h4>
+      <p>
+        The automated test case,
+        <em>
+          test/selenium/20_basic_sanity/020_form_submissions/010_change_notification_addrs_via_form_submissions_tab.html
+        </em>
+        demonstrates this capability.
+      </p>
+      <h3 id="2_3">
+        2.3. Events
+      </h3>
+      <h4 id="2_3_1">
+        2.3.1. An editor can create a calendar.
+      </h4>
+      <h4 id="2_3_2">
+        2.3.2. An editor can add an event.
+      </h4>
+      <h3 id="2_4">
+        2.4. Files
+      </h3>
+      <h4 id="2_4_1">
+        2.4.1. An editor can upload a file.
+      </h4>
+      <h4 id="2_4_2">
+        2.4.2. The editor can set a name and a description for a new file.
+      </h4>
+      <h4 id="2_4_3">
+        2.4.3. An editor can change the name and/or description of an existing file.
+      </h4>
+      <h4 id="2_4_4">
+        2.4.4. An editor can delete a file.
+      </h4>
+      <h3 id="2_5">
+        2.5. Images
+      </h3>
+      <h4 id="2_5_1">
+        2.5.1. An editor can create an image gallery.
+      </h4>
+      <h4 id="2_5_2">
+        2.5.2. An editor can rename an existing image gallery.
+      </h4>
+      <h4 id="2_5_3">
+        2.5.3. An editor can delete an image gallery.
+      </h4>
+      <h4 id="2_5_4">
+        2.5.4. An editor can upload an image to a gallery.
+      </h4>
+      <h4 id="2_5_5">
+        2.5.5. An editor can change the name of an image.
+      </h4>
+      <h4 id="2_5_6">
+        2.5.6. An editor can change the caption of an image.
+      </h4>
+      <h4 id="2_5_7">
+        2.5.7. An editor can delete an image.
+      </h4>
+      <h3 id="2_6">
+        2.6. Pages
+      </h3>
+      <h4 id="2_6_1">
+        2.6.1. An editor can create a page.
+      </h4>
+      <h4 id="2_6_2">
+        2.6.2. The editor can give the new page a title.
+      </h4>
+      <h4 id="2_6_3">
+        2.6.3. The editor can decide whether the new page should be published.
+      </h4>
+      <h4 id="2_6_4">
+        2.6.4. The editor can decide whether the site navigation shall include the new page.
+      </h4>
+      <h4 id="2_6_5">
+        2.6.5. An editor can edit an existing page.
+      </h4>
+      <h4 id="2_6_6">
+        2.6.6. The editor can paste a selection of text from Microsoft Word onto a page.
+      </h4>
+      <h4 id="2_6_7">
+        2.6.7. The editor can choose the "format" (or tag) of an element of text on a page.
+      </h4>
+      <h4 id="2_6_8">
+        2.6.8. The editor can underline text.
+      </h4>
+      <h4 id="2_6_9">
+        2.6.9. The editor can italicize text.
+      </h4>
+      <h4 id="2_6_10">
+        2.6.10. The editor can embolden text.
+      </h4>
+      <h4 id="2_6_11">
+        2.6.11. The editor can insert a link to another page on a page.
+      </h4>
+      <h4 id="2_6_12">
+        2.6.12. The editor can place a link to a file on a page.
+      </h4>
+      <h4 id="2_6_13">
+        2.6.13. The editor can link to an e-mail address on a page.
+      </h4>
+      <h4 id="2_6_14">
+        2.6.14. The editor can link from a page to an arbitrary web page.
+      </h4>
+      <h4 id="2_6_15">
+        2.6.15. The editor can insert an image on a page.
+      </h4>
+      <h4 id="2_6_16">
+        2.6.16. An editor can delete a page.
+      </h4>
+      <h4 id="2_6_17">
+        2.6.17. Editors can nest new pages.
+      </h4>
+      <h3 id="2_7">
+        2.7. Dashboard
+      </h3>
+      <h4 id="2_7_1">
+        2.7.1. The CMS will show recent editing activity in the Dashboard.
+      </h4>
+      <hr>
+      </hr>
+      <h2 id="3">
+        3. More Testing
+      </h2>
+      <h3 id="3_1">
+        3.1. Editors
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Editors.
+      </p>
+      <h3 id="3_2">
+        3.2. Form Submissions
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Form Submissions.
+      </p>
+      <h3 id="3_3">
+        3.3. Events
+      </h3>
+      <h4 id="3_3_1">
+        3.3.1. An event will no longer display after its expiry.
+      </h4>
+      <h4 id="3_3_2">
+        3.3.2. An event must always belong to at least one calendar.
+      </h4>
+      <h3 id="3_4">
+        3.4. Files
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Files.
+      </p>
+      <h3 id="3_5">
+        3.5. Images
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Images.
+      </p>
+      <h3 id="3_6">
+        3.6. Pages
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Pages.
+      </p>
+      <h3 id="3_7">
+        3.7. Dashboard
+      </h3>
+      <p>
+        Currently the test plan does not offer any
+        stories for more thorough testing of
+        Dashboard.
+      </p>
+      <hr>
+      </hr>
+      <h2 id="4">
+        4. Appendix A: How to Run the Automated Tests
+      </h2>
+      <p>
+        The degree of automation of the automated tests does
+        not suffice to
+        relieve you of typing more than one command.
+        Several steps are required for setting up and running
+        the tests.  However, the number of manual steps required
+        to get the computer to do the automated tests remains
+        fixed, regardless of how many test cases we include
+        in the suite of automated tests.
+      </p>
+      <p>
+        First, it is necessary to clear out the database that you
+        use for testing.  To do that, you can position yourself in
+        the root directory of a copy of the system
+        (in which you have already set up config/database.yml and
+        for which you have already created the testing database)
+        and enter the
+        following commands in the shell:
+      </p>
+      <pre>
+        rake db:migrate VERSION=0 RAILS_ENV=test
+        rm -rf public/uploaded_*
+        rake db:migrate RAILS_ENV=test
+        rake application:initialize RAILS_ENV=test
+      </pre>
+      <p>
+        As I write, the attachment mechanism seems to be failing
+        in the test environment.  Just to get going before
+        bothering to solve that problem, let's try using the
+        the development environment instead of the test
+        environment.  If you do this, make sure that you are
+        doing this in a copy of the system where you don't
+        value any of the data you have in your development
+        database.  This procedure will discard whatever you
+        may have there.
+      </p>
+      <pre>
+        rake VERSION=0 db:migrate
+        rm -rf public/uploaded_*
+        rake db:migrate
+        rake application:initialize
+      </pre>
+      <p>
+        The above procedure may need refinement if, because of the
+        evolution of the Rails framework, any of the migrations
+        start failing to work, or if the amount of time it takes
+        to undo and redo the migrations becomes annoying.
+      </p>
+      <p>
+        In any event, the next step is to start up a server
+        process for
+        the testing.  For the following example, I use port 3011.
+        You might want to be in the habit of using distinct
+        port numbers for testing and development.  If you are
+        sharing a development environment with other programmers,
+        you should negotiate with them a regime for avoiding
+        clashing with each other on port numbers.
+      </p>
+      <pre>
+        script/server -e test -p 3011
+      </pre>
+      <p>
+        If we're not specifying the test environment,
+        it's
+      </p>
+      <pre>
+        script/server -p 3011
+      </pre>
+      <p>
+        Once that starts, you want to aim a browser at
+        "/selenium" within the URI region served by the server
+        process you just started.
+      </p>
+      <p>
+        If you are browsing at a computer other
+        than the one running your server, and if
+        the hostname of the latter were, for
+        example, "ccts-2008-11-25", and
+        sticking with the same port number as above
+        then the following would be the URI to put in the address
+        field of your schnauzer:
+      </p>
+      <pre>
+        http://ccts-2008-11-25:3011/selenium
+      </pre>
+      <p>
+        On the other hand, if you are sitting in front of the
+        testing machine, you have to use "localhost" instead
+        for the hostname, so the URI in that case comes out like
+        this:
+      </p>
+      <pre>
+        http://localhost:3011/selenium
+      </pre>
+      <p>
+        To be continued . . .
+      </p>
+      <hr>
+      </hr>
+      <h2 id="5">
+        5. Appendix B: How to Develop Test Cases
+      </h2>
+      <p>
+        The vehicle for developing test scenarios is Firefox.
+        You can test in any browser (and probably should test
+        in all of them from time to time); however, only in
+        Firefox do we have
+        (as of this writing) a tool available to help you
+        record an interaction.
+      </p>
+      <p>
+        To install the tool in your personal configuration of
+        Firefox on any given computer you use,
+        the first step is to choose in the menu, Tools -&gt;
+        Add-ons.
+        Make sure the "Selenium IDE" extension is installed
+        and enabled
+        ("IDE" stands for "Interactive Development Environment").
+        It is available in the selection of add-ons that
+        Firefox offers for installation.
+        You shouldn't have to worry about the location from
+        which to load it.
+      </p>
+      <p>
+        When you want to record a testing scenario, begin by
+        opening the browser against a testing server that you
+        will have started the same way as though you were going
+        to run tests, as directed in the previous section of
+        this document.
+      </p>
+      <p>
+        Take whatever actions are necessary to get your database
+        into the state appropriate for the start of the test
+        case you want to compose.
+        Aim your browser at the base URL of the server you are
+        testing.
+      </p>
+      <p>
+        For further information about running the
+        "Selenium IDE",
+        consult
+        <a href="http://wiki.openqa.org/display/SIDE/Getting+Started+with+Selenium+IDE">
+          http://wiki.openqa.org/display/SIDE/Getting+Started+with+Selenium+IDE
+        </a>
+        .
+      </p>
+      <p>
+        When you want to start recording the scenario,
+        choose Tools -&gt; Selenium IDE.
+      </p>
+      <p>
+        The Selenium "IDE" will come up as a little window
+        of its own.
+        I find that it usually seems to come up with recording
+        enabled.  The big red dot on the right near the top
+        functions in effect as the "record" button.
+        If you hover your mouse pointer over it, you should
+        see a hint come up that will state whether recording
+        is on.
+      </p>
+      <p>
+        At this point, for most of the kinds of test scenarios
+        you will be recording, it may be a good idea to
+        load the "Base URL" field near the top of the Selenium
+        IDE windowlet with the same URL that would in the
+        browser get you to the home page of the server under
+        test.
+      </p>
+      <p>
+        Then usually the next thing to do is to aim the browser at
+"/admin" relative to the base URL.  Initially, the display,
+in the Selenium IDE, of the steps of the test scenario you are
+constructing, will not show the "open /admin/" command.  However,
+it will show up after the next step.
+      </p>
+      <p>
+        The usual next thing to do is to click on the button in the
+CMS for the area you intend to work in, one of Pages, Images,
+Form Submissions, Editors, or whatever other areas get added in
+the future.
+      </p>
+      <p>
+        So then just continue interacting with the web site under
+test.  The Selenium IDE windowlet should reflect your actions
+in its growing table.
+      </p>
+      <p>
+        To make the test scenario into a test,
+you want to include one or more commands to
+make it verify that something that should be on the screen
+really made it there.  A fairly reasonable target for a check
+of this kind, in many cases, would be the confirmation message
+the web site puts up, for example,
+"Successfully updated Contact Us".  To append such a command
+to the scenario, sweep your cursor over the confirmation message,
+right click, and choose "verifyTextPresent" from the pop-up
+menu.
+      </p>
+      <p>
+        Next you will want to save the test script so you can incorporate
+it into the suite of tests stored with the source code of the
+CMS.
+      </p>
+      <p>
+        .  The
+        <em>
+          selenium_on_rails
+        </em>
+        plugin interprets the test scenarios.
+        It finds them in the test/selenium directory
+        and its descendent directories and presents them when
+        you follow the directions in the previous appendix.
+        For further information on the plugin, you can refer
+        to vendor/plugins/selenium-on-rails/README.md relative
+        to the project root.
+        However, some of the statements
+        appearing there may deserve a grain of salt.
+        In particular, it says that you can export test cases
+        from the Selenium IDE in .rsel format as accepted by the
+        plugin, and I have not found a way to do that without
+        manually editing the files.
+      </p>
+      <hr>
+      </hr>
+      <h2 id="6">
+        6. Appendix C: Glossary
+      </h2>
+      <div class="table_pad">
+        <table width="100%">
+          <tr>
+            <th>
+              Term
+            </th>
+            <th>
+              Definition
+            </th>
+          </tr>
+          <tr>
+            <td>
+              CMS
+            </td>
+            <td>
+              Content-Management System
+            </td>
+          </tr>
+          <tr>
+            <td>
+              IDE
+            </td>
+            <td>
+              Interactive Development Environment
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

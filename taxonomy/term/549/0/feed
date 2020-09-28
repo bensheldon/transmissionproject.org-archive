@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - mapping</title>
+ <link>http://transmissionproject.org/taxonomy/term/549/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Media Asset Map</title>
+ <link>http://transmissionproject.org/resources/2010/12/digital-media-asset-map</link>
+ <description>&lt;p&gt;An online, interactive map of Humboldt County digital media resources by corps member Sam&amp;nbsp;Kaplan. &lt;/p&gt;
+&lt;p&gt;Visit the map &lt;a href=&quot;http://doiop.com/accesshumboldt&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/12/digital-media-asset-map#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/asset-mapping">asset mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-resources">digital media resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-web-design-resources">Featured Web Design Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/map">map</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 07 Dec 2010 15:30:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">910 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Program Development and Outreach</title>
+ <link>http://transmissionproject.org/content/program-development-and-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio">audio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-storytelling">digital storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/radio-training">radio training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-copy">web copy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 21:28:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">856 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website and Database Building</title>
+ <link>http://transmissionproject.org/content/website-and-database-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/excel">excel</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 26 Oct 2010 16:31:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">595 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

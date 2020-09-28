@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - diy</title>
+ <link>http://transmissionproject.org/taxonomy/term/227/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DIY Video Curriculum, Outreach List and Tickets</title>
+ <link>http://transmissionproject.org/resources/2011/5/diy-video-curriculum-outreach-list-and-tickets</link>
+ <description>&lt;p&gt;A DIY Video workshop curriculum, outreach list and ticket images all created by corps member Tiffany&amp;nbsp;Otoya.&lt;/p&gt;
+&lt;p&gt;An example video from students who went through this class: &lt;a href=&quot;http://www.youtube.com/watch?v=nZklClZjMlA&quot; title=&quot;http://www.youtube.com/watch?v=nZklClZjMlA&quot;&gt;http://www.youtube.com/watch?v=nZklClZjMlA&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/5/diy-video-curriculum-outreach-list-and-tickets#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum">curriculum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/diy">diy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tickets">tickets</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/DIY curriculum handouts.docx" length="3954203" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Thu, 26 May 2011 17:38:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">949 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Megapolis Audio Festival</title>
+ <link>http://transmissionproject.org/events/2010/05/megapolis-audio-festival</link>
+ <description>&lt;p&gt;The Megapolis Festival is an annual, weekend-long celebration of the craft of &lt;span class=&quot;caps&quot;&gt;DIY&lt;/span&gt; audio creation. Artists, documentarians, musicians, and fans come together to share secrets on producing and presenting challenging audio works online, on-air, and on the&amp;nbsp;stage.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art">art</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/artists">artists</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio">audio</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/diy">diy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/musicians">musicians</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <pubDate>Tue, 16 Feb 2010 17:43:27 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">174 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

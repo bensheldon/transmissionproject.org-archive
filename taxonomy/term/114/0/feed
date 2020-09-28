@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - open source</title>
+ <link>http://transmissionproject.org/taxonomy/term/114/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory-system">inventory system</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-support">technical support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Tue, 02 Nov 2010 15:35:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">723 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website and Database Building</title>
+ <link>http://transmissionproject.org/content/website-and-database-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/excel">excel</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 26 Oct 2010 16:31:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">595 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-3</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debian">debian</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/linux">linux</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spam-filtering">spam filtering</category>
+ <pubDate>Mon, 25 Oct 2010 18:13:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">577 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:50:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">496 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:48:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">495 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:45:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">494 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Champaign-Urbana Community Wireless Network (CUWiN)</title>
+ <link>http://transmissionproject.org/projects/champaign-urbana-community-wireless-network-cuwin</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-networks">community networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/network">network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <georss:point>40.112200 -88.208098</georss:point>
+ <pubDate>Tue, 19 Oct 2010 15:06:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">356 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Nonprofit Software Development Summit, 2009</title>
+ <link>http://transmissionproject.org/events/2009/11/nonprofit-software-development-summit-2009</link>
+ <description>&lt;blockquote&gt;&lt;p&gt;
+The 2009 Nonprofit Software Development Summit will be the third annual convening of people and organizations developing software tools, web applications and other technology to support social justice causes. Bringing together a diverse range of users, developers, technologists, managers, eRiders, integrators and other practitioners who self-identify under the umbrella of “developing nonprofit software”, the 2009 DevSummit will provide an opportunity both to gather as a community and to take stock of the field, while building connections and&amp;nbsp;capacity.
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/aspiration">Aspiration</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/oss">OSS</category>
+ <pubDate>Mon, 17 Aug 2009 19:38:52 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">98 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

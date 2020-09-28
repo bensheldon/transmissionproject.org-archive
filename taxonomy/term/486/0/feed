@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - software engineer</title>
+ <link>http://transmissionproject.org/taxonomy/term/486/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Software Developer</title>
+ <link>http://transmissionproject.org/content/software-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Tue, 02 Nov 2010 19:32:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">747 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:50:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">496 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:48:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">495 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/debugging">debugging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Thu, 21 Oct 2010 18:45:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">494 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

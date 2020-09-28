@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - Drupal</title>
+ <link>http://transmissionproject.org/taxonomy/term/170/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Marketing and Design</title>
+ <link>http://transmissionproject.org/content/marketing-and-design</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 20:13:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">846 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title> Online Community Manager </title>
+ <link>http://transmissionproject.org/content/online-community-manager-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-community-building">online community building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 02 Nov 2010 19:07:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">744 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Open Media Project Developer</title>
+ <link>http://transmissionproject.org/content/open-media-project-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/consulting">consulting</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 02 Nov 2010 16:55:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">729 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website and Online Development</title>
+ <link>http://transmissionproject.org/content/website-and-online-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 18:07:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">709 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Development</title>
+ <link>http://transmissionproject.org/content/ctc-development-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Fri, 29 Oct 2010 16:17:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">687 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>&quot;DigitalBicycle&quot; Program Development</title>
+ <link>http://transmissionproject.org/content/digitalbicycle-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/logo">logo</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/php">php</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/presentation">presentation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Fri, 29 Oct 2010 15:07:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">683 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Webmaster and Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/webmaster-and-outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/webmaster">webmaster</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 28 Oct 2010 15:44:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">663 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-18</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/energy-conservation-education">energy conservation education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-justice">social justice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-justice-education">social justice education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Tue, 26 Oct 2010 18:16:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">617 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Youth Media Program Building</title>
+ <link>http://transmissionproject.org/content/youth-media-program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-database">media database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-literacy">media literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-media">youth media</category>
+ <pubDate>Tue, 26 Oct 2010 17:04:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">604 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website and Database Building</title>
+ <link>http://transmissionproject.org/content/website-and-database-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/excel">excel</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 26 Oct 2010 16:31:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">595 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - computer skill training</title>
+ <link>http://transmissionproject.org/taxonomy/term/578/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Development Project, Technology Coordinator</title>
+ <link>http://transmissionproject.org/content/community-development-project-technology-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/accessibility">accessibility</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skill-training">computer skill training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/development">development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-lieteracy">media lieteracy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-development">web development</category>
+ <pubDate>Thu, 04 Nov 2010 17:46:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">778 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Youth Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-youth-program-building-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skill-training">computer skill training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/20">http://www.capaymovement.net/</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Thu, 28 Oct 2010 17:35:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">675 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-19</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skill-training">computer skill training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers-in-the-home">computers in the home</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <pubDate>Tue, 26 Oct 2010 20:39:11 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">638 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

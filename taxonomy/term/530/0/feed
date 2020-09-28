@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - archiving</title>
+ <link>http://transmissionproject.org/taxonomy/term/530/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Story Archiving</title>
+ <link>http://transmissionproject.org/content/digital-story-archiving</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Tue, 02 Nov 2010 17:30:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">733 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>eLearning Project Developer</title>
+ <link>http://transmissionproject.org/content/elearning-project-developer-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archive-digitization">archive digitization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/elearning">elearning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 18:00:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">708 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>eLearning Project Developer</title>
+ <link>http://transmissionproject.org/content/elearning-project-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archive-digitization">archive digitization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/elearning">elearning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 18:00:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">707 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Digital Archive Program Development</title>
+ <link>http://transmissionproject.org/content/digital-archive-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archive-digitization">archive digitization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-building">program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-implementation">program implementation</category>
+ <pubDate>Mon, 01 Nov 2010 17:26:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">703 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Curricula Development and Program Building</title>
+ <link>http://transmissionproject.org/content/curricula-development-and-program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 16:31:05 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">695 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Archiving Local History Online</title>
+ <link>http://transmissionproject.org/content/archiving-local-history-online</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio-recording">audio recording</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/history">history</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interview">interview</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/19">storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/veterans">veterans</category>
+ <pubDate>Mon, 25 Oct 2010 17:02:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">565 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

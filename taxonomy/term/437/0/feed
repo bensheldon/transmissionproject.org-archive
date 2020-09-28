@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - youth center</title>
+ <link>http://transmissionproject.org/taxonomy/term/437/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth  Community Service Coordinator</title>
+ <link>http://transmissionproject.org/content/youth-community-service-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-lab">computer lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-assistance">CTC assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-recruitment">Volunteer recruitment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-center">youth center</category>
+ <pubDate>Wed, 03 Nov 2010 19:46:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">768 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Heart of Los Angeles Youth, Inc.</title>
+ <link>http://transmissionproject.org/projects/heart-of-los-angeles-youth-inc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-center">youth center</category>
+ <georss:point>34.061437 -118.282544</georss:point>
+ <pubDate>Tue, 19 Oct 2010 18:26:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">391 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

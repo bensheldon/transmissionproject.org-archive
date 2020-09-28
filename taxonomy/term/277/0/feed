@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - values</title>
+ <link>http://transmissionproject.org/taxonomy/term/277/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Technology Center Values</title>
+ <link>http://transmissionproject.org/resources/2010/4/community-technology-center-values</link>
+ <description>&lt;p&gt;An overview form for volunteers for the community technology center. Prepared by corps member Scott&amp;nbsp;Reed. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/community-technology-center-values#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/communication">communication</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/guideline">guideline</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/values">values</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Community_Technology_Center_Values.pdf" length="23641" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 18:40:11 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">220 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

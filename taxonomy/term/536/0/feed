@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - PSA</title>
+ <link>http://transmissionproject.org/taxonomy/term/536/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Program Building, Outreach, and Support</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-outreach-and-support</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/bilingual">bilingual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/psa">PSA</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <pubDate>Thu, 28 Oct 2010 17:09:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">672 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach and Video Editor &amp; Youth Media Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-and-video-editor-youth-media-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/newsletter">newsletter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/psa">PSA</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-relations">public relations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-editing">video editing</category>
+ <pubDate>Mon, 25 Oct 2010 17:58:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">574 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

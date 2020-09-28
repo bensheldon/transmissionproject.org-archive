@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - grants</title>
+ <link>http://transmissionproject.org/taxonomy/term/145/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>BTOP Data and News</title>
+ <link>http://transmissionproject.org/current/2010/2/btop-data-and-news</link>
+ <description>&lt;p&gt;We&amp;#8217;ve been fervently tracking the &lt;a href=&quot;http://broadbandusa.gov&quot;&gt;&lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt; (Broadband Technology Opportunity Program)&lt;/a&gt; awards process: 1st round winners are slowly dribbling out while the 2nd round application deadline looms a month&amp;nbsp;away.&lt;/p&gt;
+&lt;p&gt;In addition to the &lt;a href=&quot;http://transmissionproject.org/current/2009/11/ntia-broadband-access-data&quot;&gt;application spreadsheets&lt;/a&gt; we&amp;#8217;ve been updating, we&amp;#8217;ve reached beyond what&amp;#8217;s in the database to directly collect data from applications. A survey went out yesterday to 1100+ applicants who have either had their first round application turned down for funding or are still awaiting a decision. In collaboration with the New America Foundation, we developed a quick set of questions to track what feedback applicants can expect, and develop a deeper understanding of what applicants submitted beyond what&amp;#8217;s currently publicly available. Because of fast approaching deadlines, the report will be available in 2&amp;nbsp;weeks.&lt;/p&gt;
+&lt;p&gt;Fortunately, some journalists are also digging into the granting process. Here are a few recently published&amp;nbsp;articles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://abcnews.go.com/Technology/wirestory?id=8819964&quot;&gt;Tough Choices for Feds Giving out Broadband Money: With 2,200 broadband applications, competition for billions in stimulus dollars is intense&lt;/a&gt;&lt;/strong&gt; - by Joelle&amp;nbsp;Tessler
+&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.boiseweekly.com/boise/fiber-optics-not-magic-beans/Content?oid=1482869&quot;&gt;Fiber Optics, Not Magic Beans: Rural Idaho hopes to liberate broadband through stimulus&lt;/a&gt;&lt;/strong&gt; - by Gavin Dahl&lt;br /&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Asked why Qwest sat out the first round, several sources suggested the nation&amp;#8217;s most powerful companies won&amp;#8217;t take any money that forces them to sign the government&amp;#8217;s nondiscrimination policy&amp;#8211;the rules state that grantees &amp;#8220;not favor any lawful Internet applications and content over&amp;nbsp;others.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;#8230;&lt;/p&gt;
+&lt;p&gt;According to a loud chorus of applicants, Rep. Walt Minnick&amp;#8217;s office took the lead in helping the Idaho dozen prepare&amp;nbsp;applications.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;dquo&quot;&gt;&amp;#8220;&lt;/span&gt;Although Walt voted against the stimulus bill, he recognized once it did pass, it was his job to get as much money for Idaho as possible,&amp;#8221; Minnick spokesman John Foster&amp;nbsp;said.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.boiseweekly.com/CityDesk/archives/2010/02/09/mapping-out-the-jedi-mind-trick&quot;&gt;Mapping out the Jedi Mind Trick&lt;/a&gt;&lt;/strong&gt; - by Gavin Dahl&lt;br /&gt;
+&lt;blockquote&gt;&lt;p&gt;
+[Hannah Miller], the activist [national field director of the Media and Democracy Coalition], hopes the stimulus delivers funds to projects that improve rural access to affordable high-speed Internet. &amp;#8220;There&amp;#8217;s a different moral weight to these phone and cable companies than if they had, say, a peanut brittle monopoly. This is about access to&amp;nbsp;information.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;dquo&quot;&gt;&amp;#8220;&lt;/span&gt;Our role is to try to encourage as many community partners to get involved as possible. Community involvement is what makes or breaks this thing. You&amp;#8217;re asking folks to participate in something a great deal of people are intimidated&amp;nbsp;by.&amp;#8221;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.npr.org/templates/story/story.php?storyId=123409454&quot;&gt;$7.2 Billion For Broadband Is Largely Unallocated&lt;/a&gt;&lt;/strong&gt; - by Joel Rose (via Todd Wolfson at the &lt;a href=&quot;http://mediamobilizing.org/&quot;&gt;Media Mobilizing Project&lt;/a&gt;)&lt;br /&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;span class=&quot;dquo&quot;&gt;&amp;#8220;&lt;/span&gt;They aren&amp;#8217;t leading, they aren&amp;#8217;t following, and they won&amp;#8217;t get out of the way,&amp;#8221; says Craig Settles, author of Fighting The Next Good Fight, a book about broadband business strategy. He says the nation&amp;#8217;s biggest telecom companies have generally decided not to apply for federal stimulus&amp;nbsp;money.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;dquo&quot;&gt;&amp;#8220;&lt;/span&gt;They&amp;#8217;re not going to put proposals on the table because they don&amp;#8217;t like the rules,&amp;#8221; Settles says. &amp;#8220;Yet they&amp;#8217;re not going to cooperate with the entities that are going after the&amp;nbsp;money.&amp;#8221;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.newwest.net/topic/article/more_legislators_question_idaho_education_network/C564/L564/&quot;&gt;More Legislators Question Idaho Education Network&lt;/a&gt;&lt;/strong&gt; - by Sharon Fisher (via Gavin&amp;nbsp;Dahl)&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://transmissionproject.org/current/2010/2/btop-data-and-news#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grants">grants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/journalism">journalism</category>
+ <pubDate>Thu, 11 Feb 2010 21:19:07 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">170 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>NTIA Broadband Proposal Application Data Spreadsheet</title>
+ <link>http://transmissionproject.org/current/2009/11/ntia-broadband-access-data</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/BroadbandUSA_wordle-500px.png&quot; alt=&quot;Broadband Applications Word Cloud&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://broadbandusa.gov/index&quot;&gt;BroadbandUSA.gov&lt;/a&gt; offers a &lt;a href=&quot;http://www.ntia.doc.gov/broadbandgrants/applications/search.cfm&quot;&gt;searchable database&lt;/a&gt; of &lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;BIP&lt;/span&gt; applications that have been made for broadband funding as part of the American Recovery and Reinvestment Act of 2009. But if spreadsheets are more your speed, you can download one below (sorted by&amp;nbsp;date):&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2009/11/ntia-broadband-access-data#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/applications">applications</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grants">grants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mashup">mashup</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spreadsheet">spreadsheet</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/BroadbandUSA_Apps_11-10-09.xls" length="1378816" type="application/vnd.ms-excel" />
+ <pubDate>Tue, 10 Nov 2009 21:27:04 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">118 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

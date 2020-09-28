@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - mashup</title>
+ <link>http://transmissionproject.org/taxonomy/term/147/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>NTIA Broadband Proposal Application Data Spreadsheet</title>
+ <link>http://transmissionproject.org/current/2009/11/ntia-broadband-access-data</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/BroadbandUSA_wordle-500px.png&quot; alt=&quot;Broadband Applications Word Cloud&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://broadbandusa.gov/index&quot;&gt;BroadbandUSA.gov&lt;/a&gt; offers a &lt;a href=&quot;http://www.ntia.doc.gov/broadbandgrants/applications/search.cfm&quot;&gt;searchable database&lt;/a&gt; of &lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;BIP&lt;/span&gt; applications that have been made for broadband funding as part of the American Recovery and Reinvestment Act of 2009. But if spreadsheets are more your speed, you can download one below (sorted by&amp;nbsp;date):&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2009/11/ntia-broadband-access-data#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/applications">applications</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grants">grants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mashup">mashup</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spreadsheet">spreadsheet</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/BroadbandUSA_Apps_11-10-09.xls" length="1378816" type="application/vnd.ms-excel" />
+ <pubDate>Tue, 10 Nov 2009 21:27:04 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">118 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - fcc regulations</title>
+ <link>http://transmissionproject.org/taxonomy/term/608/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Regulatory Research VISTA</title>
+ <link>http://transmissionproject.org/content/regulatory-research-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fcc">FCC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fcc-regulations">fcc regulations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/legal">legal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-government">open government</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Tue, 02 Nov 2010 15:07:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">720 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Research and Technology VISTA</title>
+ <link>http://transmissionproject.org/content/research-and-technology-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fcc-regulations">fcc regulations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-community-building">online community building</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 17:37:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">704 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

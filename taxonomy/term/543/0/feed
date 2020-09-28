@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - online communities</title>
+ <link>http://transmissionproject.org/taxonomy/term/543/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology, Social Innovation, and Civic Participation: What&#039;s the Next Step?</title>
+ <link>http://transmissionproject.org/events/2010/12/technology-social-innovation-and-civic-participation-whats-the-next-step</link>
+ <description>&lt;p&gt;Disaster, fraud and crime reporting sites provide information to civic authorities. AmberAlert has more than 7 million users who help with information on child abductions, and SERVE.GOV enables citizens to volunteer for national parks, museums and other institutions. These are just a few examples of digital tools &amp;#8211; from social networking applications, to microblogging (e.g. Twitter), to recommendation sites like Ushahidi &amp;#8211; that represent the new frontier of technology-mediated social participation. Whether dealing with a natural disaster, expanding health care coverage, or campaigning to make a forest a national landmark, governments and private citizens alike have found digital tools to be an effective means of reaching the&amp;nbsp;masses.&lt;/p&gt;
+&lt;p&gt;But there are also clear challenges when using technology in this realm, including limited scale and potential privacy violations. Please join us as we build on two recent National Science Foundation workshops to discuss the advantages and pitfalls of social innovation and civic participation in this brave new technology-mediated&amp;nbsp;world.&lt;/p&gt;
+&lt;p&gt;Wednesday, December 1, 2010&lt;br /&gt;
+3:30 p.m. - 4:45&amp;nbsp;p.m.&lt;/p&gt;
+&lt;p&gt;The New America Foundation&lt;br /&gt;
+1899 L St. NW, Suite 400&lt;br /&gt;
+Washington, D.C.&amp;nbsp;20036&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/civic-participation">civic participation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/government">government</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-communities">online communities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-innovation">social innovation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Tue, 30 Nov 2010 16:18:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">901 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>&#039;DigitalBicycle&#039; Online Communities Developer</title>
+ <link>http://transmissionproject.org/content/digitalbicycle-online-communities-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-building">community building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-communities">online communities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-community-building">online community building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <pubDate>Mon, 25 Oct 2010 18:22:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">578 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

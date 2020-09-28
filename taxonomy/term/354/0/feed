@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - proofing</title>
+ <link>http://transmissionproject.org/taxonomy/term/354/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>WSLR Brochure</title>
+ <link>http://transmissionproject.org/resources/2010/9/wslr-brochure</link>
+ <description>&lt;p&gt;Corps member David Beaton did the concept, some of the writing, proofing, and photoshopping of this brochure for &lt;a href=&quot;http://wslr.org/&quot;&gt;WSLR&lt;/a&gt; in Miami,&amp;nbsp;FL.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/wslr-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/concept">concept</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/photoshop">photoshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proofing">proofing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/WSLR_Brochure_091910.pdf" length="1295604" type="application/pdf" />
+ <pubDate>Mon, 27 Sep 2010 15:11:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">288 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

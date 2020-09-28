@@ -1,0 +1,58 @@
+
+.front-highlight {
+font-size: 1.5em;
+color: #260f54;
+font-style: italic;
+}
+
+
+/**
+ * Bracketed Lists
+ */
+
+.bracket {
+	background: url(images/flare/bracket-middle.png) no-repeat 0 center;
+	padding:0;
+
+}
+
+.bracket {
+	list-style-type: none;
+
+}
+
+.bracket li {
+	list-style-image: none;
+}
+
+.bracket .bracket-first {
+	background: url(images/flare/bracket-top.png) no-repeat left top;
+}
+
+.bracket .bracket-content {
+	padding-left: 10px;
+}
+
+.bracket .bracket-last {
+	background: url(images/flare/bracket-bottom.png) no-repeat left bottom;
+}
+
+/**
+ * Breakout Box: Dot screen offset
+ */
+
+.breakout-box.outside {
+		background: url(images/flare/dot-screen-ltprpl.png);
+		margin-right: 4px;
+		margin-left: -4px;
+}
+
+.breakout-box.inside {
+	border: 2px solid #000;
+	margin: ;
+	position: relative;
+	top: -5px;
+	right: -4px;
+	padding: 0 20px;
+	font-weight: ;
+}

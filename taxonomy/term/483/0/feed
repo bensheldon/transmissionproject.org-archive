@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - community mapping</title>
+ <link>http://transmissionproject.org/taxonomy/term/483/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Engagement</title>
+ <link>http://transmissionproject.org/content/community-engagement-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-engagement">community engagement</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-mapping">community mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <pubDate>Fri, 22 Oct 2010 15:43:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">522 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach Coordinator </title>
+ <link>http://transmissionproject.org/content/outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-mapping">community mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/sustainability">sustainability</category>
+ <pubDate>Thu, 21 Oct 2010 18:02:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">489 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

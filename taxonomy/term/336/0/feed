@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - cms</title>
+ <link>http://transmissionproject.org/taxonomy/term/336/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Developer</title>
+ <link>http://transmissionproject.org/content/website-developer-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 19:07:31 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">839 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Website and Online Development</title>
+ <link>http://transmissionproject.org/content/website-and-online-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Mon, 01 Nov 2010 18:07:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">709 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Webmaster and Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/webmaster-and-outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/webmaster">webmaster</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 28 Oct 2010 15:44:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">663 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Online Community Manager</title>
+ <link>http://transmissionproject.org/content/online-community-manager</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-community-building">online community building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/staff-training">staff training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 26 Oct 2010 19:30:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">632 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CMS/CRM system comparison chart</title>
+ <link>http://transmissionproject.org/resources/2010/10/cmscrm-system-comparison-chart</link>
+ <description>&lt;p&gt;An initial look into potential new CMS/CRM systems for &lt;a href=&quot;http://kbcs.fm/site/PageServer&quot;&gt;KBCS&lt;/a&gt; by corps member Amber Cortez. The comparison chart lines up their top three contenders by price, and other&amp;nbsp;factors.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/cmscrm-system-comparison-chart#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/comparison">comparison</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/crm">crm</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/CMS &amp; DATABASE SPREADSHEET KBCS.xls" length="27648" type="application/vnd.ms-excel" />
+ <pubDate>Mon, 04 Oct 2010 20:14:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">304 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>WordCamp Philly</title>
+ <link>http://transmissionproject.org/events/2010/10/wordcamp-philly</link>
+ <description>&lt;p&gt;WordCamp Philly 2010 is the first WordCamp to be held in the City of Brotherly Love. The event will take place on Saturday October 30, 2010 at Alter Hall, home of the Fox School of Business and Management, on Temple University’s Main Campus in North Philadelphia. It’s a complete day, organized by the local community, of learning about, loving, and discussing the WordPress&amp;nbsp;platform.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wordpress">wordpress</category>
+ <pubDate>Mon, 20 Sep 2010 17:52:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">274 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Drupalcon Chicago</title>
+ <link>http://transmissionproject.org/events/2011/03/drupalcon-chicago</link>
+ <description>&lt;p&gt;In March of 2011, thousands of Drupal users, developers, designers, evaluators and businesspeople will descend on Chicago&amp;#8217;s Sheraton Hotel and Towers for sessions, talks, code sprints, and more at DrupalCon Chicago. Whether you&amp;#8217;re already using Drupal or considering it for your company or organization, you won&amp;#8217;t want to miss out on this one-of-a-kind&amp;nbsp;event.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <pubDate>Mon, 20 Sep 2010 17:47:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">272 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

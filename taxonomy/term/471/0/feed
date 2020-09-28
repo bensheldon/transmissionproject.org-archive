@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - computer acquisition</title>
+ <link>http://transmissionproject.org/taxonomy/term/471/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Afterschool Fundraising and Development</title>
+ <link>http://transmissionproject.org/content/ctc-afterschool-fundraising-and-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-acquisition">computer acquisition</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-lab">computer lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Tue, 23 Nov 2010 17:20:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">886 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Outreach and Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-outreach-and-program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-acquisition">computer acquisition</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-relations">public relations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Tue, 26 Oct 2010 19:56:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">637 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Marketing and Outreach</title>
+ <link>http://transmissionproject.org/content/marketing-and-outreach-4</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-acquisition">computer acquisition</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-relations">public relations</category>
+ <pubDate>Tue, 26 Oct 2010 16:36:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">596 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC assistance</title>
+ <link>http://transmissionproject.org/content/ctc-assistance-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/adult-education">adult education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-acquisition">computer acquisition</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-literacy">digital literacy</category>
+ <pubDate>Thu, 21 Oct 2010 16:38:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">475 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,891 @@
+# Use the language as a way to express structures with the
+# least punctuation.  The connector with the least punctuation
+# in Ruby is sequential execution.  To exploit that, set up a
+# context that can be manipulated by sequential execution to
+# build up the structure we want to express.
+# One might want to avoid such techniques in code intended to
+# be included in larger systems.  This is just scripting.
+# That's my excuse.
+
+class Area
+  attr_accessor :name
+  def basic_sanity_check_stories
+    @basic_sanity_check_stories ||= []
+    @basic_sanity_check_stories
+  end
+  def more_thorough_testing_stories
+    @more_thorough_testing_stories ||= []
+    @more_thorough_testing_stories
+  end
+  def stories
+    basic_sanity_check_stories + more_thorough_testing_stories
+  end
+end
+class Story
+  attr_accessor :statement, :area
+  attr_accessor :body_calls
+  def initialize
+    self.body_calls = []
+  end
+end
+
+class << self
+  def area name_for_it
+    $areas ||= []
+    new_area = Area.new
+    new_area.name = name_for_it
+    $areas << new_area
+    $current_area = new_area
+  end
+  def basic_sanity_check
+    $stories = $current_area.basic_sanity_check_stories
+  end
+  def more_thorough_testing
+    $stories = $current_area.more_thorough_testing_stories
+  end
+  def story its_statement
+    new_story = Story.new
+    new_story.statement = its_statement
+    new_story.area = $current_area
+    $stories << new_story
+    $current_html_target = new_story
+  end
+  # html tags
+  def p *args, &y
+    $current_html_target.body_calls << lambda{p *args, &y}
+  end
+end
+
+area "Editors"
+
+basic_sanity_check
+
+story "An administrator can register a person as an editor."
+
+p do
+  text "When registering a person as an editor, the"
+  text "administrator can (must?) set the password for the new"
+  text "editor."
+end
+p do
+  text "The automated test case"
+  tag :em, "20_basic_sanity/010_editors/010_create.sel"
+  text "provides a simple test of the requirement"
+  text "that the administrator must be able to register a"
+  text "person so that the system can know that person"
+  text "as an editor."
+end
+p do
+  text "This test case depends on the setup procedure having"
+  text "been run, which logs the session in as the"
+  text "administrator.  The setup procedure looks like a suite"
+  text "of two test cases under the directory"
+  tag :em, "10_setup"
+  text ".  The tests are arranged such that if you allow the"
+  text "test runner to run all the tests at once, it will run"
+  text "the setup suite right before it runs"
+  tag :em, "20_basic_sanity/010_editors/010_create.sel"
+  text ", thus fulfilling the latter's precondition of"
+  text "having the session already"
+  text "logged in as the administrator."
+end
+
+story "An administrator can change the password of an editor" +
+  " who is already registered."
+p do
+  text "The automated test case"
+  tag :em, "20_basic_sanity/010_editors/020_change_password"
+  text "provides a simple test of this ability."
+  text "It depends on the prior test case for its preconditions,"
+  text "those being that the session is logged in as the"
+  text "administrator and that the editor whose password"
+  text "we intend to change"
+  text "has already been described to the system as an editor."
+end
+
+story "An administrator can remove an editor."
+p do
+  text "The automated test case"
+  tag :em, "20_basic_sanity/010_editors/030_delete"
+  text "provides a simple test of this ability."
+  text "It depends on earlier test cases for its preconditions,"
+  text "those being that the session is logged in as the"
+  text "administrator and that the editor that we intend"
+  text "to remove"
+  text "has already been entered into the system."
+end
+
+story "A person registered as an editor can log in."
+p do
+  text "The automated test case"
+  tag :em, "20_basic_sanity/010_editors/060_sign_in.sel"
+  text "tests this capability."
+  text "The test depends on earlier tests for having set up the"
+  text "system to meet the precondition that the editor as whom"
+  text "we intend to sign in has already been entered in the"
+  text "system (and entered more recently than the last time"
+  text "removed)."
+end
+p do
+  text "This test case establishes a precondition on which all"
+  text "the subsequent tests in the \"basic sanity test\" suite"
+  text "depend, namely, that the session is"
+  text "logged in as an editor."
+end
+
+more_thorough_testing #nothing yet
+
+area "Form Submissions"
+# Determines whether the test operator has a sufficiently
+# submissive attitude.
+basic_sanity_check
+story "The editor can edit the list of notification e-mail" +
+  " addresses for a given submissive form page, via the " +
+  "'Form Submissions' section of the editorial portal " +
+  "of the CMS."
+p do
+  text "The automated test case,"
+  tag :em, "test/selenium/20_basic_sanity/020_form_submissions/" +
+    "010_change_notification_addrs_via_form_submissions_tab.html"
+  text "demonstrates this capability."
+end
+
+more_thorough_testing
+
+area "Events"
+basic_sanity_check
+story "An editor can create a calendar."
+  # A calendar is a calendar page and has to be created under
+  # pages.
+story "An editor can add an event."
+more_thorough_testing
+story "An event will no longer display after its expiry."
+story "An event must always belong to at least one calendar."
+
+area "Files"
+basic_sanity_check
+story "An editor can upload a file."
+story "The editor can set a name and a description for a new file."
+  # Currently the name space is flat.
+story "An editor can change the name and/or description of" +
+  " an existing file."
+story "An editor can delete a file."
+more_thorough_testing
+
+area "Images"
+basic_sanity_check
+story "An editor can create an image gallery."
+story "An editor can rename an existing image gallery."
+story "An editor can delete an image gallery."
+  # The effect is permanent and the images of course are deleted,
+  # too.
+story "An editor can upload an image to a gallery."
+  # limit 4 MB
+story "An editor can change the name of an image."
+story "An editor can change the caption of an image."
+story "An editor can delete an image."
+  # What happens about pages that have the image embedded?
+more_thorough_testing
+# What uniqueness rules apply to image names?
+
+area "Pages"
+basic_sanity_check
+story "An editor can create a page."
+story "The editor can give the new page a title."
+story "The editor can decide whether the new page should be" +
+  " published."
+story "The editor can decide whether the site navigation shall" +
+  " include the new page."
+story "An editor can edit an existing page."
+story "The editor can paste a selection of text from" +
+  " Microsoft Word onto a page."
+story "The editor can choose the \"format\" (or tag) of an" +
+  " element of text on a page."
+  # To any one of heading 1, heading 2, heading 3, ordinary
+  # paragraph, bulleted list, or numbered list.
+story "The editor can underline text."
+story "The editor can italicize text."
+story "The editor can embolden text."
+story "The editor can insert a link to another page on a page."
+story "The editor can place a link to a file on a page."
+story "The editor can link to an e-mail address on a page."
+  # but shouldn't, because of spammers
+story "The editor can link from a page to an arbitrary web page."
+story "The editor can insert an image on a page."
+  # The image has to have been uploaded to a gallery first.
+story "An editor can delete a page."
+  # The effect is permanent.
+  # Deleting a page that has descendents will delete them as well.
+story "Editors can nest new pages."
+more_thorough_testing
+
+area "Dashboard"
+basic_sanity_check
+story "The CMS will show recent editing activity in the Dashboard."
+  # Only to editors and administrators.
+  # The dashboard shows the activity for two months.
+more_thorough_testing
+
+# Want to convert story data into document sections in two passes.
+
+class Section
+  attr_accessor :subsections, :id_s, :hdr_txt
+  attr_accessor :body_calls
+  def initialize
+    self.body_calls = []
+    self.subsections = []
+  end
+end
+
+doc = Section.new
+doc.hdr_txt = "Plan for Testing the Content Management System"
+doc.subsections = []
+
+# Before converting the stories into document sections, write
+# an introductory section.
+
+this_section = Section.new
+this_section.hdr_txt = "Significance of This Document"
+doc.subsections << this_section
+$current_html_target = this_section
+p do
+  text "As the title of this document suggests, this document"
+  text "concerns itself with testing."
+  text "However, please note that the document lists"
+  text "stories about the usage of the system."
+  text "These stories, taken together, outline the requirements"
+  text "that the system is designed to fulfill."
+  text "Therefore, this document addresses requirements"
+  text "as well as testing."
+  text "After all, requirements and testing are fundamentally"
+  text "related, since the requirements of any system"
+  text "define the boundary between correct and incorrect"
+  text "behavior on the part of the system,"
+  text "and testing provides some means to judge whether"
+  text "the system meets the requirements when it is"
+  text "exercised."
+end
+
+# Cast the stories from the test plan into sections for this
+# document.
+
+class Story
+  def as_section
+    new_section = Section.new
+    new_section.hdr_txt = statement
+    new_section.body_calls = body_calls
+    new_section
+  end
+end
+
+this_section = Section.new
+this_section.hdr_txt = "Basic Sanity Check"
+doc.subsections << this_section
+$areas.each do |a|                # scary name
+  as = Section.new                # area section
+  this_section.subsections << as
+  as.hdr_txt = a.name
+  a.basic_sanity_check_stories.each do | story |
+    ss = story.as_section         # story section
+    as.subsections << ss
+  end
+end
+
+this_section = Section.new
+this_section.hdr_txt = "More Testing"
+doc.subsections << this_section
+$areas.each do |a|
+  as = Section.new
+  this_section.subsections << as
+  as.hdr_txt = a.name
+  a.more_thorough_testing_stories.each do | story |
+    ss = story.as_section
+    as.subsections << ss
+  end
+  if a.more_thorough_testing_stories.empty?
+  then
+    as.body_calls << lambda do p do
+     text "Currently the test plan does not offer any"
+     text "stories for more thorough testing of"
+     text a.name + "."
+    end end
+  end
+end
+
+# Need an appendix about running the automated test suite.
+
+this_section = Section.new
+this_section.hdr_txt =
+  "Appendix A: How to Run the Automated Tests"
+doc.subsections << this_section
+$current_section = this_section
+
+class << self
+  def p *args, &y # Will be redefined below.
+    $current_section.body_calls << lambda{p *args, &y}
+  end
+  def pre *args, &y # Could be redefined below.
+    $current_section.body_calls << lambda{tag :pre, *args, &y}
+  end
+  def a *args, &y # Will be redefined below.
+    $current_section.body_calls << lambda{a *args, &y}
+  end
+  def tag *args, &y # Will be redefined below.
+    $current_section.body_calls << lambda{tag *args, &y}
+  end
+end
+
+p do
+  text "The degree of automation of the automated tests does"
+  text "not suffice to"
+  text "relieve you of typing more than one command."
+  text "Several steps are required for setting up and running"
+  text "the tests.  However, the number of manual steps required"
+  text "to get the computer to do the automated tests remains"
+  text "fixed, regardless of how many test cases we include"
+  text "in the suite of automated tests."
+end
+p [
+  "First, it is necessary to clear out the database that you",
+  "use for testing.  To do that, you can position yourself in",
+  "the root directory of a copy of the system",
+  "(in which you have already set up config/database.yml and",
+  "for which you have already created the testing database)",
+  "and enter the",
+  "following commands in the shell:"
+]
+pre [
+  "rake db:migrate VERSION=0 RAILS_ENV=test",
+  "rm -rf public/uploaded_*",
+  "rake db:migrate RAILS_ENV=test",
+  "rake application:initialize RAILS_ENV=test"
+]
+p do
+  text "As I write, the attachment mechanism seems to be failing"
+  text "in the test environment.  Just to get going before"
+  text "bothering to solve that problem, let's try using the"
+  text "the development environment instead of the test"
+  text "environment.  If you do this, make sure that you are"
+  text "doing this in a copy of the system where you don't"
+  text "value any of the data you have in your development"
+  text "database.  This procedure will discard whatever you"
+  text "may have there."
+end
+pre [
+  "rake VERSION=0 db:migrate",
+  "rm -rf public/uploaded_*",
+  "rake db:migrate",
+  "rake application:initialize"
+]
+p [
+  "The above procedure may need refinement if, because of the",
+  "evolution of the Rails framework, any of the migrations",
+  "start failing to work, or if the amount of time it takes",
+  "to undo and redo the migrations becomes annoying."
+]
+p [
+  "In any event, the next step is to start up a server",
+  "process for",
+  "the testing.  For the following example, I use port 3011.",
+  "You might want to be in the habit of using distinct",
+  "port numbers for testing and development.  If you are",
+  "sharing a development environment with other programmers,",
+  "you should negotiate with them a regime for avoiding",
+  "clashing with each other on port numbers."
+]
+pre "script/server -e test -p 3011"
+p do
+  text "If we're not specifying the test environment,"
+  text "it's"
+end
+pre "script/server -p 3011"
+p [
+  "Once that starts, you want to aim a browser at",
+  '"/selenium" within the URI region served by the server',
+  "process you just started."
+]
+p [
+  "If you are browsing at a computer other",
+  "than the one running your server, and if",
+  "the hostname of the latter were, for",
+  'example, "ccts-2008-11-25", and',
+  "sticking with the same port number as above",
+  "then the following would be the URI to put in the address",
+  "field of your schnauzer:"
+]
+pre "http://ccts-2008-11-25:3011/selenium"
+p [
+  "On the other hand, if you are sitting in front of the",
+  "testing machine, you have to use \"localhost\" instead",
+  "for the hostname, so the URI in that case comes out like",
+  "this:"
+]
+pre "http://localhost:3011/selenium"
+p "To be continued . . ."
+
+this_section = Section.new
+this_section.hdr_txt = "Appendix B: How to Develop Test Cases"
+doc.subsections << this_section
+$current_section = this_section
+p do
+  text "The vehicle for developing test scenarios is Firefox."
+  text "You can test in any browser (and probably should test"
+  text "in all of them from time to time); however, only in"
+  text "Firefox do we have"
+  text "(as of this writing) a tool available to help you"
+  text "record an interaction."
+end
+p do
+  text "To install the tool in your personal configuration of"
+  text "Firefox on any given computer you use,"
+  text "the first step is to choose in the menu, Tools ->"
+  text "Add-ons."
+  text "Make sure the \"Selenium IDE\" extension is installed"
+  text "and enabled"
+  text '("IDE" stands for "Interactive Development Environment").'
+  text "It is available in the selection of add-ons that"
+  text "Firefox offers for installation."
+  text "You shouldn't have to worry about the location from"
+  text "which to load it."
+end
+p do
+  text "When you want to record a testing scenario, begin by"
+  text "opening the browser against a testing server that you"
+  text "will have started the same way as though you were going"
+  text "to run tests, as directed in the previous section of"
+  text "this document."
+end
+p do
+  text "Take whatever actions are necessary to get your database"
+  text "into the state appropriate for the start of the test"
+  text "case you want to compose."
+  text "Aim your browser at the base URL of the server you are"
+  text "testing."
+end
+p do
+  text "For further information about running the"
+  text '"Selenium IDE",'
+  text "consult"
+  r = "http://wiki.openqa.org/display/SIDE/Getting+Started" +
+    "+with+Selenium+IDE"
+  a r, :href => r
+  text "."
+end
+p do
+  text "When you want to start recording the scenario,"
+  text "choose Tools -> Selenium IDE."
+end
+p do
+  text "The Selenium \"IDE\" will come up as a little window"
+  text "of its own."
+  text "I find that it usually seems to come up with recording"
+  text "enabled.  The big red dot on the right near the top"
+  text "functions in effect as the \"record\" button."
+  text "If you hover your mouse pointer over it, you should"
+  text "see a hint come up that will state whether recording"
+  text "is on."
+end
+
+p do
+  text "At this point, for most of the kinds of test scenarios"
+  text "you will be recording, it may be a good idea to"
+  text 'load the "Base URL" field near the top of the Selenium'
+  text 'IDE windowlet with the same URL that would in the'
+  text 'browser get you to the home page of the server under'
+  text 'test.'
+end
+p <<'!'
+Then usually the next thing to do is to aim the browser at
+"/admin" relative to the base URL.  Initially, the display,
+in the Selenium IDE, of the steps of the test scenario you are
+constructing, will not show the "open /admin/" command.  However,
+it will show up after the next step.
+!
+p <<'!'
+The usual next thing to do is to click on the button in the
+CMS for the area you intend to work in, one of Pages, Images,
+Form Submissions, Editors, or whatever other areas get added in
+the future.
+!
+p <<"!"
+So then just continue interacting with the web site under
+test.  The Selenium IDE windowlet should reflect your actions
+in its growing table.
+!
+p <<"!"
+To make the test scenario into a test,
+you want to include one or more commands to
+make it verify that something that should be on the screen
+really made it there.  A fairly reasonable target for a check
+of this kind, in many cases, would be the confirmation message
+the web site puts up, for example,
+\"Successfully updated Contact Us\".  To append such a command
+to the scenario, sweep your cursor over the confirmation message,
+right click, and choose \"verifyTextPresent\" from the pop-up
+menu.
+!
+p <<"!"
+Next you will want to save the test script so you can incorporate
+it into the suite of tests stored with the source code of the
+CMS.
+!
+
+nil == <<'pfigliano'
+Unfortunately, at least as of this writing, we come to
+a frustrating aspect of the state of the technique.  None of
+the formats in which the Selenium IDE can save the test
+scenario exactly matches what we probably want to save it as
+for inclusion with the source.  It will be necessary to
+translate each new scenario manually.  Let's go through an
+example.
+!
+p <<"!"
+In the menu row at the top of the windowlet of the by-now famous
+Selenium IDE, choose File -> Export Test Case As -> Ruby -
+Selenium RC.
+!
+p <<"!"
+The result includes 20 lines or so of boilerplate code,
+which we do not need to keep.  The test case is represented as
+a method definition looking like this in our example:
+!
+tag :pre, <<'!'
+
+  @selenium.open "/admin/"
+  @selenium.click "link=Pages"
+  @selenium.wait_for_page_to_load "30000"
+  @selenium.click "//tr[@id='2']/td[5]/a"
+  @selenium.click "form_options_tab"
+  @selenium.type "page_form_recipients", "monitor@monitor.cctsbaltimore.org"
+  @selenium.click "save_button"
+  begin
+      assert @selenium.is_text_present("Successfully updated Contact Us")
+  rescue Test::Unit::AssertionFailedError
+      @verification_errors << $!
+  end
+!
+p do
+  text "Using two editor programs (one for global substitutions"
+  text "and another for twiddling on the screen), I mung the"
+  text "above, manually, into the following version:"
+end
+tag :pre, <<'!'
+open "/admin/"
+click "link=Pages"
+wait_for_page_to_load "30000"
+click "//tr[@id='2']/td[5]/a"
+click "form_options_tab"
+type "page_form_recipients", "monitor@monitor.cctsbaltimore.org"
+click "save_button"
+verify_text_present("Successfully updated Contact Us")
+!
+p do
+  text "Note that I changed"
+  tag :em, "is_text_present"
+  text "to"
+  tag :em, "verify_text_present"
+  text ".  This makes it possible to simplify away the"
+  text '"begin" . . . "assert" . . . "rescue" . . . "end"'
+  text "construction.  Also, you can see that in the format"
+  text "in which I'm suggesting here that you save the"
+  text "test scenarios, the explicit reference to"
+  text '"@selenium." is no longer necessary."
+end
+p do
+  text "As I write this, I save the above example"
+  text "as test/selenium/20_basic_sanity/020_form_submissions" +
+    "/020_change_notification_addrs_via_pages_tab.html"
+pfigliano
+
+p do
+  text ".  The"
+  tag :em, "selenium_on_rails"
+  text "plugin interprets the test scenarios."
+  text "It finds them in the test/selenium directory"
+  text "and its descendent directories and presents them when"
+  text "you follow the directions in the previous appendix."
+  text "For further information on the plugin, you can refer"
+  text "to vendor/plugins/selenium-on-rails/README.md relative"
+  text "to the project root."
+  text "However, some of the statements"
+  text "appearing there may deserve a grain of salt."
+  text "In particular, it says that you can export test cases"
+  text "from the Selenium IDE in .rsel format as accepted by the"
+  text "plugin, and I have not found a way to do that without"
+  text "manually editing the files."
+end
+
+this_section = Section.new
+this_section.hdr_txt = "Appendix C: Glossary"
+doc.subsections << this_section
+$current_section = this_section
+tag :div, :class => "table_pad" do
+  tag :table, :width => "100%"  do
+    tag :tr do
+      tag :th, "Term"
+      tag :th, "Definition"
+    end
+    tag :tr do
+      tag :td, "CMS"
+      tag :td, "Content-Management System" # too many nouns
+    end
+    tag :tr do
+      tag :td, "IDE"
+      tag :td, "Interactive Development Environment"
+    end
+  end
+end
+
+# Number the sections.
+
+class Section
+  attr_accessor :own_section_number, :parent
+  def header_with_section_number
+    section_number + ". " + hdr_txt
+  end
+  def section_number
+    prefix = parent && parent.parent ? parent.section_number + "." : ""
+    prefix + own_section_number.to_s
+  end
+  def id
+    prefix = parent && parent.parent ? parent.id + "_" : ""
+    prefix + own_section_number.to_s
+  end
+  def enumerate!
+    self.subsections ||= []
+    count = 0
+    subsections.each do |s|
+      s.parent = self
+      s.own_section_number = (count += 1)
+      s.enumerate!
+    end
+  end
+end
+doc.enumerate!
+
+# Cast the document as HTML.
+
+class << self
+  attr_accessor :indentation
+  def indent
+    self.indentation += 2
+  end
+  def undent
+    self.indentation -= 2
+  end
+  def output a_string
+    puts " " * indentation + a_string
+  end
+
+  def h a_string
+    a_string.gsub(/&/, "&amp;").gsub(/</, "&lt;").gsub(/>/, "&gt;")
+  end
+  def quote a_string
+    if Integer === a_string
+      a_string.to_s
+    else
+      "\"" + (h a_string).gsub(/"/, "&quot;") + "\""
+    end
+  end
+  def tag the_tag, *rest, &y
+    case rest.length
+    when 0
+      text = nil
+      options = {}
+    when 1
+      case rest[0]
+      when Hash
+        text = nil
+        options = rest[0]
+      else
+        text = rest[0]
+        options = {}
+      end
+    when 2
+      text = rest[0]
+      options = rest[1]
+    else
+      throw "Hey, too many arguments to 'tag'."
+    end
+    a = "<" + the_tag.to_s
+    options.each do |k, v|
+      a += " " + k.to_s + "=" + (quote v)
+    end
+    a += ">\n"
+    output a
+    a = ""
+    indent
+    text text
+    yield if block_given?
+    undent
+    output "</" + the_tag.to_s + ">"
+  end
+  def text some_text
+    output h(some_text) if String === some_text
+    if Array === some_text
+      some_text.each do |x|
+        output h(x)
+      end
+    end
+  end
+  def p *args, &y
+    tag :p, *args, &y
+  end
+  def ol *args, &y
+    tag :ol, *args, &y
+  end
+  def ul *args, &y
+    tag :ul, *args, &y
+  end
+  def li *args, &y
+    tag :li, *args, &y
+  end
+  def a *args, &y
+    tag :a, *args, &y
+  end
+end
+
+$header_tags_by_level = [:h1, :h2, :h3, :h4, :h5, :h6]
+
+class Section
+  def table_of_contents_into_builder__remaining_levels_ builder,
+      remaining_levels
+    return true if remaining_levels <= 0
+    builder.tag :ul do
+      subsections.each do |s|
+        builder.tag :li do
+          builder.tag :a, s.section_number + ".", 
+            :href => "#" + s.id
+          builder.tag :em, s.hdr_txt
+        end
+        s.table_of_contents_into_builder__remaining_levels_(
+          builder, remaining_levels - 1)
+      end
+    end
+  end
+  def into_builder__header_level__ builder, header_level
+    builder.tag :hr if header_level <= 1
+    builder.tag $header_tags_by_level[header_level], 
+      header_with_section_number, :id => id
+    body_calls.each do |c|
+      c.call
+    end
+    subsections.each do |s|
+      s.into_builder__header_level__ builder, header_level + 1
+    end
+  end
+end
+
+self.indentation = 0
+output "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\"" +
+  " \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">"
+tag :html, :xmlns => "http://www.w3.org/1999/xhtml",
+  :"xml:lang" => "en", :lang => "en" do
+  output "<!-- Mechanically generated; do not edit. -->"
+  tag :head do
+    tag :style do
+      # much like in reset.css
+      output "html, body, span, applet, object, iframe, h1,"
+      output "h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,"
+      output "acronym, address, big, cite, code, del, dfn, em,"
+      output "font, img, ins, kbd, q, s, samp, small, strike,"
+      output "strong, sub, sup, tt, var, b, u, i, center, dl,"
+      output "dt, dd, fieldset, form, label,"
+      output "legend, table, caption, tbody, tfoot, thead,"
+      output "tr, th, td, li, ol, ul {" # div
+      indent
+      output "margin: 0;"
+      output "padding: 0;"
+      output "border: 0;"
+      output "outline: 0;"
+      # output "font-size: 100%;"
+      output "background: transparent;"
+      undent
+      output "}"
+
+      output "h1, h2, h3, h4, h5, h6, p, blockquote, pre,"
+      output "code, center, .table_pad {"
+      output "  text-align: left;"
+      output "  margin: 0;" # auto
+      output "  padding: .1in .3in;"
+      output "}"
+
+      output "#inner, h1 {"
+      output "  width: 750px;"
+      output "  background-color: #FFFBEE;"
+      output "  text-align: left;"
+      output "  margin: 0 auto;"
+      output "  padding: 0 0 4px 0;"
+      output "}"
+
+      output "body {"
+      indent
+      output "font-family: \"Arial, Verdana, Trebuchet, " +
+        "Helvetica, Geneva, Sans, Sans-serif\";"
+      undent
+      output "}"
+
+      output "table {"
+      output "  border-collapse: collapse;"
+      output "}"
+      output "th, td {"
+      output "  padding-left:  4px;"
+      output "  padding-right: 4px;"
+      output "}"
+      output "td, th {"
+      output "  border: 1px solid #000;"
+      output "}"
+      output "th {text-align:center;}"
+
+      output "h1 {"
+      output "  text-align: center;"
+      output "  background-color: #FF0;"
+      output "  border: 1px solid #B00;"
+      output "}"
+
+      output "ol, ul {"
+      output "  list-style: none;"
+      output "  margin-left: .05in;"
+      output "  padding-left: .05in;"
+      output "  padding-top:    2px;"
+      output "  padding-bottom: 2px;"
+      output "}"
+
+      output "li {"
+      output "  margin:  0;"
+      output "  padding: 0;"
+      output "}"
+
+      output "p {"
+      output "  padding-top:    .05in;"
+      output "  padding-bottom: .06in;"
+      output "  font-size: 12pt;"
+      output "}"
+
+      output "pre {"
+      output "  padding-bottom: 0;"
+      output "}"
+    end
+    tag :title, doc.hdr_txt
+  end
+  outer_style = "background-color: #95B;" #777
+  outer_style += " margin: .6in auto .6in auto;"
+  outer_style += " text-align: center;"
+  tag :body, :style => outer_style do
+    tag :h1 do
+      tag :div, :style => "padding: 0.25in; font-size: 32pt;" do
+        text "Plan for Testing the"
+        tag :br
+        text "Content Management System"
+      end
+    end # fancy h1
+    tag :div, :id => "inner" do
+      tag :h2, "Table of Contents", :style => "text-align: center"
+      doc.table_of_contents_into_builder__remaining_levels_(
+        self, 2)
+      doc.subsections.each do |s|
+        s.into_builder__header_level__ self, 1
+      end
+    end # div#inner
+  end # body
+end # html

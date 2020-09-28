@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - PSO</title>
+ <link>http://transmissionproject.org/taxonomy/term/547/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>VISTA Leader</title>
+ <link>http://transmissionproject.org/content/vista-leader-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/conflict-management">conflict management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/management">management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/pso">PSO</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vista-leader">VISTA leader</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Mon, 25 Oct 2010 19:07:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">583 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

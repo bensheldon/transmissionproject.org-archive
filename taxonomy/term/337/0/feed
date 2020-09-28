@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - art and creativity</title>
+ <link>http://transmissionproject.org/taxonomy/term/337/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Open Video Conference</title>
+ <link>http://transmissionproject.org/events/2010/10/open-video-conference</link>
+ <description>&lt;p&gt;The Open Video Conference (OVC) is a multi-day summit of thought leaders in business, academia, art, and activism to explore the future of online video. The first Open Video Conference was host to over 800 guests, including 150 workshop leaders, panelists and speakers. Over 8,000 viewers tuned in from home to watch the live broadcast. The event earned coverage in WIRED, NewTeeVee, BBC News, Filmmaker Magazine, and The New&amp;nbsp;Yorker.&lt;/p&gt;
+&lt;p&gt;OVC is a showcase for technical and creative innovation in online video. But the Open Video Conference transcends technical details and grapples with some larger&amp;nbsp;questions:&lt;/p&gt;
+&lt;p&gt;With so much free stuff out there, how will creators get paid?&lt;br /&gt;
+Do we need to change the rules of copyright?&lt;br /&gt;
+Who decides what you watch?&lt;br /&gt;
+Who knows what you watch?&lt;br /&gt;
+Is online video a force for good? Or is there just too much weird stuff out&amp;nbsp;there?&lt;/p&gt;
+&lt;p&gt;This year, OVC is bigger and better. Join us for two days of inspiring talks, hands-on workshops, parties film screenings, and much more. Whether you are an artist, a developer, an entrepreneur, a student, or just a citizen of the web, OVC will spark your imagination for what’s possible with open&amp;nbsp;video.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art-and-creativity">art and creativity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/copyright">copyright</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/innovation">innovation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/2">online</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <pubDate>Mon, 20 Sep 2010 17:48:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">273 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

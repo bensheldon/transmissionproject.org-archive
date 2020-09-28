@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - guidelines</title>
+ <link>http://transmissionproject.org/taxonomy/term/34/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Instructions for E-Newsletter </title>
+ <link>http://transmissionproject.org/resources/2010/4/instructions-for-e-newsletter</link>
+ <description>&lt;p&gt;A set of guidelines and deadlines for the creation of Quote&amp;#8230;Unquote&amp;#8217;s E-Newsletter. Prepared by corps member Erica&amp;nbsp;Jones. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/instructions-for-e-newsletter#comments</comments>
+ <category domain="http://transmissionproject.org/taxonomy/term/9">communications</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/enewsletter">enewsletter</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/34">guidelines</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Instructions for enewsletter.doc" length="43008" type="application/msword" />
+ <pubDate>Thu, 29 Apr 2010 20:02:30 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">231 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Twitter Guidelines/Policies</title>
+ <link>http://transmissionproject.org/resources/2009/6/twitter-guidelinespolicies</link>
+ <description>&lt;p&gt;Guidelines and policies for staff members who are using the social networking tool Twitter. Created by VISTA Mary Chant at&amp;nbsp;MicroMentor.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/6/twitter-guidelinespolicies#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-social-media-resources">Featured Social Media Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/34">guidelines</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/32">twitter</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Twitter Guidelines for MM.doc" length="286720" type="application/msword" />
+ <pubDate>Mon, 29 Jun 2009 20:21:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">61 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

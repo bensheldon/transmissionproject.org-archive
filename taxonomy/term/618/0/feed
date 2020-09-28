@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - social network</title>
+ <link>http://transmissionproject.org/taxonomy/term/618/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Development and Online Community Management</title>
+ <link>http://transmissionproject.org/content/website-development-and-online-community-management</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database-development">database development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-network">social network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/staff-training">staff training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology-planning">technology planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-development">web development</category>
+ <pubDate>Thu, 04 Nov 2010 19:30:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">781 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Online Community Network Implementation</title>
+ <link>http://transmissionproject.org/content/online-community-network-implementation</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-community-building">online community building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-implementation">program implementation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-network">social network</category>
+ <pubDate>Tue, 02 Nov 2010 16:48:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">728 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

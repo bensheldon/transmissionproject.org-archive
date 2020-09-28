@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - google ads</title>
+ <link>http://transmissionproject.org/taxonomy/term/617/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology Enhancement Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-enhancement-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/google-ads">google ads</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Tue, 02 Nov 2010 16:23:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">727 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

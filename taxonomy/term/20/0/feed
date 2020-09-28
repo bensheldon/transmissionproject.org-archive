@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - http://www.capaymovement.net/</title>
+ <link>http://transmissionproject.org/taxonomy/term/20/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Youth Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-youth-program-building-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skill-training">computer skill training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/20">http://www.capaymovement.net/</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Thu, 28 Oct 2010 17:35:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">675 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Coalition for Asian Pacific American Youth (CAPAY)</title>
+ <link>http://transmissionproject.org/projects/coalition-for-asian-pacific-american-youth-capay</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/20">http://www.capaymovement.net/</category>
+ <georss:point>42.311830 -71.046066</georss:point>
+ <pubDate>Fri, 12 Jun 2009 21:01:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">29 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

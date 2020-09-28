@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - post-it notes</title>
+ <link>http://transmissionproject.org/taxonomy/term/687/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Programming Calendar for Internet Radio</title>
+ <link>http://transmissionproject.org/resources/2011/2/programming-calendar-for-internet-radio</link>
+ <description>&lt;p&gt;The monthly programming calendar for KONZ Internet Radio in Manhattan, Kansas made and used by corps member Megan&amp;nbsp;Andrews.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/mms_picture.jpg&quot; width=&quot;500&quot; alt=&quot;programming calendar&quot; /&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/2/programming-calendar-for-internet-radio#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/calendar">calendar</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-radio-resources">Featured Radio Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet-radio">internet radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/post-it-notes">post-it notes</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/schedule">schedule</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/mms_picture.jpg" length="948276" type="image/jpeg" />
+ <pubDate>Tue, 08 Feb 2011 16:22:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">917 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

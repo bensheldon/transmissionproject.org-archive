@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - grant database</title>
+ <link>http://transmissionproject.org/taxonomy/term/582/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Database Development</title>
+ <link>http://transmissionproject.org/content/database-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-database">grant database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it-assistance">IT assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Wed, 10 Nov 2010 19:59:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">844 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Fundraising</title>
+ <link>http://transmissionproject.org/content/fundraising</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-database">grant database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <pubDate>Wed, 27 Oct 2010 18:48:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">650 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - PR</title>
+ <link>http://transmissionproject.org/taxonomy/term/611/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Multi-media platform capacity building</title>
+ <link>http://transmissionproject.org/content/multi-media-platform-capacity-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/amplifying-community-organizations">amplifying community organizations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/communication">communication</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/communication-assistance-for-non-profits">Communication Assistance for Non-Profits</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/pr">PR</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv">tv</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <pubDate>Mon, 01 Nov 2010 18:37:11 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">713 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Media Justice Organizer</title>
+ <link>http://transmissionproject.org/content/media-justice-organizer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-justice">media justice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/pr">PR</category>
+ <pubDate>Mon, 01 Nov 2010 18:23:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">711 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

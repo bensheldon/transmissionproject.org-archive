@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - software</title>
+ <link>http://transmissionproject.org/taxonomy/term/77/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Software Engineer</title>
+ <link>http://transmissionproject.org/content/software-engineer-4</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Mon, 22 Nov 2010 20:40:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">867 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-9</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit-support-services">nonprofit support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/24">social networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance">technical assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tools-for-non-profits">tools for non-profits</category>
+ <pubDate>Mon, 08 Nov 2010 19:37:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">795 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Automated Court Forms Development</title>
+ <link>http://transmissionproject.org/content/automated-court-forms-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/forms">forms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/legal">legal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <pubDate>Wed, 03 Nov 2010 16:17:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">760 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Developer</title>
+ <link>http://transmissionproject.org/content/software-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software-engineer">software engineer</category>
+ <pubDate>Tue, 02 Nov 2010 19:32:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">747 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach and Trainer</title>
+ <link>http://transmissionproject.org/content/outreach-and-trainer-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-software">ctc software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Thu, 28 Oct 2010 15:29:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">662 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach and Trainer</title>
+ <link>http://transmissionproject.org/content/outreach-and-trainer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-implementation">CTC implementation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Thu, 28 Oct 2010 15:20:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">661 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-2</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <pubDate>Tue, 26 Oct 2010 18:42:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">624 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Development and Technical Training</title>
+ <link>http://transmissionproject.org/content/software-development-and-technical-training-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Tue, 26 Oct 2010 18:00:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">614 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Software Development and Technical Training</title>
+ <link>http://transmissionproject.org/content/software-development-and-technical-training</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <pubDate>Tue, 26 Oct 2010 17:59:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">612 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Article on eLearning Software</title>
+ <link>http://transmissionproject.org/resources/2010/10/article-on-elearning-software</link>
+ <description>&lt;p&gt;An article explaining eLearning possibilities by corps member Colin Pizarek and Idealware&amp;#8217;s Senior Editor, Chris&amp;nbsp;Bernard.&lt;/p&gt;
+&lt;p&gt;Link to Article: &lt;a href=&quot;http://www.idealware.org/articles/considering-elearning-software&quot; title=&quot;http://www.idealware.org/articles/considering-elearning-software&quot;&gt;http://www.idealware.org/articles/considering-elearning-software&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/article-on-elearning-software#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/best-practice">best practice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/elearning">elearning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <pubDate>Fri, 22 Oct 2010 17:49:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">538 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

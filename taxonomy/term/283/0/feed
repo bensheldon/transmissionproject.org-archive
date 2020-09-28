@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - article</title>
+ <link>http://transmissionproject.org/taxonomy/term/283/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Assistant Editor and Curriculum Coordinator</title>
+ <link>http://transmissionproject.org/content/assistant-editor-and-curriculum-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/newsletter">newsletter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Thu, 28 Oct 2010 18:42:54 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">678 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Article on the Importance of Radio in Disaster Situations</title>
+ <link>http://transmissionproject.org/resources/2010/10/article-on-the-importance-of-radio-in-disaster-situations</link>
+ <description>&lt;p&gt;An article on the importance of Community Radio Recovery in Haiti after the 2010 earthquake by corps member Brandy Doyle demonstrates the importance of having community radio in the United&amp;nbsp;States.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/article-on-the-importance-of-radio-in-disaster-situations#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disaster-relief">disaster relief</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-radio-resources">Featured Radio Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/haiti">haiti</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/haitidoc.doc" length="46592" type="application/msword" />
+ <pubDate>Fri, 22 Oct 2010 18:26:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">539 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Article on eLearning Software</title>
+ <link>http://transmissionproject.org/resources/2010/10/article-on-elearning-software</link>
+ <description>&lt;p&gt;An article explaining eLearning possibilities by corps member Colin Pizarek and Idealware&amp;#8217;s Senior Editor, Chris&amp;nbsp;Bernard.&lt;/p&gt;
+&lt;p&gt;Link to Article: &lt;a href=&quot;http://www.idealware.org/articles/considering-elearning-software&quot; title=&quot;http://www.idealware.org/articles/considering-elearning-software&quot;&gt;http://www.idealware.org/articles/considering-elearning-software&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/article-on-elearning-software#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/best-practice">best practice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/elearning">elearning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <pubDate>Fri, 22 Oct 2010 17:49:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">538 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Volunteer Stories</title>
+ <link>http://transmissionproject.org/resources/2010/4/ctc-volunteer-stories</link>
+ <description>&lt;p&gt;An article detailing the personal stories of &lt;span class=&quot;caps&quot;&gt;CTC&lt;/span&gt; volunteers. Prepared by corps member Scott&amp;nbsp;Reed. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/ctc-volunteer-stories#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-storytelling-resources">Featured Storytelling Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Microsoft Word - Community Technology Center Volunteers Share Their Stories.pdf" length="159187" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 19:13:25 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">228 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - science</title>
+ <link>http://transmissionproject.org/taxonomy/term/195/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ScienceQuest/EDC</title>
+ <link>http://transmissionproject.org/projects/sciencequestedc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills">computer skills</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/science">science</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>42.363713 -71.201811</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:51:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">438 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>IEEE International Conference on Web Services</title>
+ <link>http://transmissionproject.org/events/2010/07/ieee-international-conference-on-web-services</link>
+ <description>&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;IEEE&lt;/span&gt; International Conference on Web Services (&lt;span class=&quot;caps&quot;&gt;ICWS&lt;/span&gt;) has been a prime international forum for both researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Web services, identify emerging research topics, and define the future of Web-based services. &lt;span class=&quot;caps&quot;&gt;ICWS&lt;/span&gt; 2010 is sponsored by &lt;span class=&quot;caps&quot;&gt;IEEE&lt;/span&gt; Computer Society. It is the eighth year of gathering to formally explore &amp;#8220;Services&amp;#8221; Science and Technology in the field of Services Computing, which was formally promoted by &lt;span class=&quot;caps&quot;&gt;IEEE&lt;/span&gt; Computer Society since&amp;nbsp;2003.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/science">science</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-services">web services</category>
+ <pubDate>Mon, 14 Dec 2009 20:39:07 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">145 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

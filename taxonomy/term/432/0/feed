@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - community technology center</title>
+ <link>http://transmissionproject.org/taxonomy/term/432/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Westside Youth Technical Entrepreneur Center</title>
+ <link>http://transmissionproject.org/projects/westside-youth-technical-entrepreneur-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/business-aid">business aid</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/urban">urban</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>41.880335 -87.731158</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:26:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">458 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>The Timothy Smith Network</title>
+ <link>http://transmissionproject.org/projects/the-timothy-smith-network</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <georss:point>42.329695 -71.095576</georss:point>
+ <pubDate>Wed, 20 Oct 2010 17:47:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">450 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Technology for All</title>
+ <link>http://transmissionproject.org/projects/technology-for-all</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-divide">digital divide</category>
+ <georss:point>29.707203 -95.278973</georss:point>
+ <pubDate>Wed, 20 Oct 2010 17:17:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">443 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>ScienceQuest/EDC</title>
+ <link>http://transmissionproject.org/projects/sciencequestedc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills">computer skills</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/science">science</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>42.363713 -71.201811</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:51:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">438 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Sand Point CTC (LIHI)</title>
+ <link>http://transmissionproject.org/projects/sand-point-ctc-lihi</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/affordable-housing">affordable housing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/housing">housing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <georss:point>47.614217 -122.348542</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:49:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">437 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Realizing Every Community Asset Foundation (RECA) / Rainier VISTA</title>
+ <link>http://transmissionproject.org/projects/realizing-every-community-asset-foundation-reca-rainier-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/free-net">free-net</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>46.211246 -119.137234</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:35:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">434 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Pui Tak Center</title>
+ <link>http://transmissionproject.org/projects/pui-tak-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/esl">ESL</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/religious-institution">religious institution</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>41.852366 -87.632061</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:20:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">433 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Playing to Win (PTW)</title>
+ <link>http://transmissionproject.org/projects/playing-to-win-ptw</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <georss:point>40.714353 -74.005973</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:50:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">428 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Operation P.E.A.C.E. Boston</title>
+ <link>http://transmissionproject.org/projects/operation-peace-boston</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills">computer skills</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/esl">ESL</category>
+ <georss:point>42.343276 -71.098339</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:19:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">421 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Open Spaces CTC</title>
+ <link>http://transmissionproject.org/projects/open-spaces-ctc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <georss:point>46.996514 -120.547847</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:13:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">420 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - immigrants</title>
+ <link>http://transmissionproject.org/taxonomy/term/451/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Long Island City CTC Outreach</title>
+ <link>http://transmissionproject.org/content/long-island-city-ctc-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-needs-assessment">community needs assessment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-lab">computer lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-development">ctc development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Mon, 22 Nov 2010 19:45:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">864 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-14</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/esl">ESL</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinator">volunteer coordinator</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Mon, 25 Oct 2010 15:32:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">551 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CAMINOS Pathways Learning Center</title>
+ <link>http://transmissionproject.org/projects/caminos-pathways-learning-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs-training">jobs training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <georss:point>37.760223 -122.419194</georss:point>
+ <pubDate>Fri, 22 Oct 2010 16:21:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">528 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Boat People SOS - Atlanta, GA</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-atlanta-ga</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>33.900351 -84.273615</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:23:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">485 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Boat People SOS - Washington, DC</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-washington-dc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>38.895112 -77.036366</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:21:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">484 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Boat People SOS - Virginia</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-virginia</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>38.858059 -77.141629</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:18:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">482 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Community Technology Empowerment Project</title>
+ <link>http://transmissionproject.org/projects/community-technology-empowerment-project</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills">computer skills</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-divide">digital divide</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <georss:point>44.963660 -93.198591</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:10:05 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">454 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Pui Tak Center</title>
+ <link>http://transmissionproject.org/projects/pui-tak-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/esl">ESL</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/religious-institution">religious institution</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>41.852366 -87.632061</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:20:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">433 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

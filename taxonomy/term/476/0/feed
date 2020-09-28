@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - inventory</title>
+ <link>http://transmissionproject.org/taxonomy/term/476/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-4</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-literacy-training">digital literacy training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory">inventory</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 21 Oct 2010 17:06:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">480 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - example</title>
+ <link>http://transmissionproject.org/taxonomy/term/364/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Sample Media Deconstruction</title>
+ <link>http://transmissionproject.org/resources/2010/9/sample-media-deconstruction</link>
+ <description>&lt;p&gt;Two examples of media deconstruction written by corps member Candelario&amp;nbsp;Vazquez.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/sample-media-deconstruction#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/example">example</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-media-justice-resources">Featured Media Justice Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-deconstruction">media deconstruction</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Illegal Alien Deconstruction.pdf" length="112050" type="application/pdf" />
+ <pubDate>Tue, 28 Sep 2010 18:29:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">293 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

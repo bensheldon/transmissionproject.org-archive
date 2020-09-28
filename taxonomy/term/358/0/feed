@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - wireless network</title>
+ <link>http://transmissionproject.org/taxonomy/term/358/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Organizing and Wireless Network Deployment</title>
+ <link>http://transmissionproject.org/content/community-organizing-and-wireless-network-deployment</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/survey">survey</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-support">technical support</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wiki">wiki</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 02 Nov 2010 17:52:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">736 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Wireless Network Installation and Community Outreach</title>
+ <link>http://transmissionproject.org/content/wireless-network-installation-and-community-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-mesh-network">wireless mesh network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 26 Oct 2010 17:07:32 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">605 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach Coordinator and Wireless Network Installation</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-and-wireless-network-installation</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/networks">networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 26 Oct 2010 16:57:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">601 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Reno Apartments Wireless Plan</title>
+ <link>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan</link>
+ <description>&lt;p&gt;The plan for Reno Apartments Wireless Mesh Deployment by corps member Melissa&amp;nbsp;Niiya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/floorplan">floorplan</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/renoPlan.doc" length="239104" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:36:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">290 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Network Volunteer Training Curriculum</title>
+ <link>http://transmissionproject.org/resources/2010/9/network-volunteer-training-curriculum</link>
+ <description>&lt;p&gt;A Network Volunteer Training Curriculum made by corps member Melissa Niiya for the &lt;a href=&quot;http://www.ltsc.org/&quot;&gt;Little Tokyo Service Center&lt;/a&gt; in Los Angeles,&amp;nbsp;Ca.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/network-volunteer-training-curriculum#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum">curriculum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Network_Volunteer_Training_Curriculum.doc" length="2252800" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:33:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">289 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

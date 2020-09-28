@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - internet training</title>
+ <link>http://transmissionproject.org/taxonomy/term/639/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Outreach and Training </title>
+ <link>http://transmissionproject.org/content/ctc-outreach-and-training-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet-training">internet training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <pubDate>Tue, 09 Nov 2010 21:23:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">831 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Outreach and Training</title>
+ <link>http://transmissionproject.org/content/ctc-outreach-and-training</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet-training">internet training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <pubDate>Tue, 09 Nov 2010 18:02:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">807 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

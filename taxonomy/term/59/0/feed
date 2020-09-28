@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - interpreting</title>
+ <link>http://transmissionproject.org/taxonomy/term/59/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Language Bank Brochure </title>
+ <link>http://transmissionproject.org/resources/2010/5/language-bank-brochure</link>
+ <description>&lt;p&gt;A brochure detailing the services offered by the Language Bank. Prepared by corps member Rachel&amp;nbsp;Rose-Sandow. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/5/language-bank-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interpreting">interpreting</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/language">language</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/LB Brochure Word Document.docx" length="100043" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Wed, 05 May 2010 16:37:34 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">243 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Guide: Service Corps to Social Impact Career</title>
+ <link>http://transmissionproject.org/current/2009/6/guide-service-corps-to-social-impact-career</link>
+ <description>&lt;p&gt;Amy Potthast of Idealist.org just released a new guide for service corps members who wish to transition to a &lt;em&gt;career&lt;/em&gt; in nonprofits. The &lt;a href=&quot;HTTP://idealist.org/servicecompanion&quot;&gt;guide is a free download&lt;/a&gt; and a companion to their &lt;a href=&quot;http://www.idealist.org/careerguide&quot;&gt;Idealist Guides to Nonprofit Careers&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Your participation in national or international service gives you an incredible starting point for a career and life with social impact. This is true whether you are a recent high school or college graduate, or an encore professional. For people early in their careers, service also offers an opportunity to build hands-on experience before applying to college or graduate&amp;nbsp;school. &lt;/p&gt;
+&lt;p&gt;&amp;#8230;&lt;/p&gt;
+&lt;p&gt;As a service corps participant, your transition to a career or school is unique for several reasons. Right now you have an awesome opportunity to become part of the next wave of public service leaders. Projections indicate that from 2006 to 2016, &lt;span class=&quot;caps&quot;&gt;U.S.&lt;/span&gt; nonprofits will need to attract and develop 640,000 new senior managers, or 2.4 times 2006&amp;nbsp;levels.&lt;/p&gt;
+&lt;p&gt;By learning career transition skills during your term of service, you can plan your professional growth and prepare to assume leadership roles throughout your&amp;nbsp;career.
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2009/6/guide-service-corps-to-social-impact-career#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/careers">careers</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/38">guide</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interpreting">interpreting</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs">jobs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service">service</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Tue, 30 Jun 2009 22:47:29 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">63 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

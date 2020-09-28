@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - internaitonal</title>
+ <link>http://transmissionproject.org/taxonomy/term/162/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>World Affairs Conference</title>
+ <link>http://transmissionproject.org/events/2010/03/world-affairs-conference</link>
+ <description>&lt;p&gt;WorldAffairs 2010, the annual community-based experience presented by the World Affairs Council, blends penetrating analysis of key international issues from leading global experts with activities and opportunities to explore the diverse international landscape of San Francisco. The world that the Obama administration inherited a year ago is already a very different place. From global economic crisis to climate change, from international security dilemmas to development challenges, new policy prescriptions abound. At the same time, social media and new technologies have catapulted the international conversation into a new context. The path forward will require innovation from all sectors. Government, non-governmental organizations, private sector initiatives and individual actors must all&amp;nbsp;contribute.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/climate">climate</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/development">development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/economy">economy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internaitonal">internaitonal</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <pubDate>Mon, 14 Dec 2009 19:28:39 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">127 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

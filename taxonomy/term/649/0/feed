@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - disability</title>
+ <link>http://transmissionproject.org/taxonomy/term/649/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Organizing and Disability Awareness</title>
+ <link>http://transmissionproject.org/content/community-organizing-and-disability-awareness</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-survey">community survey</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disability">disability</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Wed, 10 Nov 2010 19:21:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">841 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - connectivity</title>
+ <link>http://transmissionproject.org/taxonomy/term/256/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>FutureEverything 2010 Conference</title>
+ <link>http://transmissionproject.org/events/2010/05/futureeverything-2010-conference</link>
+ <description>&lt;p&gt;We are excited to introduce the FutureEverything conference programme for 2010, our best and most ambitious yet. We are delighted to present the world’s best speakers under our conference themes of ImagineEverything, Unlimited Connectivity, Open Data and The City&amp;nbsp;Experiment.&lt;/p&gt;
+&lt;p&gt;The FutureEverything conference will take you on a journey through the most cutting-edge developments in a range of exciting fields. Join us to hear about why governments should open up the data that they hold, and what we can do with this information to change our lives. Listen to leading artists and scientists discuss what we can dream and do with unlimited bandwidth. Visionary speakers will illuminate the science of the web, the ways the networked city is being rewired, how poetry can be encoded into DNA, ways we can play the city like an instrument, and how relationships between generations are going to change over the next hundred&amp;nbsp;years.&lt;/p&gt;
+&lt;p&gt;The date of the inaugural FutureEverything festival is 12-15 May 2010, obtain your festival passes now here: &lt;a href=&quot;http://futureeverything.org/tickets&quot; title=&quot;http://futureeverything.org/tickets&quot;&gt;http://futureeverything.org/tickets&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art">art</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/artists">artists</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/broadband">broadband</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/connectivity">connectivity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <pubDate>Tue, 20 Apr 2010 15:05:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">204 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

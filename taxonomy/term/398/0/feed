@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - wireframe</title>
+ <link>http://transmissionproject.org/taxonomy/term/398/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Presentation to Board about Website Redesign</title>
+ <link>http://transmissionproject.org/resources/2010/10/presentation-to-board-about-website-redesign</link>
+ <description>&lt;p&gt;A presentation corps member Philip Dahl gave to PIFVA&amp;#8217;s board of directors on their website&amp;nbsp;redesign.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/presentation-to-board-about-website-redesign#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/board">board</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-web-design-resources">Featured Web Design Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outline">outline</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proposal">proposal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireframe">wireframe</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/PIFVA OUTLINE.pdf" length="2976526" type="application/pdf" />
+ <pubDate>Mon, 18 Oct 2010 15:25:06 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">330 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

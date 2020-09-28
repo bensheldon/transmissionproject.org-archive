@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - community center</title>
+ <link>http://transmissionproject.org/taxonomy/term/411/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pillsbury United Communities</title>
+ <link>http://transmissionproject.org/projects/pillsbury-united-communities</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-center">community center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <georss:point>44.999061 -93.294420</georss:point>
+ <pubDate>Mon, 22 Nov 2010 20:55:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">868 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Citizens Committee for New York City</title>
+ <link>http://transmissionproject.org/projects/citizens-committee-for-new-york-city</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-center">community center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/neighborhoods">neighborhoods</category>
+ <georss:point>40.763857 -73.973039</georss:point>
+ <pubDate>Tue, 19 Oct 2010 15:21:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">358 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Black Child &amp; Family Institute</title>
+ <link>http://transmissionproject.org/projects/black-child-family-institute</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-center">community center</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-lab">media lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tutoring">tutoring</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>42.738109 -84.563764</georss:point>
+ <pubDate>Mon, 18 Oct 2010 17:25:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">343 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

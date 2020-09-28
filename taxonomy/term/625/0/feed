@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - media justice education</title>
+ <link>http://transmissionproject.org/taxonomy/term/625/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Expansion Initiative Program Developer</title>
+ <link>http://transmissionproject.org/content/digital-expansion-initiative-program-developer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/bilingual">bilingual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/btop">btop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/citizen-journalism">citizen journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-justice">media justice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-justice-education">media justice education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-literacy">media literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Wed, 03 Nov 2010 15:55:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">757 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

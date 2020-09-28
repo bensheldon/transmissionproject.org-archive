@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - festival</title>
+ <link>http://transmissionproject.org/taxonomy/term/319/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>BIMA.fest</title>
+ <link>http://transmissionproject.org/events/2010/08/bimafest</link>
+ <description>&lt;p&gt;Baltimore Independent Music &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Arts Festival is a 3-day, multi venue festival taking place for the first time on August 26th-28th. 2010, as we bring you three nights of performances from regional and national recording artists, plus special events featuring visual arts and film, as well as music seminars on Saturday August 28th. We anticipate that there will be more than 140 performing artists playing at 10 different venues in Baltimore. More than 125 artists are already confirmed. We&amp;#8217;ve coordinated the venue schedules and locations to allow fans to hear as many artists as possible between &lt;span class=&quot;caps&quot;&gt;6PM&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;2AM&lt;/span&gt; each&amp;nbsp;night.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/arts">arts</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/festival">festival</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/music">music</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Thu, 05 Aug 2010 16:25:35 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">256 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

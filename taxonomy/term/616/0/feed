@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - member database</title>
+ <link>http://transmissionproject.org/taxonomy/term/616/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Development and Communications VISTA</title>
+ <link>http://transmissionproject.org/content/development-and-communications-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/civicrm">civiCRM</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/facebook">facebook</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grassroots-fundraising">grassroots fundraising</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/member-database">member database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/newsletter">newsletter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-fundraising">online fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <pubDate>Tue, 02 Nov 2010 14:57:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">719 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

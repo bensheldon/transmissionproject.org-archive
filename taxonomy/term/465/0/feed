@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - volunteer database</title>
+ <link>http://transmissionproject.org/taxonomy/term/465/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Database Development</title>
+ <link>http://transmissionproject.org/content/database-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-database">grant database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it-assistance">IT assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Wed, 10 Nov 2010 19:59:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">844 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>&quot;Star Center&quot; Database Builder</title>
+ <link>http://transmissionproject.org/content/star-center-database-builder</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Tue, 26 Oct 2010 16:00:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">591 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Outreach and Database Management</title>
+ <link>http://transmissionproject.org/content/ctc-outreach-and-database-management</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Fri, 22 Oct 2010 16:56:20 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">533 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Outreach</title>
+ <link>http://transmissionproject.org/content/ctc-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Fri, 22 Oct 2010 15:42:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">521 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-9</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Thu, 21 Oct 2010 20:17:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">506 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach and Volunteer Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-and-volunteer-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/assessment">assessment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Thu, 21 Oct 2010 15:17:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">468 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

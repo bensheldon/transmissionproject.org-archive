@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - inventory system</title>
+ <link>http://transmissionproject.org/taxonomy/term/553/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory-system">inventory system</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-support">technical support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Tue, 02 Nov 2010 15:35:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">723 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Taylor Center Media Program Technical Manager</title>
+ <link>http://transmissionproject.org/content/taylor-center-media-program-technical-manager</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory-system">inventory system</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it-support">it support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance">technical assistance</category>
+ <pubDate>Thu, 28 Oct 2010 18:39:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">677 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Support</title>
+ <link>http://transmissionproject.org/content/ctc-support-3</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory-system">inventory system</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <pubDate>Thu, 28 Oct 2010 16:57:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">670 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Youth Digital Media Workshop Building</title>
+ <link>http://transmissionproject.org/content/ctc-youth-digital-media-workshop-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/3d-imaging">3d imaging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio-dubbing">audio dubbing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-storytelling">digital storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/inventory-system">inventory system</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/silent-movie-making">silent movie making</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/19">storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Tue, 26 Oct 2010 16:46:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">599 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

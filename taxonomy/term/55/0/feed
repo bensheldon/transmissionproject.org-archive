@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - assistive technology</title>
+ <link>http://transmissionproject.org/taxonomy/term/55/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Learning AT Coordinator</title>
+ <link>http://transmissionproject.org/content/community-learning-at-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/accessibility">accessibility</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/assistive-technology">assistive technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <pubDate>Wed, 03 Nov 2010 19:56:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">769 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Volunteer Coordinator and Program Producer</title>
+ <link>http://transmissionproject.org/content/volunteer-coordinator-and-program-producer</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/assistive-technology">assistive technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv-producer">tv producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Thu, 21 Oct 2010 18:20:54 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">491 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>West Tennessee Special Technology Access Resource Center</title>
+ <link>http://transmissionproject.org/projects/west-tennessee-special-technology-access-resource-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/assistive-technology">assistive technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <georss:point>35.717046 -88.860927</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:23:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">457 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>*AccessU West*</title>
+ <link>http://transmissionproject.org/events/2011/01/accessu-west</link>
+ <description>&lt;p&gt;  The digital divide includes the tech design divide that keeps people who are using assistive technology or who have disabilities from being able to use web sites, software and other tech&amp;nbsp;tools.&lt;/p&gt;
+&lt;p&gt;If you agree, you should check out *AccessU West* - a web accessibility institute (previously CalWAC) *January 10-12, 2011* in San Jose, California. It&amp;#8217;s being organized by Knowbility.org, that&amp;#8217;s focused on helping people with disabilities get access to technology and tech-related education, as well as making education accessible through&amp;nbsp;technology.&lt;/p&gt;
+&lt;p&gt;AccessU West offers classes on how to make electronic information technology accessible to everyone – including people with disabilities. This event is for web developers, web designers, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; Managers, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; policy&lt;br /&gt;
+developers, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; administrators, programmers, anyone with &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt;&lt;br /&gt;
+responsibilities, or &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt;&amp;nbsp;students.&lt;/p&gt;
+&lt;p&gt;*This is a tremendous professional development opportunity for individuals, as well as a way for companies to demonstrate their commitment to usability and accessibility to&amp;nbsp;customers!*&lt;/p&gt;
+&lt;p&gt;    * Does your organization believe its web site should be accessible to &lt;span class=&quot;caps&quot;&gt;ALL&lt;/span&gt;&amp;nbsp;people?&lt;/p&gt;
+&lt;p&gt;    * Is your company ready to comply with the pending expansion of the Americans with Disabilities Act that will ensure people with disabilities have full access to the Internet and&amp;nbsp;television?&lt;/p&gt;
+&lt;p&gt;    * Are you a developer or designer who wants to understand emerging best design practices for the web? Are you a web developer, web designer, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; manager, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; policy developer, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; administrator or programmer that wants to be even more attractive to potential&amp;nbsp;employers?&lt;/p&gt;
+&lt;p&gt;    * Do you want to build innovative &lt;span class=&quot;caps&quot;&gt;AND&lt;/span&gt; accessible websites using cutting-edge &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&amp;nbsp;techniques?&lt;/p&gt;
+&lt;p&gt;    * Do you want to learn how accessibility ties into your usability&amp;nbsp;goals?&lt;/p&gt;
+&lt;p&gt;Attendees will engage with world renowned accessibility experts to improve design skills and to understand the both the need and the techniques for inclusive &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; design &amp;#8211; from the basics to the bleeding&amp;nbsp;edge.&lt;/p&gt;
+&lt;p&gt;Attendees can choose one, two or three days of workshops. A Usability Track is available as well, as is a group discount for six or more&amp;nbsp;people).&lt;/p&gt;
+&lt;p&gt;Complete information:&lt;br /&gt;
+&lt;a href=&quot;http://www.knowbility.org/accessu-west/&quot; title=&quot;http://www.knowbility.org/accessu-west/&quot;&gt;http://www.knowbility.org/accessu-west/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/accessibility">accessibility</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/assistive-technology">assistive technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <pubDate>Tue, 12 Oct 2010 14:20:57 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">319 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Assistive Technology Manual, DISKovery Center </title>
+ <link>http://transmissionproject.org/resources/2009/6/assistive-technology-manual-diskovery-center</link>
+ <description>&lt;p&gt;The Assistive Technology Manual describes not only tools and products to aid people with disabilities, but also has etiquette and advice for respect in communications with a variety of impairments. This manual was developed by Anita Lie at the &lt;a href=&quot;http://diskovery.ltsc.org/&quot;&gt;DISKovery Center&lt;/a&gt; in Los Angeles,&amp;nbsp;CA.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/6/assistive-technology-manual-diskovery-center#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/assistive-technology">assistive technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/at">AT</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-media-justice-resources">Featured Media Justice Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/manual">manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tools">tools</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Assistive Technology Manual.pdf" length="1073144" type="application/pdf" />
+ <pubDate>Fri, 12 Jun 2009 00:53:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">9 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

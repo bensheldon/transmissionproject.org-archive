@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - php</title>
+ <link>http://transmissionproject.org/taxonomy/term/598/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>&quot;DigitalBicycle&quot; Program Development</title>
+ <link>http://transmissionproject.org/content/digitalbicycle-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/coding">coding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/logo">logo</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/php">php</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/presentation">presentation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Fri, 29 Oct 2010 15:07:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">683 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

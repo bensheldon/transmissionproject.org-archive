@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - videogame</title>
+ <link>http://transmissionproject.org/taxonomy/term/183/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Games+Learning+Society Conference</title>
+ <link>http://transmissionproject.org/events/2010/06/gameslearningsociety-conference</link>
+ <description>&lt;p&gt;The time has never been more right for the Games+Learning+Society Conference! The world is finally beginning to catch on: Great video games can be great learning tools. This year’s conference will further the work we started six years ago: exploring the impact of games and game culture on learning and&amp;nbsp;society.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/videogame">videogame</category>
+ <pubDate>Mon, 14 Dec 2009 20:25:11 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">139 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

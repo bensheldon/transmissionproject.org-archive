@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - needs</title>
+ <link>http://transmissionproject.org/taxonomy/term/4/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Communications, Economics and the Internet</title>
+ <link>http://transmissionproject.org/current/2010/4/communications-economics-and-the-internet</link>
+ <description>&lt;p&gt;The &lt;a href=&quot;http://centerformediajustice.org/&quot;&gt;Center for Media Justice&lt;/a&gt; and the &lt;a href=&quot;http://mag-net.org/&quot;&gt;Media Action Grassroots Network&lt;/a&gt; (MAG-Net) have released a new brief on &lt;a href=&quot;http://www.scribd.com/full/30526512?access_key=key-193epov1oxn0eq7o48bv&quot;&gt;&amp;#8220;Migrants and the Open Internet&amp;#8221;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+As people move in search of work and a better life for themselves and their families, they retain their ties to their communities of origin. This desire for community is as crucial to survival as the need for work, or food and shelter. “The experience of hundreds of years of history has taught us that economic and social survival depends on maintaining the identity, language, and traditions that hold a community together.” [David Bacon - &amp;#8220;Communities without Borders&amp;#8221;] Communication technologies, like email and the Internet, lower the costs that migrants face to keep in touch with their relatives and friends, and help them to remain connected to their home&amp;nbsp;country.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;While this is written in the context of migrants, it can apply to any community, or individuals in search of&amp;nbsp;opportunity.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+“It is migrants, rather than geeks, who have emerged as the ‘most aggressive’ adopters of new communications tools. Dispersed families with strong ties and limited resources have taken to voice-over-internet services, IM and webcams, all of which are cheap or free. They also go online to get news or to download music from home.”&amp;#8212; Swisscom Anthropologist, Stefana&amp;nbsp;Broadbent
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/4/communications-economics-and-the-internet#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/culture">culture</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/identify">identify</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/4">needs</category>
+ <pubDate>Tue, 27 Apr 2010 15:05:31 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">208 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Needs Statement, Grassroots.org</title>
+ <link>http://transmissionproject.org/resources/2009/6/needs-statement-grassrootsorg</link>
+ <description>&lt;p&gt;This needs statement written and researched by Laura Benack at &lt;a href=&quot;http://grassroots.org&quot;&gt;Grassroots.org&lt;/a&gt; provides background and rationale for their mission and the work of the organization. This language is used in marketing and fundraising material, orienting new staff and it provides a unified message for why the organization&amp;nbsp;exists.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/6/needs-statement-grassrootsorg#comments</comments>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/4">needs</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Grassroots.org-Needs Statement.pdf" length="61070" type="application/pdf" />
+ <pubDate>Fri, 12 Jun 2009 18:15:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">20 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

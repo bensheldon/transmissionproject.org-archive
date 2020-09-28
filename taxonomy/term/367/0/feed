@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - web copy</title>
+ <link>http://transmissionproject.org/taxonomy/term/367/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Program Development and Outreach</title>
+ <link>http://transmissionproject.org/content/program-development-and-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio">audio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/constituent-database">constituent database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-storytelling">digital storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/radio-training">radio training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-copy">web copy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 21:28:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">856 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Web Copy and Design</title>
+ <link>http://transmissionproject.org/resources/2010/10/web-copy-and-design</link>
+ <description>&lt;p&gt;Web design and copy by corps member Devon Smolca for her computer donation project&amp;nbsp;&amp;#8216;L@TCH&amp;#8217;.&lt;/p&gt;
+&lt;p&gt;Visit: &lt;a href=&quot;http://www.everyfamilyconnected.org/&quot;&gt;http://www.everyfamilyconnected.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/web-copy-and-design#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-web-design-resources">Featured Web Design Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-copy">web copy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <pubDate>Fri, 22 Oct 2010 19:06:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">541 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Promotional Products Website</title>
+ <link>http://transmissionproject.org/resources/2010/9/promotional-products-website</link>
+ <description>&lt;p&gt;Design and copy of a promotional products website for Grassroots.org by corps member Scott&amp;nbsp;D&amp;#8217;Antuono.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://estore.grassroots.org/&quot; title=&quot;http://estore.grassroots.org/&quot;&gt;http://estore.grassroots.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/promotional-products-website#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/e-commerce">e-commerce</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-copy">web copy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 28 Sep 2010 19:12:52 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">297 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

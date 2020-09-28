@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - tickets</title>
+ <link>http://transmissionproject.org/taxonomy/term/716/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DIY Video Curriculum, Outreach List and Tickets</title>
+ <link>http://transmissionproject.org/resources/2011/5/diy-video-curriculum-outreach-list-and-tickets</link>
+ <description>&lt;p&gt;A DIY Video workshop curriculum, outreach list and ticket images all created by corps member Tiffany&amp;nbsp;Otoya.&lt;/p&gt;
+&lt;p&gt;An example video from students who went through this class: &lt;a href=&quot;http://www.youtube.com/watch?v=nZklClZjMlA&quot; title=&quot;http://www.youtube.com/watch?v=nZklClZjMlA&quot;&gt;http://www.youtube.com/watch?v=nZklClZjMlA&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/5/diy-video-curriculum-outreach-list-and-tickets#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum">curriculum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/diy">diy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tickets">tickets</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/DIY curriculum handouts.docx" length="3954203" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Thu, 26 May 2011 17:38:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">949 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

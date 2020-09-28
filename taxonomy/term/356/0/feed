@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - photoshop</title>
+ <link>http://transmissionproject.org/taxonomy/term/356/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Youth Media Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-youth-media-program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/diversity-training">diversity training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/lesson-plans">lesson plans</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/literacy">literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/music-making">music making</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/photoshop">photoshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/robotics">robotics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/techathalon">techathalon</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Tue, 26 Oct 2010 17:11:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">606 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>WSLR Brochure</title>
+ <link>http://transmissionproject.org/resources/2010/9/wslr-brochure</link>
+ <description>&lt;p&gt;Corps member David Beaton did the concept, some of the writing, proofing, and photoshopping of this brochure for &lt;a href=&quot;http://wslr.org/&quot;&gt;WSLR&lt;/a&gt; in Miami,&amp;nbsp;FL.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/wslr-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/concept">concept</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/photoshop">photoshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proofing">proofing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/WSLR_Brochure_091910.pdf" length="1295604" type="application/pdf" />
+ <pubDate>Mon, 27 Sep 2010 15:11:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">288 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

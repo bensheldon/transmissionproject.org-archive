@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - website development</title>
+ <link>http://transmissionproject.org/taxonomy/term/573/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology Planning</title>
+ <link>http://transmissionproject.org/content/technology-planning</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology-planning">technology planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-development">website development</category>
+ <pubDate>Wed, 27 Oct 2010 16:22:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">645 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Tech Support and Technology Planning</title>
+ <link>http://transmissionproject.org/content/ctc-tech-support-and-technology-planning</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-assistance">CTC assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-support">technical support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology-planning">technology planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-recruitment">Volunteer recruitment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-development">website development</category>
+ <pubDate>Wed, 27 Oct 2010 15:27:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">641 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Youth Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-youth-program-building-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-development">website development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Wed, 27 Oct 2010 15:16:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">640 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Compters in Home Program Development</title>
+ <link>http://transmissionproject.org/content/compters-in-home-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-training">volunteer training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-development">website development</category>
+ <pubDate>Tue, 26 Oct 2010 19:17:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">629 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

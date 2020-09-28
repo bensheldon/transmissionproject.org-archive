@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - automation</title>
+ <link>http://transmissionproject.org/taxonomy/term/80/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Software Requirements and Testing Procedures</title>
+ <link>http://transmissionproject.org/resources/2009/7/software-requirements-and-testing-procedures</link>
+ <description>&lt;p&gt;This technical material comes from &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; Jack Waugh who helped design and develop a Content Management System for the Center for Technology Services at the University of Baltimore in Baltimore, &lt;span class=&quot;caps&quot;&gt;MD&lt;/span&gt;. In Jack&amp;#8217;s own&amp;nbsp;words:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Attached is a script in Ruby that generates an &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; document that lists requirements on a software product, and lists the semiautomated test cases that test the requirements.  The value that I think this example has, for people outside the org I am serving (&lt;span class=&quot;caps&quot;&gt;CCTS&lt;/span&gt;) is not its content, but rather, its format.  It shows a way that information about requirements and testing can be organized in one way for maintaining the information, but in another way for presentation (to, e. g., management, testers, and engineers new to the&amp;nbsp;project).&lt;/p&gt;
+&lt;p&gt;This file also demonstrates that writing &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; in Ruby is easier than writing &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;.  At least, I think this format is easier to work&amp;nbsp;on.&lt;/p&gt;
+&lt;p&gt;We use &amp;#8220;Matz&amp;#8220;&amp;#8216;s Ruby interpreter.  The example doesn&amp;#8217;t use any esoteric language features, so I expect any Ruby interpreter would work with it.  If you have one downloaded, and called &amp;#8220;ruby&amp;#8221; (which is the conventional command), you can say something like &amp;#8220;ruby test_plan.rb &gt;test_plan.html&amp;#8221; to generate the &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; presentation of the document.  I&amp;#8217;ll attach that output as well, for your&amp;nbsp;inconvenience.&lt;/p&gt;
+&lt;p&gt;The &amp;#8220;content&amp;#8221; part of test_plan.rb starts at line 59.  There, I dive into the first of several &amp;#8220;areas&amp;#8221; of the product that I intend to treat in the&amp;nbsp;document.&lt;/p&gt;
+&lt;p&gt;At line 63, I introduce a &amp;#8220;story&amp;#8221; of how people should be able to use the subject software, a &amp;#8220;user&amp;nbsp;story&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;The  &amp;#8221;p&amp;#8221; command that starts line 65, denotes a&amp;nbsp;&amp;#8221;
+&lt;/p&gt;&lt;p&gt;&amp;#8221; tag instance in&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;So, the file contains both content and script to reformat the&amp;nbsp;content.&lt;/p&gt;
+&lt;p&gt;One of the effects of the script parts is to generate a table of&amp;nbsp;contents.&lt;/p&gt;
+&lt;p&gt;Even laying aside the fact that this script organizes information about requirements and testing (&lt;span class=&quot;caps&quot;&gt;QA&lt;/span&gt; concerns), it also demonstrates a more generally useful feature, of simply being able todefine a document that has sections and subsections and so on, and have it rendered in &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; with a table of contents.  The script is flexible as to the depth into the section hierarchy that should&lt;br /&gt;
+be reflected in the &lt;span class=&quot;caps&quot;&gt;TOC&lt;/span&gt;.  The entries in the &lt;span class=&quot;caps&quot;&gt;TOC&lt;/span&gt; link to anchors at the respective&amp;nbsp;sections.&lt;/p&gt;
+&lt;p&gt;There may be some dead code in this&amp;nbsp;file.
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/7/software-requirements-and-testing-procedures#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/automation">automation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/requirements">requirements</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/testing">testing</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/test_plan.html" length="24090" type="text/html" />
+ <pubDate>Tue, 07 Jul 2009 19:38:58 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">70 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

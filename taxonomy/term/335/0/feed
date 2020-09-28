@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - nonprofits</title>
+ <link>http://transmissionproject.org/taxonomy/term/335/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Independent Sector 2010 Conference</title>
+ <link>http://transmissionproject.org/events/2010/10/independent-sector-2010-conference</link>
+ <description>&lt;p&gt;Join more than 800 leaders from across the nonprofit community for the dynamic, innovative 2010 Independent Sector Annual Conference. This year’s dynamic program conference will examine how people from organizations of all sizes and missions can collaborate to fulfill the conference theme, “Forging a Stronger Future Together.” It builds on the record-breaking success of last year’s&amp;nbsp;event,&lt;/p&gt;
+&lt;p&gt;At the heart the conference will be the committed, diverse, and knowledgeable group of attendees. Their experience and expertise will power nearly two dozen breakout sessions and four plenaries, as well as the invaluable exchanges taking place before, between, and after the sessions. Innovative formats drawing on the energy and ideas of attendees will encourage participant&amp;nbsp;contributions.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofits">nonprofits</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <pubDate>Mon, 20 Sep 2010 17:58:47 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">278 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>2011 Nonprofit Technology Conference</title>
+ <link>http://transmissionproject.org/events/2011/03/2011-nonprofit-technology-conference</link>
+ <description>&lt;p&gt;More than ever, technology is helping nonprofits tap into and build communities to create social change. Now, more than ever, our stakeholders are able to connect, share, and act on our behalf from around the globe or around the&amp;nbsp;corner.&lt;/p&gt;
+&lt;p&gt;This year&amp;#8217;s NTC will feature 80+ stellar breakout sessions divided into Leadership, Communications/Marketing, IT Staff, Fundraising and Program&amp;nbsp;Tracks.&lt;/p&gt;
+&lt;p&gt;The NTC is all about connecting and learning so that you can transform technology into social change in your work and&amp;nbsp;communities.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofits">nonprofits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Mon, 20 Sep 2010 17:45:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">271 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

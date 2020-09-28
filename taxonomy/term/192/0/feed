@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - workers</title>
+ <link>http://transmissionproject.org/taxonomy/term/192/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>US Social Forum 2010</title>
+ <link>http://transmissionproject.org/events/2010/06/us-social-forum-2010</link>
+ <description>&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;USSF&lt;/span&gt; will take place June 22-26, 2010 at Cobo Hall and Hart Plaza in downtown Detroit. Other workshops and community art and culture programs will take place across the city. The &lt;span class=&quot;caps&quot;&gt;USSF&lt;/span&gt; will convene social movements from across the United States and globally. Organizers are reaching out to young people, people of color, unionists, laid off and unorganized workers, welfare recipients, veterans, persons with disabilities, indigenous people, freedom fighters, collectives, and many&amp;nbsp;others.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/cultural">cultural</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/movement">movement</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workers">workers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Mon, 14 Dec 2009 20:34:40 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">143 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - letter</title>
+ <link>http://transmissionproject.org/taxonomy/term/10/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Nikon Camera Donation Request Letter</title>
+ <link>http://transmissionproject.org/resources/2011/5/nikon-camera-donation-request-letter</link>
+ <description>&lt;p&gt;A letter of request to Nikon for 10 cameras for digital and media literacy classes written by corps member Tiffany&amp;nbsp;Otoya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/5/nikon-camera-donation-request-letter#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/camera">camera</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/donation-request">donation request</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/10">letter</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Nikon_donationrequest.doc" length="271872" type="application/msword" />
+ <pubDate>Thu, 26 May 2011 17:29:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">947 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Volunteer Info Sheet </title>
+ <link>http://transmissionproject.org/resources/2010/4/volunteer-info-sheet</link>
+ <description>&lt;p&gt;An info sheet detailing the responsibilities and benefits of volunteering at the community technology center. Prepared by corps member Scott&amp;nbsp;Reed. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/volunteer-info-sheet#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/info">info</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/10">letter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/CTC_Volunteer_Info_Sheet.pdf" length="70473" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 18:50:12 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">222 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Volunteer Welcome Letter </title>
+ <link>http://transmissionproject.org/resources/2010/4/volunteer-welcome-letter</link>
+ <description>&lt;p&gt;A letter sent to volunteers of the community technonogy center. Prepared by corps member Scott&amp;nbsp;Reed. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/volunteer-welcome-letter#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/communication">communication</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/10">letter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/volunteer_welcome_letter (1).pdf" length="11694" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 18:44:47 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">221 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

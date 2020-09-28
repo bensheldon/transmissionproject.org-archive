@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - DVD</title>
+ <link>http://transmissionproject.org/taxonomy/term/305/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Learning and Cablecast Development</title>
+ <link>http://transmissionproject.org/content/youth-learning-and-cablecast-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/documentary">documentary</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/dvd">DVD</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/organizing">organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/producer">producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv-producer">tv producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-media-education">youth media education</category>
+ <pubDate>Thu, 21 Oct 2010 14:29:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">465 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Secondhand Hangover DVD Sleeve</title>
+ <link>http://transmissionproject.org/resources/2010/5/secondhand-hangover-dvd-sleeve</link>
+ <description>&lt;p&gt;A &lt;span class=&quot;caps&quot;&gt;DVD&lt;/span&gt; sleeve designed by corps member Nickey&amp;nbsp;Robare. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/5/secondhand-hangover-dvd-sleeve#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/dvd">DVD</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teen">teen</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/secondhand hangover dvd sleeve.pdf" length="145515" type="application/pdf" />
+ <pubDate>Tue, 11 May 2010 17:02:06 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">245 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

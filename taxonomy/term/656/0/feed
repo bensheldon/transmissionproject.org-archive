@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - community needs assessment</title>
+ <link>http://transmissionproject.org/taxonomy/term/656/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Long Island City CTC Outreach</title>
+ <link>http://transmissionproject.org/content/long-island-city-ctc-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-needs-assessment">community needs assessment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-lab">computer lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-development">ctc development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <pubDate>Mon, 22 Nov 2010 19:45:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">864 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Fundraising and Outreach</title>
+ <link>http://transmissionproject.org/content/fundraising-and-outreach-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-needs-assessment">community needs assessment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Wed, 10 Nov 2010 21:22:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">855 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

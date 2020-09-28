@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - brochure</title>
+ <link>http://transmissionproject.org/taxonomy/term/300/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>WSLR Brochure</title>
+ <link>http://transmissionproject.org/resources/2010/9/wslr-brochure</link>
+ <description>&lt;p&gt;Corps member David Beaton did the concept, some of the writing, proofing, and photoshopping of this brochure for &lt;a href=&quot;http://wslr.org/&quot;&gt;WSLR&lt;/a&gt; in Miami,&amp;nbsp;FL.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/wslr-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/concept">concept</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/photoshop">photoshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proofing">proofing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/WSLR_Brochure_091910.pdf" length="1295604" type="application/pdf" />
+ <pubDate>Mon, 27 Sep 2010 15:11:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">288 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Tabla Rasa: App Forward</title>
+ <link>http://transmissionproject.org/events/2010/06/tabla-rasa-app-forward</link>
+ <description>&lt;p&gt;We’re assembling another master cast (see our group in &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt;) of innovators, developers and visionaries — we call them Davincis — for hands-on guidance, creative inspiration and how-to maps for apps on the iPad and the wave of mobile, high-concept, high-touch personal computers. We’ll demonstrate how first-movers create advantage. We’ll show how the app-savvy can expand engagement. We’ll flash forward to the shiny new things that will make your eyes pop in the exciting years to come. But mostly we’ll help you figure out what to do now, as well as in your flash-forward&amp;nbsp;future.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/app">app</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-engagement">community engagement</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mobile">mobile</category>
+ <pubDate>Mon, 07 Jun 2010 17:41:55 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">250 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Language Bank Brochure </title>
+ <link>http://transmissionproject.org/resources/2010/5/language-bank-brochure</link>
+ <description>&lt;p&gt;A brochure detailing the services offered by the Language Bank. Prepared by corps member Rachel&amp;nbsp;Rose-Sandow. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/5/language-bank-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interpreting">interpreting</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/language">language</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/LB Brochure Word Document.docx" length="100043" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Wed, 05 May 2010 16:37:34 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">243 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Leadership Institute Brochure </title>
+ <link>http://transmissionproject.org/resources/2010/5/leadership-institute-brochure</link>
+ <description>&lt;p&gt;A brochure for yearly &lt;span class=&quot;caps&quot;&gt;NAMAC&lt;/span&gt;&amp;#8217;s Leadership Institute. Prepared by corps member Donna&amp;nbsp;Choi. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/5/leadership-institute-brochure#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/brochure">brochure</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/convention">convention</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/leadership-institute-web.pdf" length="283598" type="application/pdf" />
+ <pubDate>Wed, 05 May 2010 16:20:26 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">241 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

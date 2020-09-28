@@ -1,0 +1,778 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+  
+    <title>program implementation | Transmission Project</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS - program implementation" href="../../taxonomy/term/602/0/feed" />
+
+    
+    <!-- BLUEPRINT CSS STYLES -->
+    	<link rel="stylesheet" href="../../sites/all/themes/neewee/blueprint/screen.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="../../sites/all/themes/neewee/blueprint/print.css" type="text/css" media="print" /> 
+		<!-- END BLUEPRINT CSS STYLES -->
+
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/cck/theme/content-module.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date_popup/themes/datepicker.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date_popup/themes/timeentry.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/filefield/filefield.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/tabs/drupal-tabs.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/tagadelic/tagadelic.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/typogrify/typogrify.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/cck/modules/fieldgroup/fieldgroup.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/taxonomy/taxonomy.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/neewee/style.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/neewee/colors.css%3F3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/neewee/flare.css%3F3.css" />
+    
+    <script type="text/javascript" src="../../misc/jquery.js%3F3"></script>
+<script type="text/javascript" src="../../misc/drupal.js%3F3"></script>
+<script type="text/javascript" src="../../sites/all/modules/tabs/ui.tabs.js%3F3"></script>
+<script type="text/javascript" src="../../sites/all/modules/tabs/tabs.js%3F3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "tabs": { "slide": false, "fade": false, "speed": "slow", "auto_height": false, "next_text": "next", "previous_text": "previous" } });
+//--><!]]>
+</script>
+    
+    <!-- FACEBOOK META -->
+    <link rel="image_src" href="../../sites/all/themes/neewee/images/tube-sqr.png" />
+    
+    
+  </head>
+  <body>
+
+  		
+  
+		<div class="container">
+
+				<div id="header">
+				<div id="header-content">	
+			<div id="header-top">
+				<div id="secondary-nav">
+						<ul class="links secondary-links"><li class="menu-297 first"><a href="../../index.html" title="">Home</a></li>
+<li class="menu-426"><a href="../../about.html" title="About">About</a></li>
+<li class="menu-411 last"><a href="../../contact-us.html" title="Contact Us">Contact</a></li>
+</ul>										
+				</div>
+				<div id="search-box"><form action="program-implementation.html"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cc5bd365ef16401cac3e7f81319cb150" value="form-cc5bd365ef16401cac3e7f81319cb150"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+			</div>
+					
+					<h1><a href="../../index.html">
+						<span id="logo"><img src="../../sites/transmissionproject.org/files/logo.png" alt="Transmission Project" /></span>						<span id="site-name">Transmission Project</span>
+					</a></h1>
+					<h2 id="site-slogan">amplifying the power of <br /> public media and technology</h2>
+					</div>
+					<div id="primary-nav" class="clear">
+						<ul class="links primary-links"><li class="menu-432 first"><a href="../../current.html" title="">Current <span class="speaking-box">News, Info &amp; Events</span></a></li>
+<li class="menu-462"><a href="../../projects.html" title="">Powered <span class="speaking-box">Supported Projects</span></a></li>
+<li class="menu-435"><a href="../../resources.html" title="">Workbench <span class="speaking-box">Resources &amp; Artifacts</span></a></li>
+<li class="menu-436"><a href="../../allies.html" title="Partners and advocates in the Field">Wired <span class="speaking-box">Partners &amp; Advocates</span></a></li>
+<li class="menu-1106 last"><a href="../../apply.html" title="How to apply for support">Apply<span class="speaking-box">Applications &amp; Deadlines</span></a></li>
+</ul>						<div class="clear"></div>
+					</div>
+				</div>
+			
+			
+									
+			
+			<div id="content" class="span-13 append-1 border"> <!-- MAIN CONTENT -->
+				<div class="clear-block">
+          	         </div>
+		
+        <!--<div class="breadcrumb"><a href="/">Home</a></div>-->
+                        
+                	<h2>program implementation</h2>                
+                                        <div class="clear-block">
+          <div id="node-873" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 23, 2010 - 10:38am by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/youth-program-development-1.html" title="Youth Program Development" rel="bookmark">Youth Program Development</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="digital-media-training.html">digital media training</a>, <a href="digital-storytelling.html">digital storytelling</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="teaching.html">teaching</a>, <a href="video.html">video</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/ymca-of-greater-boston.html">YMCA of Greater Boston</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Leena Silverman        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">1/2007</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>- Successfully apply for and run the MIT/Astronomy project. Includes outreach, volunteer coordinating, and running the program over the summer.<br />
+- Successfully run the Kinetic City program. Including familiarizing herself with the curriculum, choosing participants, building relationships with the participants, teaching the class, and creating a presentation of the end result<br />
+- Create a CyberY operations binder.<br />
+- Create a digital movie with youth/teens about their life&nbsp;experience</p>
+        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-project-outcome">
+      <div class="field-label">Project Outcome:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>VISTA&#8217;s major duties included full responsibility of computer lab and resources for the&nbsp;lab.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-828" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 9, 2010 - 4:18pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/ctc-implementation-and-program-building-4.html" title="CTC Implementation and Program Building" rel="bookmark">CTC Implementation and Program Building</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="bilingual.html">bilingual</a>, <a href="computer-lab-implementation.html">computer lab implementation</a>, <a href="computer-skills-training.html">computer skills training</a>, <a href="ctc.html">CTC</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/boat-people-sos-virginia.html">Boat People SOS - Virginia</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    James Nguyen        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">4/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">4/2002</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>BPSOS’s project ACCESS, Access to Computers for Community Empowerment, Support and Services, hopes to improve English fluency and the acquisition of computer skills in the low-income community. The VISTA members will work on the following&nbsp;tasks:</p>
+<p>1. Work with community groups to identify youth needing the service and mobilize their participation in the program.<br />
+2. Set up neighborhood-based classes. This involves identification of additional resources to support these classes (such as donated computers, text books, class space, supplies).<br />
+3. Teach ESL and computer classes. This will include tailoring existing class materials to the needs of the target population.<br />
+4. Recruit, train, and coordinate volunteers to serve as instructors and mentors.<br />
+5. Encourage parents to take part in the education of their&nbsp;children.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-827" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 9, 2010 - 4:17pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/ctc-implementation-and-program-building-3.html" title="CTC Implementation and Program Building" rel="bookmark">CTC Implementation and Program Building</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="bilingual.html">bilingual</a>, <a href="computer-lab-implementation.html">computer lab implementation</a>, <a href="computer-skills-training.html">computer skills training</a>, <a href="ctc.html">CTC</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/boat-people-sos-virginia.html">Boat People SOS - Virginia</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Nhan Le        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">2/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">11/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>BPSOS’s project ACCESS, Access to Computers for Community Empowerment, Support and Services, hopes to improve English fluency and the acquisition of computer skills in the low-income community. The VISTA members will work on the following&nbsp;tasks:</p>
+<p>1. Work with community groups to identify youth needing the service and mobilize their participation in the program.<br />
+2. Set up neighborhood-based classes. This involves identification of additional resources to support these classes (such as donated computers, text books, class space, supplies).<br />
+3. Teach ESL and computer classes. This will include tailoring existing class materials to the needs of the target population.<br />
+4. Recruit, train, and coordinate volunteers to serve as instructors and mentors.<br />
+5. Encourage parents to take part in the education of their&nbsp;children.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-824" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 9, 2010 - 4:07pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/ctc-assistance-15.html" title="CTC Assistance" rel="bookmark">CTC Assistance</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="bilingual.html">bilingual</a>, <a href="computer-lab-implementation.html">computer lab implementation</a>, <a href="computer-skills-training.html">computer skills training</a>, <a href="ctc.html">CTC</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/boat-people-sos-washington-dc.html">Boat People SOS - Washington, DC</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Megan Cherry        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">5/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">7/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>BPSOS’s project ACCESS, Access to Computers for Community Empowerment, Support and Services, hopes to improve English fluency and the acquisition of computer skills in the low-income community. The VISTA members will work on the following&nbsp;tasks:</p>
+<p>1. Work with community groups to identify youth needing the service and mobilize their participation in the program.<br />
+2. Set up neighborhood-based classes. This involves identification of additional resources to support these classes (such as donated computers, text books, class space, supplies).<br />
+3. Teach ESL and computer classes. This will include tailoring existing class materials to the needs of the target population.<br />
+4. Recruit, train, and coordinate volunteers to serve as instructors and mentors.<br />
+5. Encourage parents to take part in the education of their&nbsp;children.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-818" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 9, 2010 - 2:36pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/ctc-implementation-and-program-building-2.html" title="CTC Implementation and Program Building" rel="bookmark">CTC Implementation and Program Building</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="bilingual.html">bilingual</a>, <a href="computer-lab-implementation.html">computer lab implementation</a>, <a href="computer-skills-training.html">computer skills training</a>, <a href="ctc.html">CTC</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/boat-people-sos-virginia.html">Boat People SOS - Virginia</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Vy Phan        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">2/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">2/2002</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>BPSOS’s project ACCESS, Access to Computers for Community Empowerment, Support and Services, hopes to improve English fluency and the acquisition of computer skills in the low-income community. The VISTA members will work on the following&nbsp;tasks:</p>
+<p>1. Work with community groups to identify youth needing the service and mobilize their participation in the program.<br />
+2. Set up neighborhood-based classes. This involves identification of additional resources to support these classes (such as donated computers, text books, class space, supplies).<br />
+3. Teach ESL and computer classes. This will include tailoring existing class materials to the needs of the target population.<br />
+4. Recruit, train, and coordinate volunteers to serve as instructors and mentors.<br />
+5. Encourage parents to take part in the education of their&nbsp;children.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-811" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 9, 2010 - 1:54pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/ctc-implementation-and-program-building-1.html" title="CTC Implementation and Program Building" rel="bookmark">CTC Implementation and Program Building</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="bilingual.html">bilingual</a>, <a href="computer-lab-implementation.html">computer lab implementation</a>, <a href="computer-skills-training.html">computer skills training</a>, <a href="ctc.html">CTC</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="volunteer-coordinating.html">volunteer coordinating</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/boat-people-sos-virginia.html">Boat People SOS - Virginia</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Hyunhanh Tran        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">8/2001</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">8/2002</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>BPSOS&#8217;s project ACCESS, Access to Computers for Community Empowerment, Support and Services, hopes to improve English fluency and the acquisition of computer skills in the low-income community. The VISTA members will work on the following&nbsp;tasks:</p>
+<p>1. Work with community groups to identify youth needing the service and mobilize their participation in the program.<br />
+2. Set up neighborhood-based classes. This involves identification of additional resources to support these classes (such as donated computers, text books, class space, supplies).<br />
+3. Teach ESL and computer classes. This will include tailoring existing class materials to the needs of the target population.<br />
+4. Recruit, train, and coordinate volunteers to serve as instructors and mentors.<br />
+5. Encourage parents to take part in the education of their&nbsp;children.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-728" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 2, 2010 - 11:48am by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/online-community-network-implementation.html" title="Online Community Network Implementation" rel="bookmark">Online Community Network Implementation</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="online-community-building.html">online community building</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="social-network.html">social network</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/national-cristina-foundation.html">National Cristina Foundation</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Ed Driscoll        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">7/2009</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">7/2010</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>The CTC VISTA member will contribute to the many tasks involved in the full launching of the cristinanetwork.org on-line social network. This includes identification of needs and location of appropriate resources, development of appropriate tools for partners as determined by feedback from partner members, monitoring of various forum discussions and overall assisting with the efficient and effective launching and growth of the&nbsp;cristinanetwork.org.</p>
+<p>Goal 1: Support the successful launch and integration/development of&nbsp;crisstinanetwork.org</p>
+        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-project-outcome">
+      <div class="field-label">Project Outcome:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>Ed was responsible for developing and delivering web based orientation training to many of our 2,000 plus partner organization in an effort to transition them into the new Cristina Network. This represented a significant shift in the Foundation&#8217;s first 25 years of operation and places a great deal more responsibility on the individual partner organizations. Consultations with partners was required to provide them with the information required to transition into the new system. Concurrent to the transition, it was important to maintain the day to day functioning of the Foundation so as not to lose the many partners who had been working with us throughout our history. To achieve this objective, we had to modify, or streamline our current operational model to maintain effectiveness. Ed was involved in all aspects of this process as he worked in close collaboration with the CEO of the organization, Dr. Bud&nbsp;Rizer.</p>
+<p>Ed was keenly involved in our project with the Wharton school. In order for the Community Consultants to fully analyze our program they had to become familiar with all of our processes and operations. Ed was central in providing this information via webinar, phone, and through personal&nbsp;contacts.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-724" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 2, 2010 - 10:48am by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/neighborhood-news-bureau-community-journalism-project-lead.html" title="Neighborhood News Bureau Community Journalism Project lead" rel="bookmark">Neighborhood News Bureau Community Journalism Project lead</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="citizen-journalism.html">citizen journalism</a>, <a href="community-journalism.html">community journalism</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/grand-rapids-community-media-center.html">Grand Rapids Community Media Center</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Denise Cheng        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2009</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2010</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>Our newest project, for which a vista would help us build a sustainable structure, has received initial funding via the The Grand Rapids Community Foundation and the John S. and James L. Knight Foundation. The purpose is to establish four Neighborhood News Bureaus (NNB) in the city. The purpose is to increase citizen engagement and to encourage greater flow of meaningful information from and to our urban neighborhoods. The NNB project will give Grand Rapids citizens the opportunity to become citizen reporters with a soon-to-be established online and physical network of neighborhood news bureaus in the urban core. The CMC will give citizen reporters the tools, structure and mediums by which to gather, write and report on local news and events. Reporters will be able to produce news for the web, radio or TV through the use of CMC’s resources. NNBs will be physically located in known neighborhood gathering locations, and each site will be outfitted with video and still cameras, computers, audio recorders and templates plus the connectivity required to “file” stories to the web. Additional production equipment and facilities are available for citizen reporter use through the Community Media&nbsp;Center.</p>
+<p>The addition of a CTC VISTA member would provide a much needed staff person to help design and establish sustainable structures for the NNB project. While a Knight grant was indeed awarded to this project, all grants in this cycle were reduced by 40% due to the current economic climate. The VISTA member would help use move forward, as planned and would be a main support person for development of the local NNB locations. The work would include neighborhood outreach, collecting and organizing training materials, doing initial set up and organization of NNB&#8217;s and creating materials for use in story management and distribution for later use by editors and news&nbsp;gatherers.</p>
+<p>Each bureau will be initially “staffed” with a news team comprised of neighborhood residents and college journalism/communication students. As the projects grow, each will be encouraged to develop its own leadership/advisory board. The VISTA member will help ensure high quality and fairness in the program by establishing a pool of professionals to provide training to&nbsp;participants.</p>
+<p>Additionally, VISTA will help establish a structure and methods for collecting and maintaining a neighborhood information &#8220;bank&#8221; for use by the news&nbsp;bureaus.</p>
+<p>Primarily, the Vista will be working on the establishment of the physical neighborhood news bureaus. They will be responsible for helping set up the physical and technical structure and coordinating with an initial corps of trainers to provide training for the&nbsp;neighborhood.</p>
+<p>The Vista will work with our core NNB steering group and committees to carry out the the project development plan. Work will include relationship building with potential host sites, arranging for assistance for chosen sites; working with the journalists committee to identify training needs and develop a curriculum and recruit presenters; working with the PR committee to prepare our news bureau community launch activities: utilize social media frameworks to increase interest and connect with potential partners; develop user feedback mechanisms; and will produce user guidelines and other reference pieces to aid in community access and use of the&nbsp;site.</p>
+<p>Goal 1: To help the CMC fulfill its mission of “Building Community Through Media” through the development of a Neighborhood News Bureaus.<br />
+Goal 2:  To help the CMC be an ever more active presence in the Grand Rapids area as a vital resource for free speech and information about what’s happening from the citizen’s point of&nbsp;view.</p>
+        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-project-outcome">
+      <div class="field-label">Project Outcome:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>The primary goal was for Denise to help &#8220;design and establish sustainable structures for the&#8221; Neighborhood News Bureau project&#8230;now called the Rapidian. Denise has done an outstanding job at reaching out to the community to gather input, creatively think through the citizen reporting process and create procedures, structures and partnerships that support those processes. She has organized training materials and events; evaluated and revised methods, and researched other &#8220;best practices&#8221; bringing those lessons to bear on The Rapdiian project. Denise worked effectively in a team that included a drupal developer, a content coordinator (part time), the design manager and the publisher. As the only person dedicated FULLTIME to the launch and evolution of the project, Denise has taken an inspiring leadership role, allowing us to reach farther into the community and engage new&nbsp;participants.</p>
+<p>We have expanded our reach and perceptions of relevance in the community (for the good). Mainstream/traditional media now includes us in discussions; promotes our work and even seeks our input and advice as they look to expand their use of community reporters. We a re currently working on the development of a business model to sustain the work, however, our &#8220;user engagement numbers&#8221; are&nbsp;significant.</p>
+<p>The project was sufficiently open ended enough to allow Denise great creativity to design execution plans. But in addition to The Rapidian proper, she has extended a connection to our community radio station and represents the Rapidian weekly on-air. She has also established a drupal working group in our&nbsp;community.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-721" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 2, 2010 - 10:19am by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/online-outreach-and-ctc-implementation.html" title="Online Outreach and CTC Implementation" rel="bookmark">Online Outreach and CTC Implementation</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="blogging.html">blogging</a>, <a href="computer-lab.html">computer lab</a>, <a href="newsletter.html">newsletter</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="../../taxonomy/term/33.html">social media</a>, <a href="website.html">website</a>, <a href="youth.html">youth</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/socio-economic-development-center-for-southeast-asians.html">Socio-Economic Development Center for Southeast Asians</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Rachel Rose Sandow        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2009</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2010</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>This project grew out of a strategic assessment and will improve communication with collaborative partners, constituents and improve the utilization of an existing organizational resource. There will be three&nbsp;components:</p>
+<p>Development of sustainable communications strategies: E-newletter - To communicate with supporters, collaborators and constituents on a regular basis. The development of an agency brochure and template that can be updated or reused for new&nbsp;programs.</p>
+<p>Web-site: To up-grade and improve web-site with information and links to Southeast Asian resources for adults and youth. To provide detail about accessing basic services that supports the work of SEDC&#8217;s case managers and links Southeast Asian communities&nbsp;nationally.</p>
+<p>Computer Lab: An underutilized resource, provide technical support, develop policies for use and maintenance. Research opportunities for free and low-cost software. Solicit college student volunteer to staff computer lab and work with&nbsp;clients.</p>
+<p>Goal 1: Improve communications with constituencies<br />
+Goal 2: Re-open Computer&nbsp;Lab</p>
+        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-project-outcome">
+      <div class="field-label">Project Outcome:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>The VISTA member worked along with SEDC staff to improve communication and collaboration throughout the agency. She developed a sustainable communications strategies, including starting up SEDC Web-site and maintained the site throughout. She interviewed staff and wrote the contents for the web. She established newsletter and distributed widely in the community. She also assisted in setting up computer lab for after school children to use. She spearheaded on all of these projects by collaborating with SEDC staff. The projects that she worked on are still active and we hope to continue it for many more&nbsp;years.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div id="node-712" class="node list">
+
+
+    	<div class="node-metadata">
+  		  		November 1, 2010 - 1:28pm by admin  	</div>
+    <h3 class="node-title" >
+	  	  	<a href="../../content/media-literacy-analysis-and-curricula-development.html" title="Media Literacy Analysis and Curricula Development" rel="bookmark">Media Literacy Analysis and Curricula Development</a>
+		  </h3>
+
+	<div class="node-metadata"><span class="terms">Categories: <a href="community-organizing.html">community organizing</a>, <a href="curriculum-development.html">curriculum development</a>, <a href="outreach.html">outreach</a>, <a href="program-implementation.html" class="active">program implementation</a>, <a href="survey.html">survey</a></span></div>
+  <div class="content clear-block">
+    <div class="field field-type-nodereference field-field-project">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Organization:&nbsp;</div>
+                    <a href="../../projects/access-humboldt.html">Access Humboldt</a>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-vistaname">
+      <div class="field-label">VISTA Name:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Sam Kaplan        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-startdate">
+      <div class="field-label">Program Start:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2010</span>        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-programend">
+      <div class="field-label">Program End:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">9/2011</span>        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-projectdescription">
+      <div class="field-label">Project Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>The Corps member will survey the constituents of Access Humboldt, analyze the data, incorporate these key elements into our programs and curricula, and increase the awareness of the available&nbsp;resources.</p>
+        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+		<!-- HIDE THE LINKS
+	    	   -->
+  </div>
+
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="program-implementation%3Fpage=1.html" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="program-implementation%3Fpage=1.html" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="program-implementation%3Fpage=1.html" title="Go to last page" class="active">last »</a></li>
+</ul></div>        </div>
+        <div class="clear-block">
+        	<div class="span-6 append-1 border">
+          	          </div>
+          <div class="span-6 last">
+          	          </div>
+        </div>
+				<!-- for Facebook -->
+				<img src="../../sites/transmissionproject.org/files/logo.png" alt="Transmission Project" style="display:none;" />
+			</div>
+
+			<div id="sidebar" class="span-10 last">
+		
+				<div class="span-10" id="tabs">
+									</div>
+				
+				<div class="column span-5 append-1">
+									</div>
+				
+				<div class="column span-4 last">
+									</div>
+
+			</div>
+			<div id="footer" class="span-24">
+				<a href="../../current.html">News and Information</a> | <a href="http://digitalartscorps.org">Digital Arts Service Corps</a> | <a href="http://transmissionproject.org/contact">Contact</a>				<div class="clear"> </div>
+			</div>
+		</div>
+		<script type="text/javascript" src="../../sites/all/modules/google_analytics/googleanalytics.js%3F3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-10013464-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+	</body>
+</html>

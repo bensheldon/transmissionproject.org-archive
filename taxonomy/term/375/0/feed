@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - ethnicity</title>
+ <link>http://transmissionproject.org/taxonomy/term/375/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Race &amp; Ethnicity Youth Workshop</title>
+ <link>http://transmissionproject.org/resources/2010/10/race-ethnicity-youth-workshop</link>
+ <description>&lt;p&gt;A youth workshop created by corps member Molly Higgins for the &lt;a href=&quot;http://www.angelfire.com/freak2/capay4ever/Capay.html&quot;&gt;Coalition for Asian Pacific American Youth&lt;/a&gt; in Boston, MA. This is one of 14 workshops Molly created as part of her Asian American Studies&amp;nbsp;curriculum.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/race-ethnicity-youth-workshop#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/ethnicity">ethnicity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/race">race</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/race and ethnicity.doc" length="36352" type="application/msword" />
+ <pubDate>Wed, 06 Oct 2010 15:47:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">305 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

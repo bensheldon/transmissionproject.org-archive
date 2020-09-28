@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - troubleshooting</title>
+ <link>http://transmissionproject.org/taxonomy/term/663/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Wireless Network Deployment</title>
+ <link>http://transmissionproject.org/content/wireless-network-deployment</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/it-support">it support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networks">networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/troubleshooting">troubleshooting</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-networks">wireless networks</category>
+ <pubDate>Tue, 23 Nov 2010 16:31:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">880 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

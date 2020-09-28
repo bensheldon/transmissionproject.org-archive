@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - administrative tasks</title>
+ <link>http://transmissionproject.org/taxonomy/term/468/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Project Coordinator</title>
+ <link>http://transmissionproject.org/content/project-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/administrative-tasks">administrative tasks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-instructor">CTC  instructor</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-relations">public relations</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Mon, 25 Oct 2010 16:32:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">561 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC VISTA Project Program Support</title>
+ <link>http://transmissionproject.org/content/ctc-vista-project-program-support</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/administrative-tasks">administrative tasks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/layout-design">layout design</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/magazine">magazine</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 21 Oct 2010 20:33:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">510 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC assistance</title>
+ <link>http://transmissionproject.org/content/ctc-assistance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/administrative-tasks">administrative tasks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <pubDate>Thu, 21 Oct 2010 15:37:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">470 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/administrative-tasks">administrative tasks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/newsletter">newsletter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <pubDate>Thu, 21 Oct 2010 15:33:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">469 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

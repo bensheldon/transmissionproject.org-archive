@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - national organization</title>
+ <link>http://transmissionproject.org/taxonomy/term/445/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Transmission Project/Digital Arts Service Corps</title>
+ <link>http://transmissionproject.org/projects/transmission-projectdigital-arts-service-corps</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/national-organization">national organization</category>
+ <georss:point>42.319637 -71.047275</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:48:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">462 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Nonprofit Technology Enterprise Network</title>
+ <link>http://transmissionproject.org/projects/nonprofit-technology-enterprise-network</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/national-organization">national organization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>45.520549 -122.684712</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:00:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">418 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>National Alliance of Media Arts Centers, Inc.</title>
+ <link>http://transmissionproject.org/projects/national-alliance-of-media-arts-centers-inc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/leadership-training">leadership training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/national-organization">national organization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <georss:point>37.775858 -122.413826</georss:point>
+ <pubDate>Wed, 20 Oct 2010 14:31:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">413 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

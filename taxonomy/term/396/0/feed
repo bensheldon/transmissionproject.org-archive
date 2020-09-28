@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - community art center</title>
+ <link>http://transmissionproject.org/taxonomy/term/396/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Sanctuary for Independent Media/New York Media Alliance</title>
+ <link>http://transmissionproject.org/projects/sanctuary-for-independent-medianew-york-media-alliance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-art-center">community art center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-access">public access</category>
+ <georss:point>42.753358 -73.681587</georss:point>
+ <pubDate>Tue, 12 Oct 2010 17:30:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">328 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Squeaky Wheel</title>
+ <link>http://transmissionproject.org/projects/squeaky-wheel</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art-center">art center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-art-center">community art center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-access">public access</category>
+ <georss:point>42.883642 -78.875054</georss:point>
+ <pubDate>Tue, 12 Oct 2010 17:12:59 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">327 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

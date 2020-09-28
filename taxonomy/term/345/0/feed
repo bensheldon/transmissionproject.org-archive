@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - canvass</title>
+ <link>http://transmissionproject.org/taxonomy/term/345/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Media Questionnaire</title>
+ <link>http://transmissionproject.org/resources/2010/9/digital-media-questionnaire</link>
+ <description>&lt;p&gt;A Digital Media Questionnaire that corps member Sam Kaplan created at &lt;a href=&quot;www.accesshumboldt.net/&quot;&gt;Access Humboldt&lt;/a&gt; to survey Humboldt County digital media resources (institutions, organizations, programs, festivals, businesses, schools/classes, etc.) to determine what areas of the county and/or specific populations are most in need of additional digital media programs, and what types of digital media programs are most&amp;nbsp;needed.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/digital-media-questionnaire#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/canvass">canvass</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community">community</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-outreach-resources">Featured Outreach Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/survey">survey</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/4.SamK_survey.pdf" length="50787" type="application/pdf" />
+ <pubDate>Thu, 23 Sep 2010 15:21:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">283 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

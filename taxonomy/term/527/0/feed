@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - train the trainers</title>
+ <link>http://transmissionproject.org/taxonomy/term/527/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Social Media Workshop Curriculum</title>
+ <link>http://transmissionproject.org/resources/2010/11/social-media-workshop-curriculum</link>
+ <description>&lt;p&gt;A Social Media Curriculum created by Corps member Melissa Niiya for a train-the-trainers with small business counsellors workshop at the Little Tokyo Service Center in&amp;nbsp;California.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/11/social-media-workshop-curriculum#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum">curriculum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-social-media-resources">Featured Social Media Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/pdf">pdf</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/small-business">small business</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainers">train the trainers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/APISBP Handout 2011 Social Media v1.pdf" length="1844447" type="application/pdf" />
+ <pubDate>Wed, 24 Nov 2010 17:49:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">898 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Implementation and Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-implementation-and-program-building-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-implementation">CTC implementation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainers">train the trainers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <pubDate>Mon, 25 Oct 2010 16:22:43 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">560 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

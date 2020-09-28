@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - wireless mesh network</title>
+ <link>http://transmissionproject.org/taxonomy/term/561/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Wireless Network Deployment and Community Outreach</title>
+ <link>http://transmissionproject.org/content/wireless-network-deployment-and-community-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/network">network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-mesh-network">wireless mesh network</category>
+ <pubDate>Tue, 26 Oct 2010 17:19:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">608 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Wireless Network Installation and Community Outreach</title>
+ <link>http://transmissionproject.org/content/wireless-network-installation-and-community-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-mesh-network">wireless mesh network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 26 Oct 2010 17:07:32 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">605 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

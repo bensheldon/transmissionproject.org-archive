@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - alumni</title>
+ <link>http://transmissionproject.org/taxonomy/term/545/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>VISTA Leader</title>
+ <link>http://transmissionproject.org/content/vista-leader</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/alumni">alumni</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/conflict-management">conflict management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/management">management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/programming">programming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-speaking">public speaking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-editing">video editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vista-leader">VISTA leader</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wiki">wiki</category>
+ <pubDate>Mon, 25 Oct 2010 18:59:10 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">582 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - websites</title>
+ <link>http://transmissionproject.org/taxonomy/term/332/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>WordCamp Philly</title>
+ <link>http://transmissionproject.org/events/2010/10/wordcamp-philly</link>
+ <description>&lt;p&gt;WordCamp Philly 2010 is the first WordCamp to be held in the City of Brotherly Love. The event will take place on Saturday October 30, 2010 at Alter Hall, home of the Fox School of Business and Management, on Temple University’s Main Campus in North Philadelphia. It’s a complete day, organized by the local community, of learning about, loving, and discussing the WordPress&amp;nbsp;platform.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wordpress">wordpress</category>
+ <pubDate>Mon, 20 Sep 2010 17:52:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">274 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Drupalcon Chicago</title>
+ <link>http://transmissionproject.org/events/2011/03/drupalcon-chicago</link>
+ <description>&lt;p&gt;In March of 2011, thousands of Drupal users, developers, designers, evaluators and businesspeople will descend on Chicago&amp;#8217;s Sheraton Hotel and Towers for sessions, talks, code sprints, and more at DrupalCon Chicago. Whether you&amp;#8217;re already using Drupal or considering it for your company or organization, you won&amp;#8217;t want to miss out on this one-of-a-kind&amp;nbsp;event.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <pubDate>Mon, 20 Sep 2010 17:47:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">272 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>SXSW: Interactive Week</title>
+ <link>http://transmissionproject.org/events/2011/03/sxsw-interactive-week</link>
+ <description>&lt;p&gt;SXSW® Interactive features five days of compelling presentations from the brightest minds in emerging technology, scores of exciting networking events hosted by industry leaders, the incredible new SXSW Trade Show and an unbeatable lineup of special programs showcasing the best new digital works, video games and innovative ideas the international community has to&amp;nbsp;offer.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/gaming">gaming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interactivity">interactivity</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <pubDate>Mon, 20 Sep 2010 17:42:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">270 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

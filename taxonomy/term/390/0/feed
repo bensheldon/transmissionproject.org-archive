@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - hashtagging</title>
+ <link>http://transmissionproject.org/taxonomy/term/390/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Poster to Encourage Event Hashtagging</title>
+ <link>http://transmissionproject.org/resources/2010/10/poster-to-encourage-event-hashtagging</link>
+ <description>&lt;p&gt;A poster created by corps member Carolyn Braunius to encourage the use of the #barnraising hashtag at the WGXC Radio Barnraising Event. The hashtagged media was then used to create a website with all crowdsourced content: &lt;a href=&quot;http://www.mediasanctuary.tv&quot;&gt;www.mediasanctuary.tv&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/poster-to-encourage-event-hashtagging#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-social-media-resources">Featured Social Media Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/hashtagging">hashtagging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/poster">poster</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/BarnRaisinghashtagflyer.pdf" length="168017" type="application/pdf" />
+ <pubDate>Tue, 12 Oct 2010 14:34:55 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">320 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

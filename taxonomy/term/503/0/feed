@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - installation</title>
+ <link>http://transmissionproject.org/taxonomy/term/503/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Marketing and Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/marketing-and-outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art">art</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/installation">installation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/promotional-video">promotional video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-art">public art</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <pubDate>Thu, 21 Oct 2010 14:41:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">466 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

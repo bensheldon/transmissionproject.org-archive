@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - computer literacy</title>
+ <link>http://transmissionproject.org/taxonomy/term/597/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Technology Capacity Coordinator</title>
+ <link>http://transmissionproject.org/content/technology-capacity-coordinator-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-literacy">computer literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology-planning">technology planning</category>
+ <pubDate>Wed, 03 Nov 2010 18:50:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">765 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Media Literacy Critical in Today’s Schools</title>
+ <link>http://transmissionproject.org/current/2010/10/media-literacy-critical-in-today%E2%80%99s-schools</link>
+ <description>&lt;p&gt;John Urkevich, Executive Director of Cooperating School Districts of Greater St. Louis, Inc. discusses the &lt;a&gt;need for media literacy training in schools&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+In 2010, employers are stressing the importance of not only being technology savvy, but also media literate. One of the biggest challenges in media literacy is to locate and evaluate information and recognize and understand the source. The ability to clearly focus on content and ignore the distractions of the media is critical in our world&amp;nbsp;today.&lt;/p&gt;
+&lt;p&gt;Cooperating School Districts of Greater St. Louis is proud to support educators in becoming both technology literate and media literate. In turn, students in St. Louis schools are using media literacy skills to create their own multimedia projects while gaining a better understanding of the media that surround their daily&amp;nbsp;lives.&lt;/p&gt;
+&lt;p&gt;CSD recognizes the importance of media literacy and the role it plays in helping students develop skills including critical thinking, problem solving and story telling. In addition, we are a member of the Gateway Media Literacy Partners (GMLP). Media education, with critical thinking, creative communication, and technology literacy is a key part of a 21st century approach to&amp;nbsp;learning.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;We have been richly discussing this point at the Transmission Project: not only do people need to know how to use technology and create media, but they also need to know the context and motivations behind it as&amp;nbsp;well.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/10/media-literacy-critical-in-today%E2%80%99s-schools#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-literacy">computer literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-literacy">digital literacy</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/literacy">literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-literacy">media literacy</category>
+ <pubDate>Thu, 28 Oct 2010 20:15:33 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">680 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

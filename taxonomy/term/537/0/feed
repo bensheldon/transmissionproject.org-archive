@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - tv programming</title>
+ <link>http://transmissionproject.org/taxonomy/term/537/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv">tv</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv-programming">tv programming</category>
+ <pubDate>Mon, 25 Oct 2010 18:04:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">575 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

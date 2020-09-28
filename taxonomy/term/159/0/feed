@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - IT</title>
+ <link>http://transmissionproject.org/taxonomy/term/159/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>O&#039;Reilly Velocity </title>
+ <link>http://transmissionproject.org/events/2010/06/oreilly-velocity</link>
+ <description>&lt;p&gt;Web performance and operations is an emerging discipline which requires incredible breadth, focusing less on specific technologies and more on how the entire system works together. While people often specialize in particular components, great engineers and developers understand web performance and operations in relation to the whole. The best are able to fly to the 50,000 foot view and see the entire system in motion and then zoom in to microscopic levels and examine the tiny movements of an individual&amp;nbsp;part.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/it">IT</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-development">web development</category>
+ <pubDate>Mon, 07 Jun 2010 17:59:25 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">255 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Technology Conference and Expo</title>
+ <link>http://transmissionproject.org/events/2010/02/technology-conference-and-expo</link>
+ <description>&lt;p&gt;Get ready for another top-notch, high-tech learning experience! The Conference is designed to equip associations and nonprofit organizations with the tools needed to keep pace with the rapidly changing world; to strategically use technology to better serve their members, effect social change and uphold their missions. The 2010 Technology Conference &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Expo in Washington, &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt; brings renowned thought leaders, representing a diverse cache of technology industries, for two and a half days of networking, interactive discussion, and hands-on learning all focused around the most pressing technology issues affecting organizations&amp;nbsp;today.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it">IT</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/software">software</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <pubDate>Mon, 14 Dec 2009 19:52:20 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">132 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Nonprofit Technology Conference</title>
+ <link>http://transmissionproject.org/events/2010/04/nonprofit-technology-conference</link>
+ <description>&lt;p&gt;The Nonprofit Technology Conference (&lt;span class=&quot;caps&quot;&gt;NTC&lt;/span&gt;) will bring together an outstanding group of nonprofit leaders, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; innovators, communications gurus, fundraising superstars amongst other nonprofit staff looking to learn the latest trends, practical how-tos, and &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; solutions to optimize their organization&amp;#8217;s technology to further their missions to create more social good in the&amp;nbsp;world. &lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/communicaiton">communicaiton</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it">IT</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit">nonprofit</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Mon, 14 Dec 2009 19:37:26 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">129 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>State Of The Net</title>
+ <link>http://transmissionproject.org/events/2010/01/state-of-the-net</link>
+ <description>&lt;p&gt;The State of the Net Conference is the largest information technology policy conference in the &lt;span class=&quot;caps&quot;&gt;US&lt;/span&gt;, attracting over 550 attendees in 2009. The conference framed the policy debates facing the new Administration and the new Congress. The State of the Net Conference is the only tech policy conference routinely recognized for its balanced blend of academics, consumer groups, industry and government (over 50% of 2009 attendees were government policy&amp;nbsp;staff).&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/government">government</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it">IT</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <pubDate>Mon, 14 Dec 2009 19:13:21 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">124 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

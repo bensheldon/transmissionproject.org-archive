@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - telecommunications</title>
+ <link>http://transmissionproject.org/taxonomy/term/120/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Everett C. Parker Ethics in Telecommunications Lecture</title>
+ <link>http://transmissionproject.org/events/2009/09/the-everett-c-parker-ethics-in-telecommunications-lecture</link>
+ <description>&lt;p&gt;The Everett C. Parker Ethics in Telecommunications Lecture was created in 1982 to recognize Parker&amp;#8217;s pioneering work as an advocate for the public&amp;#8217;s rights in broadcasting. It is the only lecture in the country to examine telecommunications and the digital age from an ethical&amp;nbsp;perspective.&lt;/p&gt;
+&lt;p&gt;Parker speakers include network presidents, Congressional leaders, &lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; chairs and commissioners, as well as academics, cable and telephone executives, and journalists. It is funded by the communications industry, particularly broadcasters, along with the communications offices of major faith&amp;nbsp;groups. &lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ethics">ethics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/lecture">lecture</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/telecommunications">telecommunications</category>
+ <pubDate>Thu, 20 Aug 2009 21:04:47 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">103 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

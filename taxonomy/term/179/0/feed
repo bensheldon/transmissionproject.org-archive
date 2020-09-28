@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - social psychology</title>
+ <link>http://transmissionproject.org/taxonomy/term/179/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>AAAI Conference on Weblogs and Social Media</title>
+ <link>http://transmissionproject.org/events/2010/05/aaai-conference-on-weblogs-and-social-media</link>
+ <description>&lt;p&gt;The International Conference on Weblogs and Social Media is a unique venue that brings together researchers from the disciplines of &lt;span class=&quot;caps&quot;&gt;NLP&lt;/span&gt;, Social Psychology, Data Mining, Sociology and Visualization to increase our understanding of social media in all its incarnations. Research that blends social science and technology is especially&amp;nbsp;encouraged.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/data-mining">data mining</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-psychology">social psychology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/visualization">visualization</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/weblogs">weblogs</category>
+ <pubDate>Mon, 14 Dec 2009 20:19:57 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">137 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - teens</title>
+ <link>http://transmissionproject.org/taxonomy/term/453/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Media Program Development</title>
+ <link>http://transmissionproject.org/content/youth-media-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers-in-home">computers in home</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teens">teens</category>
+ <pubDate>Tue, 02 Nov 2010 17:31:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">734 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Youth Program Development</title>
+ <link>http://transmissionproject.org/content/youth-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/sustainability">sustainability</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teens">teens</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Wed, 27 Oct 2010 15:53:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">644 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Young Entrepreneurs Society, Inc.</title>
+ <link>http://transmissionproject.org/projects/young-entrepreneurs-society-inc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/business-aid">business aid</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teens">teens</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>42.589201 -72.309609</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:32:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">460 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Reel Works Teen Filmmaking</title>
+ <link>http://transmissionproject.org/projects/reel-works-teen-filmmaking</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/film">film</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teens">teens</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <georss:point>40.677383 -73.985131</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:40:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">435 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - organizing</title>
+ <link>http://transmissionproject.org/taxonomy/term/149/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Learning and Cablecast Development</title>
+ <link>http://transmissionproject.org/content/youth-learning-and-cablecast-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/documentary">documentary</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/dvd">DVD</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/organizing">organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/producer">producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv-producer">tv producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-media-education">youth media education</category>
+ <pubDate>Thu, 21 Oct 2010 14:29:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">465 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Snapshots from the field</title>
+ <link>http://transmissionproject.org/current/2010/9/snapshots-from-the-field</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/jw1.jpg&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Corps member Jessica Wholey gives us a snapshot into her process while working at &lt;a href=&quot;http://batv.org/&quot;&gt;Brookline Access Television&lt;/a&gt;. Jessica is building capacity at BATV this year through outreach, media and technology training, grant writing, volunteer recruitment and website&amp;nbsp;development.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/jw2.jpg&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/9/snapshots-from-the-field#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/from-the-field">from the field</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/organizing">organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/to-do-list">to-do list</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/jw1.jpg" length="251482" type="image/jpeg" />
+ <pubDate>Thu, 23 Sep 2010 16:56:48 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">285 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Organizing 2.0</title>
+ <link>http://transmissionproject.org/events/2009/12/organizing-20</link>
+ <description>&lt;p&gt;Is online organizing really ‘organizing’? That’s a challenging question for those of us from a labor or community organizing background. That said, online organizing has received a lot of positive attention recently in connection with the presidential elections. What does this mean for our organizations? What skills do we need to share to make the most of no-longer-new online tools for our campaigns in New&amp;nbsp;York?&lt;/p&gt;
+&lt;p&gt;Registration is now open. Tickets are&amp;nbsp;$15.&lt;/p&gt;
+&lt;p&gt;Registration on the day of the event will be&amp;nbsp;$20.&lt;/p&gt;
+&lt;p&gt;Organizing 2.0 is a grassroots led conference of social justice organizers primarily from labor and the community organizing world. Participants range from those new to online organizing as well as experienced&amp;nbsp;professionals.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community">community</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/events">Events</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/how-to">how to</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/organizing">organizing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/politics">politics</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/social-movement">social movement</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/24">social networks</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/32">twitter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youtube">youtube</category>
+ <pubDate>Mon, 30 Nov 2009 18:52:35 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">120 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

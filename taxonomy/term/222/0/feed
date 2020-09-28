@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - program</title>
+ <link>http://transmissionproject.org/taxonomy/term/222/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Program and Poster for Dessert Tasting Fundraiser</title>
+ <link>http://transmissionproject.org/resources/2011/5/program-and-poster-for-dessert-tasting-fundraiser</link>
+ <description>&lt;p&gt;Poster and Program Pamphlet for a Dessert Tasting Fundraiser by corps member Molly&amp;nbsp;Higgins.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/5/program-and-poster-for-dessert-tasting-fundraiser#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/event">event</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-events-resources">Featured Events Resources</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/poster">poster</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program">program</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Dessert Tasting 2011 copy.pdf" length="376123" type="application/pdf" />
+ <pubDate>Thu, 26 May 2011 19:52:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">950 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Youth Program Application</title>
+ <link>http://transmissionproject.org/resources/2010/10/youth-program-application</link>
+ <description>&lt;p&gt;An application created by corps member Molly Higgins for &lt;a href=&quot;http://www.angelfire.com/freak2/capay4ever/Capay.html&quot;&gt;CAPAY&lt;/a&gt;&amp;#8217;s YouthLearn&amp;nbsp;Program.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/youth-program-application#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/application">application</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program">program</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/YLapplication10.doc" length="3020800" type="application/msword" />
+ <pubDate>Tue, 12 Oct 2010 15:27:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">321 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Introducing our BTOP Evaluation Assistance Initiative</title>
+ <link>http://transmissionproject.org/current/2010/2/introducing-our-btop-evaluation-assistance-initiative</link>
+ <description>&lt;p&gt;The Transmission Project Project is happy to announce a new initiative, the &lt;a href=&quot;/btop&quot;&gt;&lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt; Evaluation Assistance Initiative&lt;/a&gt;, in support of Round 1 recipients and Round 2 applicants to increase the capacity of non-profits to evaluate the efforts of their &lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt;&amp;nbsp;projects. &lt;/p&gt;
+&lt;p&gt;Leveraging our Digital Arts Service Corps and long experience in developing capacity building projects, we will assist in creating evaluation tools and processes to meet the &lt;span class=&quot;caps&quot;&gt;BTOP&lt;/span&gt; requirements for a set of awardees. On a national level, we will also aggregate and analyze evaluation data across projects and create case studies and field&amp;nbsp;reports.&lt;/p&gt;
+&lt;p&gt;This project was developed through the recommendations of the &lt;a href=&quot;http://www.benton.org/node/28568&quot;&gt;Benton Foundation Toolkit: Philanthropy’s Role in Creating a Connected America&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Track Impact: Philantropists can support the research needed to measure the impact of broadband stimulus funding and identifying best  practices for national&amp;nbsp;models
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/2/introducing-our-btop-evaluation-assistance-initiative#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program">program</category>
+ <pubDate>Thu, 11 Feb 2010 21:33:05 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">171 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

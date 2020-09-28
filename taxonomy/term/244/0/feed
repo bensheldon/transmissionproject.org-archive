@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - capacity building</title>
+ <link>http://transmissionproject.org/taxonomy/term/244/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Capacity Building and Interactive Communication</title>
+ <link>http://transmissionproject.org/resources/2010/9/capacity-building-and-interactive-communication</link>
+ <description>&lt;p&gt;Developing on a previous article about Digital Arts Service Corps alumni’s experiences with Salesforce implementation projects, this case study of Appalshop explores the decision-making process behind a database implementation in order to make explicit the connection between the construction of an online database and the advancement of an organization’s&amp;nbsp;mission.  &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/capacity-building-and-interactive-communication#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Capcity Building and Interactive Communication_1.pdf" length="362420" type="application/pdf" />
+ <pubDate>Thu, 23 Sep 2010 17:39:13 +0000</pubDate>
+ <dc:creator>Howie Fisher</dc:creator>
+ <guid isPermaLink="false">287 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>New resource in WORKBENCH</title>
+ <link>http://transmissionproject.org/current/2010/8/new-resource-in-workbench</link>
+ <description>&lt;p&gt;Hello&amp;nbsp;all,&lt;/p&gt;
+&lt;p&gt;As a Digital Arts Service Corps member serving at Transmission Project &lt;span class=&quot;caps&quot;&gt;HQ&lt;/span&gt;, one of my roles is to conduct research on emerging trends in the public media and nonprofit fields &amp;#8211; hopefully to the benefit of other Corps members and the Transmission Project’s partner organizations alike. For ten years, the Transmission Project has recruited one-year Americorps*&lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; members (VISTAs) into its Digital Arts Service Corps and placed them with community-based media organizations in support of an explicitly-defined capacity building project. It is my goal to share some of our knowledge and experience&amp;nbsp;here.&lt;/p&gt;
+&lt;p&gt;This week I discuss the increasing popularity of Salesforce among nonprofits and delve into both the situations that have enabled past VISTAs’ successes and the setbacks that have hindered them in implementing this new platform. The article is listed under &lt;a href=&quot;http://transmissionproject.org/resources/2010/8/vista-and-the-database&quot;&gt;resources &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; artifacts&lt;/a&gt; and can also be downloaded from attachments,&amp;nbsp;below.&lt;/p&gt;
+&lt;p&gt;Finally, I would like to thank those who contributed to the ariticle&amp;#8217;s creation.&lt;br /&gt;
+- Marc Baizman, Nonprofit Technology Consulting&lt;br /&gt;
+(&lt;a href=&quot;http://www.mcgtraining.com&quot; title=&quot;http://www.mcgtraining.com&quot;&gt;http://www.mcgtraining.com&lt;/a&gt;)&lt;br /&gt;
+- Billy Brown, Transmission Project&lt;br /&gt;
+(&lt;a href=&quot;http://www.transmissionproject.org&quot; title=&quot;http://www.transmissionproject.org&quot;&gt;http://www.transmissionproject.org&lt;/a&gt;&lt;br /&gt;
+- Stephen Jordan, &lt;span class=&quot;caps&quot;&gt;UTEC&lt;/span&gt;&lt;br /&gt;
+(&lt;a href=&quot;http://www.utec-lowell.org&quot; title=&quot;http://www.utec-lowell.org&quot;&gt;http://www.utec-lowell.org&lt;/a&gt;)&lt;br /&gt;
+- Nick Szuberla, Appalshop&lt;br /&gt;
+(&lt;a href=&quot;http://www.appalshop.org&quot; title=&quot;http://www.appalshop.org&quot;&gt;http://www.appalshop.org&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I do hope the article is of help. If you have questions after reading, please contact&amp;nbsp;me,&lt;/p&gt;
+&lt;p&gt;Howie Fisher @ The Transmission Project&lt;br /&gt;
+&lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; member&lt;br /&gt;
+(617) 287 - 7152&lt;br /&gt;
+&lt;a href=&quot;mailto:howie@transmissionproject.org&quot;&gt;howie@transmissionproject.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://transmissionproject.org&quot; title=&quot;http://transmissionproject.org&quot;&gt;http://transmissionproject.org&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/8/new-resource-in-workbench#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - The VISTA and the Database_0.pdf" length="357975" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 19:02:46 +0000</pubDate>
+ <dc:creator>Howie Fisher</dc:creator>
+ <guid isPermaLink="false">264 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>VISTA and the Database</title>
+ <link>http://transmissionproject.org/resources/2010/8/vista-and-the-database</link>
+ <description>&lt;p&gt;An article about past Digital Arts Service Corps members&amp;#8217; experiences with the implementation of&amp;nbsp;Salesforce.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/8/vista-and-the-database#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - The VISTA and the Database_2.pdf" length="357975" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 18:49:10 +0000</pubDate>
+ <dc:creator>Howie Fisher</dc:creator>
+ <guid isPermaLink="false">263 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>A national service consensus on capacity building</title>
+ <link>http://transmissionproject.org/current/2010/3/a-national-service-consensus-on-capacity-building</link>
+ <description>&lt;p&gt;In addition to being native to the islands of public media and technology, the Transmission Project is also a bright star in the constellation of national service initiatives. Over the past few months we have been participating in stakeholder dialogues with the Corporation for National Community Service on the topic of capacity building in&amp;nbsp;nonprofits.&lt;/p&gt;
+&lt;p&gt;The summaries of those dialogues have been shared and the results are quite fascinating. While the Corporation for National Service is quite obviously interested in volunteerism, it is good to see that they recognize that fielding community resources requires more than many hands. Through the dialogues the following capacity building needs were&amp;nbsp;identified:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+The most critical capacity building issues facing small and midsize nonprofits right now are sustainability (cash flow and consistent funding, particularly for infrastructure), leadership, ability to nurture partnerships and relationships, capacity to manage and retain volunteers, weak understanding of the role of governance, short-term thinking and stagnation, capacity to use technology, and capacity to manage and cultivate human capital, both paid and&amp;nbsp;volunteer.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Interesting also were the recommendation on the role the Corporation for National and Community service can play. On a small scale, they sound very similar to the role we see for the Transmission Project as we build to&amp;nbsp;scale:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+The most critical role the Corporation can play and where the Corporation can have the greatest impact for limited investment is in continuing to convene the stakeholders across sectors – government, nonprofit, and foundation/corporate; conduct and disseminate research on what’s working and not working in the nonprofit sector; establish a “framework of standardized or effective practices – “be the go-to place” for tools and funding opportunities; help to define the metrics for measuring social impact and train nonprofits on this; recognize and affirm what works; train the trainer; invest in the development of emerging leaders; support interagency collaboration; and streamline our grant processes. The Corporation was strongly encouraged to not duplicate what already exists, to work with&lt;br /&gt;
+existing intermediaries, encourage other funders to invest in nonprofit capacity building, and to encourage interagency communication and collaboration. Cultural competency is critical to the effectiveness of capacity building&amp;nbsp;strategies.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Lastly, I think the qualities of effective intermediaries and partners is quite enlightening (and also similar to the traits we seek out in our&amp;nbsp;partners):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+The Corporation should select intermediaries who demonstrate an ability to convene and partner with other intermediaries, have a solid infrastructure to measure their success&amp;#8230;[and] a track-record of ongoing assistance with&amp;nbsp;recipients
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You can download a copy of the report&amp;nbsp;below.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/3/a-national-service-consensus-on-capacity-building#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/capacity-building">capacity building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/dialogues">dialogues</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service">service</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/10_0310_npcb_oldt.pdf" length="34843" type="application/pdf" />
+ <pubDate>Wed, 10 Mar 2010 21:28:35 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">189 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

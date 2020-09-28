@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - infographic</title>
+ <link>http://transmissionproject.org/taxonomy/term/254/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>2009 Constituent Data </title>
+ <link>http://transmissionproject.org/resources/2010/5/2009-constituent-data</link>
+ <description>&lt;p&gt;A document detailing 2009 constituent data. Prepared by corps member Bill&amp;nbsp;Brown.  &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/5/2009-constituent-data#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/infographic">infographic</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/statistics">statistics</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/ccstb.data2009.pdf" length="127251" type="application/pdf" />
+ <pubDate>Mon, 03 May 2010 16:32:08 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">238 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Visualizing 10 years of impact</title>
+ <link>http://transmissionproject.org/current/2010/3/visualizing-10-years-of-impact</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/transmission-scope.png&quot; alt=&quot;Transmission Project Size and Scope Infographic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday we &lt;a href=&quot;http://transmissionproject.org/current/2010/3/visualizing-10-years-of-service&quot;&gt;posted&lt;/a&gt; an infographic showing all of the service members we&amp;#8217;ve placed. Since our focus is on building the capacity of organizations that use media and technology to strengthen communities, it&amp;#8217;s equally important (if not &lt;em&gt;more&lt;/em&gt;) to  chart out all of the nonprofits and institutions we&amp;#8217;ve placed Digital Arts Service Corps (and &lt;span class=&quot;caps&quot;&gt;CTC&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; before it) members over our 10 year history. &lt;em&gt;(160 organizations is a tough fit, so you can download &lt;a href=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - Size and Scope Infographic.pdf&quot;&gt;this visual as a full-sized &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;&lt;/a&gt; for easier&amp;nbsp;reading.)&lt;/em&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/3/visualizing-10-years-of-impact#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/infographic">infographic</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/meta">meta</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit">nonprofit</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service">service</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission Project - Size and Scope Infographic.pdf" length="260488" type="application/pdf" />
+ <pubDate>Tue, 30 Mar 2010 16:26:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">199 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

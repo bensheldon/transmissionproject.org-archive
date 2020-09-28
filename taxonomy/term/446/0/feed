@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - disaster relief</title>
+ <link>http://transmissionproject.org/taxonomy/term/446/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Resource Database Development</title>
+ <link>http://transmissionproject.org/content/community-resource-database-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/disaster-relief">disaster relief</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit-support-services">nonprofit support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/resource-development">resource development</category>
+ <pubDate>Thu, 04 Nov 2010 15:01:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">773 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Article on the Importance of Radio in Disaster Situations</title>
+ <link>http://transmissionproject.org/resources/2010/10/article-on-the-importance-of-radio-in-disaster-situations</link>
+ <description>&lt;p&gt;An article on the importance of Community Radio Recovery in Haiti after the 2010 earthquake by corps member Brandy Doyle demonstrates the importance of having community radio in the United&amp;nbsp;States.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/article-on-the-importance-of-radio-in-disaster-situations#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/article">article</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disaster-relief">disaster relief</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-radio-resources">Featured Radio Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/haiti">haiti</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/haitidoc.doc" length="46592" type="application/msword" />
+ <pubDate>Fri, 22 Oct 2010 18:26:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">539 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>New Orleans Neighborhoods Partnership Network</title>
+ <link>http://transmissionproject.org/projects/new-orleans-neighborhoods-partnership-network</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-journalism">community journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disaster-relief">disaster relief</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/neighborhood-development">neighborhood development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-government">open government</category>
+ <georss:point>29.980068 -90.108950</georss:point>
+ <pubDate>Wed, 20 Oct 2010 14:53:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">416 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

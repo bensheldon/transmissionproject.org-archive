@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - excel</title>
+ <link>http://transmissionproject.org/taxonomy/term/548/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website and Database Building</title>
+ <link>http://transmissionproject.org/content/website-and-database-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/excel">excel</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mapping">mapping</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 26 Oct 2010 16:31:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">595 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

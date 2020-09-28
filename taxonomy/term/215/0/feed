@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - attitude</title>
+ <link>http://transmissionproject.org/taxonomy/term/215/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Fear and the internet</title>
+ <link>http://transmissionproject.org/current/2010/2/fear-and-the-internet</link>
+ <description>&lt;p&gt;Cleaning up the office last week, I ran across a lovely historical classic from 1996: &lt;em&gt;Using the internet for social science research and practice&lt;/em&gt; by Edward Kardas and Tommy Milford. In addition to lists of useful Gopher servers and &lt;span class=&quot;caps&quot;&gt;WAIS&lt;/span&gt; databases, it has this nugget about&amp;nbsp;attitude:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+All of us are in a time of transition with tools like computers and the Internet. Because we grew up using other tools, we may be reluctant to learn new ones. Interestingly, if you watch young children—say, two- to four-years old—they seem to lack any fear of computers. They don&amp;#8217;t view computers as being new and different, and computer use seems to come to them naturally. So, maybe it is best to approach computers the way your little brother or sister might, assuming that computers are just another part of your world, something to learn, explore, and use. In the end, the Internet is neither good nor bad, right nor wrong, scary nor pleasant. As with any tool, our feelings about it come from our success at using it. Once you learned to hit the nail and not your thumb, you felt more positive about hammers, didn&amp;#8217;t&amp;nbsp;you?
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/2/fear-and-the-internet#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/attitude">attitude</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/book">book</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/history">history</category>
+ <pubDate>Tue, 02 Feb 2010 16:26:03 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">164 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

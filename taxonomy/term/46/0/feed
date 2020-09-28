@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - bling</title>
+ <link>http://transmissionproject.org/taxonomy/term/46/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Magnetic Car Ad, HandyCapable Network</title>
+ <link>http://transmissionproject.org/resources/2009/6/magnetic-car-ad-handycapable-network</link>
+ <description>&lt;p&gt;An example of how to promote your organization and its programs inexpensively: print up magnets to put on your cars. This inexpensive and portable strategy was developed by Nathan Badera at HandyCapable Network in Greensboro,&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;NC&lt;/span&gt;.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/6/magnetic-car-ad-handycapable-network#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/bling">bling</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/9">communications</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/van picture.jpg" length="149841" type="image/jpeg" />
+ <pubDate>Fri, 12 Jun 2009 19:53:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">23 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - special needs</title>
+ <link>http://transmissionproject.org/taxonomy/term/551/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Volunteer Outreach and Program Development</title>
+ <link>http://transmissionproject.org/content/volunteer-outreach-and-program-development-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/special-needs">special needs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-recruitment">Volunteer recruitment</category>
+ <pubDate>Tue, 26 Oct 2010 17:01:55 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">603 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Volunteer Outreach and Computer Training</title>
+ <link>http://transmissionproject.org/content/volunteer-outreach-and-computer-training</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/disabilities">disabilities</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/esl">ESL</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/special-needs">special needs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-recruitment">Volunteer recruitment</category>
+ <pubDate>Tue, 26 Oct 2010 16:39:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">597 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

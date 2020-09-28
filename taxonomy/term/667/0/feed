@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - curricula development</title>
+ <link>http://transmissionproject.org/taxonomy/term/667/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-11</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/curricula-development">curricula development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainer">train the trainer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 23 Nov 2010 18:06:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">891 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

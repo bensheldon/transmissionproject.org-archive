@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - Vietnamese Americans</title>
+ <link>http://transmissionproject.org/taxonomy/term/480/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Boat People SOS - Atlanta, GA</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-atlanta-ga</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>33.900351 -84.273615</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:23:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">485 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Boat People SOS - Washington, DC</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-washington-dc</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>38.895112 -77.036366</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:21:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">484 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Boat People SOS - Virginia</title>
+ <link>http://transmissionproject.org/projects/boat-people-sos-virginia</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/support-services">support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vietnamese-americans">Vietnamese Americans</category>
+ <georss:point>38.858059 -77.141629</georss:point>
+ <pubDate>Thu, 21 Oct 2010 17:18:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">482 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,375 @@
+
+/*
+Purple: #260F54
+Light Purple: #9287AA
+Grey Purple: #494455
+
+Dark Grey: #222222;
+Medium Gray: #444444
+Light Gray: #888888
+
+*/
+
+body {
+	color:#222222;
+	background: #ddd url(images/boardedTube-long.png)  top center no-repeat;
+	
+}
+
+.container {
+	background-color: #fff;
+	border-top: none;
+	margin-top:none;
+	padding-top:none;
+}
+
+#header {
+	border-top: none;
+	margin-top:none;
+	padding-top:none;
+}
+
+
+
+a, a:link {
+	color: #260F54;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+hr {
+	background:#888;
+	color:#888;
+}
+
+.alt { 
+  color: #444; 
+}
+
+#header-top {
+	background: url(images/stripe-thin-gray.png) repeat;
+	border-bottom: 1px solid #888888;
+	border-left: 1px solid #888888;
+}
+
+#secondary-nav {
+	font-weight: bold;
+}
+
+#secondary-nav ul li a {
+	text-decoration: none;
+	color: #000;
+}
+
+#secondary-nav ul li a:hover {
+	color: #494455;
+}
+
+#search-box {
+	margin: 0;
+	border-right: 1px solid #ccc;
+}
+
+
+/**
+ * Primary Navigation
+ */
+
+#primary-nav {
+	border: 1px solid #260F54;
+	background-color: #260F54;
+}
+
+#primary-nav li {
+
+}
+
+#primary-nav ul li a {
+	color:#fff;
+	border-right: 1px solid #888; 
+}
+
+#primary-nav ul li.first a {
+	border-left: none; 
+}
+
+#primary-nav ul > li a:hover {
+	background: #494455;
+}
+
+#primary-nav ul > li a.active {
+	color: #000;
+	background: #888 url(images/stripe-thin-gray.png) repeat;
+}
+
+#primary-nav ul li a.active span.speaking-box {
+	color: #444;
+}
+
+#primary-nav ul li span.speaking-box {
+	color: #888;
+}
+
+
+
+
+
+#header h1 a {
+	color:#000;
+}
+
+#header h2 {
+	color:#444;
+}
+
+#special-nav {
+	background:transparent url("http://transmissionproject.org/sites/all/themes/neewee/images/rss-header.png") no-repeat 0px 1px;
+}
+
+
+
+h1,h2,h3,h4,h5 {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+
+.node h3.node-title a {
+	color:#444444;
+	font-weight:bold;
+}
+
+.node h3.node-title a:hover {
+	color:#000;
+}
+
+.node-metadata,
+.comment-metadata {
+	color: #888888; 
+}
+
+.node-metadata a,
+.node-metadata a:link {
+	color: #9287AA;
+}
+
+.list {
+	margin-bottom: 1.5em;
+	border-bottom:1px solid #888888;
+}
+
+
+.node blockquote {
+	color: #444;
+	font-style: normal;
+	border-left: 5px solid #888;
+	padding-left: 10px;
+}
+
+/* Comments */
+
+.block {
+	border-bottom:1px solid #888888;
+}
+ 
+
+.block ul li {
+/*	background:transparent url("images/arrow.png") no-repeat 0px 6px; */
+}
+
+.author-comment {
+	background-color:#d0eefd;
+}
+
+/**
+ * Tabs
+ */
+#current-header {
+	border-bottom: 1px solid #888888;
+	margin-bottom: 1.5em;
+	padding-bottom: 1.5em;
+	
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#current-filter {
+	font-weight: bold;
+	float: left;
+	margin-left: 10px;
+}
+
+.current-filter-choice {
+	float: left;
+	margin-left: 10px;
+}
+
+.current-filter-choice a {
+	-moz-border-radius-topleft:5px;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topright:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px;
+	background: #ddd;
+	padding: 5px 10px;
+	color: #222;
+	text-decoration:none;
+}
+
+.current-filter-choice a.active {
+	background: #9287AA;
+}
+
+.current-filter-choice a:hover {
+	background-color: #494455;
+	color: #fff;
+}
+
+.current-filter-choice.rss a {
+	background: #FFD066;
+}
+
+.current-filter-choice.rss a:hover {
+	background: #E47D29;
+}
+
+.current-filter-choice img {
+	vertical-align: top;
+}
+
+
+/**
+ * Theme Images
+ */
+.imagecache-resource-thumbnail img, img.imagecache-resource-thumbnail{
+	border: 1px solid #888888;
+	background: url(images/stripe-thin-gray.png) repeat;
+	background-color: #888888;
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.imagecache-thumbnail-50wide {
+	float: right;
+}
+
+table, tbody {
+	border: none;
+}
+
+
+.views-view-grid .col-1,
+.views-view-grid .col-2 {
+	width:50%;
+}
+
+
+#footer {
+	color: #eee;
+	background-color: #888;
+}
+
+#footer a {
+	color: #494455;
+
+}
+
+#footer a:hover {
+		color: #444;
+}
+
+/**
+ * Comments
+ */
+.box {
+	background-color: #9287AA;
+}
+
+/* Billy B in the house! */
+
+#block-block-18, #block-block-22 {
+border-bottom: none;
+border: none;
+border-bottom: 0;
+border: 0;
+}
+
+#block-block-22 h4 {
+font-size: 22px;
+margin-bottom: 10px;
+color: #333;
+}
+
+#block-block-22 {
+margin: 0px 50px;
+}
+
+p#multicolumn1 {
+  -moz-column-count: 2;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;
+	column-count: 2;
+	column-gap: 20px;
+}
+
+#node-931 {
+display: none;
+border: none;
+}
+
+#node-924 h3  {
+font: normal 40px/40px Bebas, Georgia;
+color: #333;
+margin-bottom: 5px;
+}
+
+#node-924 h4 {
+font: normal 30px/30px Bebas, Georgia;
+margin-bottom: 5px;
+padding-bottom: 0px;
+color: #333;
+}
+
+#node-924 li {
+margin-left: 20px;
+}
+
+#block-block-23 {
+	padding: 0 10px;
+	border: none;
+}
+
+#block-block-23 p {
+	float: left;
+	width: 350px;
+	padding-right: 20px;
+	border-right: 1px solid #ddd;
+}
+
+#block-block-23 ul li {
+	list-style: none;
+	}
+
+#block-block-23 ul li a {
+	float: right;
+	width: 250px;
+	background:  #ddd;
+	margin: 0 0 10px 10px;
+	height: 20px;
+	text-align: center;
+	padding: 5px 0 5px 0;
+}
+
+#block-block-23 ul li a:hover {
+	background: #bbb;
+	}
+

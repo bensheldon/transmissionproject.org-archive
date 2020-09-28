@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - resource development</title>
+ <link>http://transmissionproject.org/taxonomy/term/629/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Resource Database Development</title>
+ <link>http://transmissionproject.org/content/community-resource-database-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/disaster-relief">disaster relief</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit-support-services">nonprofit support services</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/resource-development">resource development</category>
+ <pubDate>Thu, 04 Nov 2010 15:01:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">773 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

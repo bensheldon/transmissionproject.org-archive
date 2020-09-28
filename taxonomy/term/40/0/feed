@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - nptech</title>
+ <link>http://transmissionproject.org/taxonomy/term/40/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Nonprofit Technology Conference, 2009</title>
+ <link>http://transmissionproject.org/events/2009/04/nonprofit-technology-conference-2009</link>
+ <description>&lt;p&gt;We were there. Download the &lt;a href=&quot;https://www.ntenonline.org/EWEB/DynamicPage.aspx?webcode=EventSessions&quot;&gt;Session&amp;nbsp;Materials&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+The 2009 Nonprofit Technology Conference took place Sunday, April 26 through Tuesday, April 28 at the San Francisco Hilton. Thanks to all 1,450 of you who joined the movement of nonprofits using technology to create social&amp;nbsp;change!
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/nptech">nptech</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Tue, 09 Jun 2009 13:45:31 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">15 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - health</title>
+ <link>http://transmissionproject.org/taxonomy/term/12/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>YMCA of Greater Boston</title>
+ <link>http://transmissionproject.org/projects/ymca-of-greater-boston</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <georss:point>42.340646 -71.087637</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:29:09 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">459 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Plumas County Health Agency</title>
+ <link>http://transmissionproject.org/projects/plumas-county-health-agency</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/healhcare">healhcare</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <georss:point>39.936836 -120.947176</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:55:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">429 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Gov 2.0 Summit</title>
+ <link>http://transmissionproject.org/events/2010/09/gov-20-summit</link>
+ <description>&lt;p&gt;Gov 2.0 Summit brings together innovators from government and the private sector to highlight technology and ideas that can be applied to the nation’s great challenges. In areas as diverse as education, health care, energy, jobs, and financial reform, there are unique opportunities to rethink how government agencies perform their mission and serve our citizens. Social media, cloud computing, web, and mobile technologies—all provide new capabilities that government agencies are beginning to harness to achieve demonstrably better results at lower&amp;nbsp;cost.&lt;/p&gt;
+&lt;p&gt;Happening September 7-8 at the Grand Hyatt Washington, Gov 2.0 Summit brings the latest in technology thinking and capabilities to Washington, with fresh voices, cutting edge demos, and thought-provoking conversations. We explore the implications of the latest technology for policy, for the design of government programs, and for the implementation of government technology&amp;nbsp;strategy.&lt;/p&gt;
+&lt;p&gt;You’ll hear from industry giants like Cisco, &lt;span class=&quot;caps&quot;&gt;IBM&lt;/span&gt;, Microsoft, and Google, as well as innovative startups like Palantir, drop.io, Slideshare, and more. You’ll also hear from leading government technology implementers and policymakers about their successes, the obstacles they face, and their plans for the future. Simply put, you’ll learn how the latest technology can transform the way you do your job and achieve your&amp;nbsp;mission.&lt;/p&gt;
+&lt;p&gt;Our focus this year is on opening the door to innovation — learning about the latest technology and its application, and breaking down the barriers to its&amp;nbsp;adoption.&lt;/p&gt;
+&lt;p&gt;Some of the issues you can expect to hear about at Gov 2.0 Summit&amp;nbsp;are:&lt;/p&gt;
+&lt;p&gt;    * The Power of Platforms&lt;br /&gt;
+    * Fueling the Innovation Economy&lt;br /&gt;
+    * Identity, Privacy, and Informed Consent&lt;br /&gt;
+    * Cost Savings and Doing More with Less&lt;br /&gt;
+    * Empowering Citizens&lt;br /&gt;
+    * Improving Government&amp;nbsp;Effectiveness&lt;/p&gt;
+&lt;p&gt;The opportunity for you to request an invitation to attend this year’s event is now open. Last year’s event was sold out. Submit your request today and reserve your place in the&amp;nbsp;discussion.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cloud">cloud</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/energy">energy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/government">government</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs">jobs</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mobile">mobile</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/summit">summit</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Wed, 25 Aug 2010 16:24:30 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">266 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Third Annual Consumers Union Activist Summit</title>
+ <link>http://transmissionproject.org/events/2010/02/third-annual-consumers-union-activist-summit</link>
+ <description>&lt;p&gt;Join activists from all over the country at the Third Annual Consumers Union Activist Summit in Washington &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;, February 9-11, 2010. Come meet other activists that share a passion for working on issues such as food/product safety, health care reform, patient safety, financial services and many more. If you want to learn how to bring about legislative action on state and federal levels that help protect consumers - this is your&amp;nbsp;Summit.&lt;/p&gt;
+&lt;p&gt;This year&amp;#8217;s Summit will feature an amazing line-up of speakers, workshops and networking&amp;nbsp;opportunities.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/networking">networking</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/participatory-media">participatory media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/summit">summit</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <pubDate>Thu, 21 Jan 2010 15:56:45 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">159 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Bioneers Conference</title>
+ <link>http://transmissionproject.org/events/2009/10/bioneers-conference</link>
+ <description>&lt;p&gt;The Bioneers Conference is a leading-edge forum—join us in San Rafael, California, October 16-18 (with intensives October 15 and 19). At this premiere environmental conference, social and scientific innovators focus on solutions inspired by nature and human&amp;nbsp;ingenuity.&lt;/p&gt;
+&lt;p&gt;The 2009 Bioneers Conference includes plenary speeches from: Amazonian Chief Almir, Brock Dolman, Kari Fulton, Jack Hidary, Sarah James, Jensine Larsen, Joanna Macy, Mari Margil, Jason McClennan, Michael Pollan, Jerome Ringo, Arturo Sandoval, Dr. Andrew Weil, Lily Yeh and&amp;nbsp;more!&lt;/p&gt;
+&lt;p&gt;These visionaries are already creating the healthy, diverse, and more equitable world we want to live in—our legacy for future generations. Connect with engaged bioneers, who are making a real&amp;nbsp;difference.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community">community</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/environment">environment</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/justice">justice</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <pubDate>Tue, 29 Sep 2009 18:30:08 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">111 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Sistersong</title>
+ <link>http://transmissionproject.org/projects/sistersong</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/14">mentor</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/13">support</category>
+ <georss:point>33.739243 -84.428317</georss:point>
+ <pubDate>Fri, 12 Jun 2009 14:55:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">17 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

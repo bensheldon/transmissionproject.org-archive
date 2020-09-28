@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - veterans</title>
+ <link>http://transmissionproject.org/taxonomy/term/531/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Archiving Local History Online</title>
+ <link>http://transmissionproject.org/content/archiving-local-history-online</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/archiving">archiving</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio-recording">audio recording</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/history">history</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interview">interview</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/19">storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/veterans">veterans</category>
+ <pubDate>Mon, 25 Oct 2010 17:02:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">565 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

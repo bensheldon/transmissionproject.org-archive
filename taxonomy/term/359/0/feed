@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - wifi</title>
+ <link>http://transmissionproject.org/taxonomy/term/359/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>PHD Affordable Housing Development Wireless Request for Proposals</title>
+ <link>http://transmissionproject.org/resources/2010/9/phd-affordable-housing-development-wireless-request-for-proposals</link>
+ <description>&lt;p&gt;PHD Affordable Housing Development Wireless Request for Proposals developed by corps member Melissa&amp;nbsp;Niiya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/phd-affordable-housing-development-wireless-request-for-proposals#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/affordable-housing">affordable housing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/planning">planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proposal">proposal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/PHD_wifi_RFP.doc" length="784384" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:40:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">291 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Reno Apartments Wireless Plan</title>
+ <link>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan</link>
+ <description>&lt;p&gt;The plan for Reno Apartments Wireless Mesh Deployment by corps member Melissa&amp;nbsp;Niiya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/floorplan">floorplan</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/renoPlan.doc" length="239104" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:36:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">290 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Network Volunteer Training Curriculum</title>
+ <link>http://transmissionproject.org/resources/2010/9/network-volunteer-training-curriculum</link>
+ <description>&lt;p&gt;A Network Volunteer Training Curriculum made by corps member Melissa Niiya for the &lt;a href=&quot;http://www.ltsc.org/&quot;&gt;Little Tokyo Service Center&lt;/a&gt; in Los Angeles,&amp;nbsp;Ca.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/network-volunteer-training-curriculum#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum">curriculum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Network_Volunteer_Training_Curriculum.doc" length="2252800" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:33:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">289 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

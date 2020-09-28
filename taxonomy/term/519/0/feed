@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - workplace</title>
+ <link>http://transmissionproject.org/taxonomy/term/519/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Critique Wall for Website Redesign Feedback</title>
+ <link>http://transmissionproject.org/resources/2010/10/critique-wall-for-website-redesign-feedback</link>
+ <description>&lt;p&gt;A Critique Wall by corps member Caitlin Flint. Employees can walk by the wall and leave feedback and critique of her redesign of Healthy City&amp;#8217;s website by writing on a post-it note and sticking it on the appropriate&amp;nbsp;page.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/10/critique-wall-for-website-redesign-feedback#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/critique">critique</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-web-design-resources">Featured Web Design Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/feedback">feedback</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workplace">workplace</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/wallcritique.JPG" length="1545550" type="image/jpeg" />
+ <pubDate>Fri, 22 Oct 2010 19:12:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">542 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

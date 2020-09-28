@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - video contest</title>
+ <link>http://transmissionproject.org/taxonomy/term/686/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Brookline Reads Video Access Promo Script &amp; Voice Over</title>
+ <link>http://transmissionproject.org/resources/2011/1/brookline-reads-video-access-promo-script-voice-over</link>
+ <description>&lt;p&gt;A promotional video for Brookline Access TV&amp;#8217;s &amp;#8220;Brookline Reads Video Contest&amp;#8221;. Corps member Jessica Wholey wrote the script and did the voice over for the&amp;nbsp;project.&lt;/p&gt;
+&lt;p&gt;See the video here:&lt;br /&gt;
+&lt;a href=&quot;http://batv.org/streaming-video/ondemand/batvbrookline-reads-video-cont&quot; title=&quot;http://batv.org/streaming-video/ondemand/batvbrookline-reads-video-cont&quot;&gt;http://batv.org/streaming-video/ondemand/batvbrookline-reads-video-cont&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/1/brookline-reads-video-access-promo-script-voice-over#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/contest">contest</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/script">script</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-contest">video contest</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/voice-over">voice over</category>
+ <pubDate>Tue, 04 Jan 2011 19:30:52 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">914 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

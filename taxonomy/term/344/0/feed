@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - video tools</title>
+ <link>http://transmissionproject.org/taxonomy/term/344/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Vimeo Festival + Awards</title>
+ <link>http://transmissionproject.org/events/2010/10/vimeo-festival-awards</link>
+ <description>&lt;p&gt;Amazing talks, workshops, screenings, special events and parties. Learn from the experts and rub elbows with the best creative minds in online video. Who knows, it could be the best experience of your&amp;nbsp;life.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/2">online</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-tools">video tools</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web">web</category>
+ <pubDate>Mon, 20 Sep 2010 17:57:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">277 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

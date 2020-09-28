@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - donor database</title>
+ <link>http://transmissionproject.org/taxonomy/term/567/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Support and Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-support-and-program-building-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/donor-database">donor database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/homeless">homeless</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology-planning">technology planning</category>
+ <pubDate>Tue, 26 Oct 2010 18:19:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">618 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Fundraising and Outreach</title>
+ <link>http://transmissionproject.org/content/fundraising-and-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/donor-database">donor database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <pubDate>Tue, 26 Oct 2010 17:15:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">607 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

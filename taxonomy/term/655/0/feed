@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - adwords</title>
+ <link>http://transmissionproject.org/taxonomy/term/655/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Marketing and UI Design</title>
+ <link>http://transmissionproject.org/content/marketing-and-ui-design</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/adwords">adwords</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/analytics">analytics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/online-outreach">online outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/salesforce">Salesforce</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/36">seo</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/strategic-planning">Strategic planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/user-interface">user interface</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 10 Nov 2010 20:50:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">849 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

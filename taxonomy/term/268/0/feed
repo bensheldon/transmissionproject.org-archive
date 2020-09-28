@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - wireless</title>
+ <link>http://transmissionproject.org/taxonomy/term/268/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community Organizing and Wireless Network Deployment</title>
+ <link>http://transmissionproject.org/content/community-organizing-and-wireless-network-deployment</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-organizing">community organizing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/survey">survey</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-support">technical support</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wiki">wiki</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 02 Nov 2010 17:52:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">736 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Wireless Network Deployment and Community Outreach</title>
+ <link>http://transmissionproject.org/content/wireless-network-deployment-and-community-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/network">network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-mesh-network">wireless mesh network</category>
+ <pubDate>Tue, 26 Oct 2010 17:19:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">608 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Wireless Network Installation and Community Outreach</title>
+ <link>http://transmissionproject.org/content/wireless-network-installation-and-community-outreach</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-mesh-network">wireless mesh network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 26 Oct 2010 17:07:32 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">605 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach Coordinator and Wireless Network Installation</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-and-wireless-network-installation</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/networks">networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <pubDate>Tue, 26 Oct 2010 16:57:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">601 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>TeleCommunity Resource Center</title>
+ <link>http://transmissionproject.org/projects/telecommunity-resource-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-networks">community networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <georss:point>30.110495 -97.315270</georss:point>
+ <pubDate>Wed, 20 Oct 2010 18:37:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">461 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Champaign-Urbana Community Wireless Network (CUWiN)</title>
+ <link>http://transmissionproject.org/projects/champaign-urbana-community-wireless-network-cuwin</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-networks">community networks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/network">network</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <georss:point>40.112200 -88.208098</georss:point>
+ <pubDate>Tue, 19 Oct 2010 15:06:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">356 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>PHD Affordable Housing Development Wireless Request for Proposals</title>
+ <link>http://transmissionproject.org/resources/2010/9/phd-affordable-housing-development-wireless-request-for-proposals</link>
+ <description>&lt;p&gt;PHD Affordable Housing Development Wireless Request for Proposals developed by corps member Melissa&amp;nbsp;Niiya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/phd-affordable-housing-development-wireless-request-for-proposals#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/affordable-housing">affordable housing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/planning">planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/proposal">proposal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/PHD_wifi_RFP.doc" length="784384" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:40:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">291 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>LTSC Wireless Wiki</title>
+ <link>http://transmissionproject.org/resources/2010/4/ltsc-wireless-wiki</link>
+ <description>&lt;p&gt;A wiki detailing the wireless networks deployed for &lt;span class=&quot;caps&quot;&gt;LTSC&lt;/span&gt; by corps member Melissa Niiya. Visit &lt;a href=&quot;http://wiki.ltsc.org/index.php?title=Main_Page&quot; title=&quot;http://wiki.ltsc.org/index.php?title=Main_Page&quot;&gt;http://wiki.ltsc.org/index.php?title=Main_Page&lt;/a&gt;. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/ltsc-wireless-wiki#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wiki">wiki</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless">wireless</category>
+ <pubDate>Thu, 29 Apr 2010 17:52:48 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">215 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

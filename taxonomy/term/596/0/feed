@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - GED</title>
+ <link>http://transmissionproject.org/taxonomy/term/596/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach and Multimedia VISTA</title>
+ <link>http://transmissionproject.org/content/outreach-and-multimedia-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ged">GED</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-training">video training</category>
+ <pubDate>Thu, 28 Oct 2010 19:10:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">679 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

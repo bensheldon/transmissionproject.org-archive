@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - interactivity</title>
+ <link>http://transmissionproject.org/taxonomy/term/333/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SXSW: Interactive Week</title>
+ <link>http://transmissionproject.org/events/2011/03/sxsw-interactive-week</link>
+ <description>&lt;p&gt;SXSW® Interactive features five days of compelling presentations from the brightest minds in emerging technology, scores of exciting networking events hosted by industry leaders, the incredible new SXSW Trade Show and an unbeatable lineup of special programs showcasing the best new digital works, video games and innovative ideas the international community has to&amp;nbsp;offer.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/gaming">gaming</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interactivity">interactivity</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/websites">websites</category>
+ <pubDate>Mon, 20 Sep 2010 17:42:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">270 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

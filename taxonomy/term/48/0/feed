@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - recruitment</title>
+ <link>http://transmissionproject.org/taxonomy/term/48/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>&quot;STAR Center&quot; Volunteer Coordinator</title>
+ <link>http://transmissionproject.org/content/star-center-volunteer-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/recruitment">recruitment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Tue, 26 Oct 2010 15:57:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">590 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Volunteer Recruitment Staff Training Manual, Grassroots.org</title>
+ <link>http://transmissionproject.org/resources/2009/6/volunteer-recruitment-staff-training-manual-grassrootsorg</link>
+ <description>&lt;p&gt;This staff training manual, created by Laura Benack for Grassroots.org, is designed to orient a new staff member to why volunteers are important to mission, how they are utilized, where are they recruited, and has examples language for posting volunteer advertisements. Grassroots.org volunteers provided $900,000 of in-kind donations in&amp;nbsp;2009.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/6/volunteer-recruitment-staff-training-manual-grassrootsorg#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/manual">manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/recruitment">recruitment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Grassroots.org-Volunteer Program Manual.pdf" length="758523" type="application/pdf" />
+ <pubDate>Fri, 12 Jun 2009 18:22:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">21 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

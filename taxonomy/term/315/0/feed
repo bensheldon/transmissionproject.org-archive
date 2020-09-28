@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - branding</title>
+ <link>http://transmissionproject.org/taxonomy/term/315/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>TwitterCon NY 10</title>
+ <link>http://transmissionproject.org/events/2010/06/twittercon-ny-10</link>
+ <description>&lt;p&gt;Twitter is transforming business, government and the non-profit&amp;nbsp;world.&lt;/p&gt;
+&lt;p&gt;At &lt;span class=&quot;caps&quot;&gt;TWTRCON&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NY&lt;/span&gt;, a one-day conference focused entirely on the business use of Twitter, you’ll see case studies and learn best practices from leading organizations that are using the real-time web to deliver bottom-line results. Join us at &lt;span class=&quot;caps&quot;&gt;TWTRCON&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NY&lt;/span&gt;&amp;nbsp;and:&lt;/p&gt;
+&lt;p&gt;Learn how to use Twitter and other real-time tools to drive revenues, build your brand, and listen and respond to customers and stakeholders&lt;br /&gt;
+Find out how micro-blogging can influence opinions, increase organizational collaboration and create new business opportunities&lt;br /&gt;
+Network and share ideas with leading business, marketing, media, &lt;span class=&quot;caps&quot;&gt;PR&lt;/span&gt; and government executives, key Twitter developers and social media&amp;nbsp;experts&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/branding">branding</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/collaboration">collaboration</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/micro-blogging">micro blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/twotter">twotter</category>
+ <pubDate>Mon, 07 Jun 2010 17:44:59 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">251 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

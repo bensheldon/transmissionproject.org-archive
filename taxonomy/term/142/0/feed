@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - visual</title>
+ <link>http://transmissionproject.org/taxonomy/term/142/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Telling compelling stories with Data</title>
+ <link>http://transmissionproject.org/current/2009/10/telling-compelling-stories-with-data</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/data-visuals.png&quot; alt=&quot;Data Visualization&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I am blown away by the &lt;a href=&quot;http://transmissionproject.org/resources/2009/10/visualizing-usage-data&quot;&gt;data&lt;/a&gt; &lt;a href=&quot;http://transmissionproject.org/resources/2009/10/visualising-social-media-reporting&quot;&gt;visualizations&lt;/a&gt; created by &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; Billy Brown serving at the Community Center of St. Bernard. The image above is part of a data report that his supervisor found so compelling she took it to a&amp;nbsp;funder.&lt;/p&gt;
+&lt;p&gt;As a grantwriter, I have to balance storytelling with data. Usually, this means mixing anecdotes with statistics: a quote here, a pie chart there. What comes out is compelling but&amp;nbsp;disjointed.&lt;/p&gt;
+&lt;p&gt;By creating a beautiful, accessible, yet information rich series of charts and visuals, this graphic tells a powerful story &lt;em&gt;with&lt;/em&gt;&amp;nbsp;data.&lt;/p&gt;
+&lt;p&gt;A picture can tell a 1000 words; it can also tell a 1000 numbers&amp;#8230;. and amazingly have them make&amp;nbsp;sense. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2009/10/telling-compelling-stories-with-data#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/19">storytelling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/visual">visual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/visualizations">visualizations</category>
+ <pubDate>Tue, 20 Oct 2009 19:23:05 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">117 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Visualizing Usage Data</title>
+ <link>http://transmissionproject.org/resources/2009/10/visualizing-usage-data</link>
+ <description>&lt;p&gt;This great visualization of access and usage was created by &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; member Billy Brown for the Community Center of St.&amp;nbsp;Bernard.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/10/visualizing-usage-data#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphics">graphics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/visual">visual</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/CCSTBdata.pdf" length="236334" type="application/pdf" />
+ <pubDate>Tue, 20 Oct 2009 19:08:25 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">116 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Visualising Social Media Reporting</title>
+ <link>http://transmissionproject.org/resources/2009/10/visualising-social-media-reporting</link>
+ <description>&lt;p&gt;This Social Media Report shows the results of a survey given to members visiting the Community Center of Saint Bernard. It is useful in providing this information in a meaningful and engaging&amp;nbsp;format.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/10/visualising-social-media-reporting#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-social-media-resources">Featured Social Media Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphics">graphics</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/impact">impact</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/visual">visual</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/SocialMediaData.pdf" length="478325" type="application/pdf" />
+ <pubDate>Tue, 20 Oct 2009 18:54:29 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">115 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

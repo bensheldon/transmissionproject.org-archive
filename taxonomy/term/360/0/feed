@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - floorplan</title>
+ <link>http://transmissionproject.org/taxonomy/term/360/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Reno Apartments Wireless Plan</title>
+ <link>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan</link>
+ <description>&lt;p&gt;The plan for Reno Apartments Wireless Mesh Deployment by corps member Melissa&amp;nbsp;Niiya.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/reno-apartments-wireless-plan#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/floorplan">floorplan</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wifi">wifi</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/wireless-network">wireless network</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/renoPlan.doc" length="239104" type="application/msword" />
+ <pubDate>Mon, 27 Sep 2010 15:36:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">290 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

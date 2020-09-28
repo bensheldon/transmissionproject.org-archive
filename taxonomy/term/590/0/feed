@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - webmaster</title>
+ <link>http://transmissionproject.org/taxonomy/term/590/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Webmaster and Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/webmaster-and-outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/webmaster">webmaster</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 28 Oct 2010 15:44:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">663 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

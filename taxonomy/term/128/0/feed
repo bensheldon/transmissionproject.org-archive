@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - environment</title>
+ <link>http://transmissionproject.org/taxonomy/term/128/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Environmental Technology Education</title>
+ <link>http://transmissionproject.org/content/youth-environmental-technology-education</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/clean-energy">clean energy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/environment">environment</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Wed, 27 Oct 2010 17:04:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">646 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Bioneers Conference</title>
+ <link>http://transmissionproject.org/events/2009/10/bioneers-conference</link>
+ <description>&lt;p&gt;The Bioneers Conference is a leading-edge forum—join us in San Rafael, California, October 16-18 (with intensives October 15 and 19). At this premiere environmental conference, social and scientific innovators focus on solutions inspired by nature and human&amp;nbsp;ingenuity.&lt;/p&gt;
+&lt;p&gt;The 2009 Bioneers Conference includes plenary speeches from: Amazonian Chief Almir, Brock Dolman, Kari Fulton, Jack Hidary, Sarah James, Jensine Larsen, Joanna Macy, Mari Margil, Jason McClennan, Michael Pollan, Jerome Ringo, Arturo Sandoval, Dr. Andrew Weil, Lily Yeh and&amp;nbsp;more!&lt;/p&gt;
+&lt;p&gt;These visionaries are already creating the healthy, diverse, and more equitable world we want to live in—our legacy for future generations. Connect with engaged bioneers, who are making a real&amp;nbsp;difference.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community">community</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/environment">environment</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/12">health</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/justice">justice</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <pubDate>Tue, 29 Sep 2009 18:30:08 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">111 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

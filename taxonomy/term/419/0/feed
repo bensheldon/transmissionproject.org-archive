@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - forum</title>
+ <link>http://transmissionproject.org/taxonomy/term/419/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Boston Neighborhood Network</title>
+ <link>http://transmissionproject.org/projects/boston-neighborhood-network</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/forum">forum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tv">tv</category>
+ <georss:point>42.358431 -71.059773</georss:point>
+ <pubDate>Mon, 18 Oct 2010 17:39:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">346 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

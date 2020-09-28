@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - staff</title>
+ <link>http://transmissionproject.org/taxonomy/term/365/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Staff website and social media manual</title>
+ <link>http://transmissionproject.org/resources/2010/9/staff-website-and-social-media-manual</link>
+ <description>&lt;p&gt;How to maintain the new Southern Food and Beverage Museum Website and Social&amp;nbsp;Networks&lt;/p&gt;
+&lt;p&gt;A &amp;#8220;How-to&amp;#8221; manual created by corps members Kelsey Parris for the Southern Food and Beverage Museum staff to maintain their website and social&amp;nbsp;media.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/staff-website-and-social-media-manual#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-social-media-resources">Featured Social Media Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/manual">manual</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/staff">staff</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/manual.docx" length="23145" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Tue, 28 Sep 2010 18:57:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">295 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

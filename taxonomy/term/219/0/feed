@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - museum</title>
+ <link>http://transmissionproject.org/taxonomy/term/219/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bass Museum of Art</title>
+ <link>http://transmissionproject.org/projects/bass-museum-of-art</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art-center">art center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/museum">museum</category>
+ <georss:point>25.797560 -80.130204</georss:point>
+ <pubDate>Mon, 18 Oct 2010 17:11:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">340 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Honesty is such a lonely word</title>
+ <link>http://transmissionproject.org/current/2010/2/honesty-is-such-a-lonely-word</link>
+ <description>&lt;p&gt;At the Transmission Project, you hear us talking about the concept of &lt;i&gt;honest practice&lt;/i&gt; rather than &lt;i&gt;best practice&lt;/i&gt;.  We believe it is equally, if not more, instrcuctive to examine more than what worked.  We want to know about surprises, the unexpected, even the&amp;nbsp;failures.  &lt;/p&gt;
+&lt;p&gt;I perked up when, in my &lt;span class=&quot;caps&quot;&gt;RSS&lt;/span&gt; reader, I spotted this in a &lt;a href=&quot;http://museumtwo.blogspot.com/2010/02/quick-hit-five-evaluation-reports-on.html&quot;&gt;recent post&lt;/a&gt; at &lt;i&gt;Museum 2.0&lt;/i&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+What&amp;#8217;s the best way to share information about your experiments&amp;#8211;what worked and what didn&amp;#8217;t?&amp;nbsp;Publish.&lt;/p&gt;
+&lt;p&gt;There are many other fabulous reports out there to learn from, but there are far more languishing in file cabinets. I was a bit surprised as I worked on the book at how often I could get access to a evaluation report with some sleuthing and asking&amp;#8211;and how infrequently those reports were publicly available in any form. Please, if you go to the time and expense of evaluating your institution&amp;#8217;s projects, find a way to share what you&amp;#8217;ve&amp;nbsp;learned.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Nina Simon shares evaluation and research studies on participatory projects in museums.  I highly recommend checking out these links as much of what you’ll find has great application in many public engagement&amp;nbsp;efforts.&lt;/p&gt;
+&lt;p&gt;Check back here regularly for &lt;a href=&quot;http://transmissionproject.org/resources&quot;&gt;artifacts&lt;/a&gt; and stories from the &lt;a href=&quot;http://transmissionproject.org/project&quot;&gt;projects&lt;/a&gt; we support at the Transmission Project.    And let us know what you&amp;nbsp;learn.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/2/honesty-is-such-a-lonely-word#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/best-practice">best practice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/honest-practice">honest practice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/museum">museum</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/participatory-media">participatory media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/report">report</category>
+ <pubDate>Wed, 10 Feb 2010 22:11:22 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">169 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

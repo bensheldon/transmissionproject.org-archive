@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - volunteerism</title>
+ <link>http://transmissionproject.org/taxonomy/term/148/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>National Conference on Volunteering and Service, 2010</title>
+ <link>http://transmissionproject.org/events/2010/06/national-conference-on-volunteering-and-service-2010</link>
+ <description>&lt;blockquote&gt;&lt;p&gt;
+The National Conference on Volunteering and Service is the world&amp;#8217;s largest gathering of volunteer and service leaders from the nonprofit, government, and corporate sectors. Convened by Points of Light Institute and the Corporation for National and Community Service, the annual event provides attendees with an opportunity to learn, connect and shape the future of service and volunteering through a wide range of sessions, workshops, special events, service projects, panels, and special dialogues. More than 4,000 attendees are expected to attend the 2010 conference, June 28-30 in New York&amp;nbsp;City.
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/service">service</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteerism">volunteerism</category>
+ <pubDate>Thu, 12 Nov 2009 15:01:15 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">119 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

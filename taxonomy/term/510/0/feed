@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - jobs training</title>
+ <link>http://transmissionproject.org/taxonomy/term/510/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Job Skills Program Development</title>
+ <link>http://transmissionproject.org/content/job-skills-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs-training">jobs training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-training">volunteer training</category>
+ <pubDate>Tue, 09 Nov 2010 20:26:43 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">820 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CAMINOS Pathways Learning Center</title>
+ <link>http://transmissionproject.org/projects/caminos-pathways-learning-center</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/27">diversity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/immigrants">immigrants</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs-training">jobs training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <georss:point>37.760223 -122.419194</georss:point>
+ <pubDate>Fri, 22 Oct 2010 16:21:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">528 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

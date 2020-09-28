@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - web</title>
+ <link>http://transmissionproject.org/taxonomy/term/343/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>140 Conference: Small Town</title>
+ <link>http://transmissionproject.org/events/140-conference-small-town</link>
+ <description>&lt;p&gt;Since the launch of the #140conf events, conferences have taken place in a number of BIG cities including: New York City, Los Angeles, London and Tel&amp;nbsp;Aviv.&lt;/p&gt;
+&lt;p&gt;At these events we have explored the effects of twitter on a wide range of topics including: Celebrity, “The Media”, Advertising, Politics, Fashion, Real Estate, Music, Education, Public Safety, Public Diplomacy and quite a few other topics. #140conf Small Town will be a ground breaking opportunity to look at the effects of the real-time web on the people and the businesses inside of and around Small Towns. I thank Becky McCray for being the inspiration behind this event and for her help and leadership in making this event&amp;nbsp;happen.&lt;/p&gt;
+&lt;p&gt;How do you define “small&amp;nbsp;town”?&lt;/p&gt;
+&lt;p&gt;While we could set a dividing line of population, we aren’t going to. We mean to include small towns and rural areas, outlying suburbs and exurbs. Plus, plenty of people who live in a big city have some important small town connection, whether that’s where you grew up, where you plan to move, where your parents came from, or where your clients&amp;nbsp;are.&lt;/p&gt;
+&lt;p&gt;If you are excited about small towns and want to be part of the discussion, we want you to join&amp;nbsp;us.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/2">online</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/32">twitter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web">web</category>
+ <pubDate>Mon, 20 Sep 2010 18:05:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">281 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Vimeo Festival + Awards</title>
+ <link>http://transmissionproject.org/events/2010/10/vimeo-festival-awards</link>
+ <description>&lt;p&gt;Amazing talks, workshops, screenings, special events and parties. Learn from the experts and rub elbows with the best creative minds in online video. Who knows, it could be the best experience of your&amp;nbsp;life.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/2">online</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-tools">video tools</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web">web</category>
+ <pubDate>Mon, 20 Sep 2010 17:57:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">277 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

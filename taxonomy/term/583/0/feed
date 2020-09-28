@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - radio education</title>
+ <link>http://transmissionproject.org/taxonomy/term/583/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth and Volunteer Outreach and Training</title>
+ <link>http://transmissionproject.org/content/youth-and-volunteer-outreach-and-training</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/radio-education">radio education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/staff-training">staff training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Wed, 27 Oct 2010 18:55:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">651 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

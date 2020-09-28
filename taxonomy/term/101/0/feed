@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - advertisement</title>
+ <link>http://transmissionproject.org/taxonomy/term/101/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Video Contest Ad</title>
+ <link>http://transmissionproject.org/resources/2009/8/youth-video-contest-ad</link>
+ <description>&lt;p&gt;This advertisement, created by Stephen Loverme serving at &lt;span class=&quot;caps&quot;&gt;HOME&lt;/span&gt;, Inc. in Boston, is designed to get youth to create and edit a short video and upload it to&amp;nbsp;Youtube&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/8/youth-video-contest-ad#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/advertisement">advertisement</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/contest">contest</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youtube">youtube</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/get_reel_poster.pdf" length="214197" type="application/pdf" />
+ <pubDate>Fri, 07 Aug 2009 15:51:21 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">90 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

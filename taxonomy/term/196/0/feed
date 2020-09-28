@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - net</title>
+ <link>http://transmissionproject.org/taxonomy/term/196/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Netroots Nation</title>
+ <link>http://transmissionproject.org/events/2010/07/netroots-nation</link>
+ <description>&lt;p&gt;The fifth annual gathering of the Netroots (formerly known as the YearlyKos Convention) will be held July 22-25 at the Rio Hotel &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Casino in Las Vegas, &lt;span class=&quot;caps&quot;&gt;NV&lt;/span&gt;. Netroots Nation 2010 will include panels led by national and international experts; identity, issue and regional caucuses; prominent political, issue and policy-oriented speakers; a progressive film screening series; and the most concentrated gathering of progressive bloggers to&amp;nbsp;date.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/film">film</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/net">net</category>
+ <pubDate>Mon, 14 Dec 2009 20:45:34 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">146 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - multi media</title>
+ <link>http://transmissionproject.org/taxonomy/term/309/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Banff + Next Media Conference</title>
+ <link>http://transmissionproject.org/events/2010/06/banff-next-media-conference</link>
+ <description>&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; 2010 Program Highlights include content designed to keep you on the cutting edge of both traditional and multi-platform television programming. Building on the expertise and knowledge of 31 years, &lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; will continue to attract the most prestigious players in the industry while addressing the changing climate of the international&amp;nbsp;marketplace.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/multi-media">multi media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <pubDate>Mon, 07 Jun 2010 16:22:15 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">248 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

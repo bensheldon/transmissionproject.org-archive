@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - info</title>
+ <link>http://transmissionproject.org/taxonomy/term/279/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Volunteer Info Sheet </title>
+ <link>http://transmissionproject.org/resources/2010/4/volunteer-info-sheet</link>
+ <description>&lt;p&gt;An info sheet detailing the responsibilities and benefits of volunteering at the community technology center. Prepared by corps member Scott&amp;nbsp;Reed. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/volunteer-info-sheet#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/info">info</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/10">letter</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/CTC_Volunteer_Info_Sheet.pdf" length="70473" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 18:50:12 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">222 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

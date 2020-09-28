@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - computers</title>
+ <link>http://transmissionproject.org/taxonomy/term/105/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Computers, Freedom and Privacy</title>
+ <link>http://transmissionproject.org/events/2010/06/computers-freedom-and-privacy</link>
+ <description>&lt;p&gt;The 20th &lt;span class=&quot;caps&quot;&gt;ACM&lt;/span&gt; Computers, Freedom, and Privacy conference is the leading policy conference exploring the impact of the Internet, computers and communications technologies on society. We focus on topics such as freedom of speech, privacy, digital rights and responsibilities, free culture and intellectual property, cybersecurity, electronic democracy, anonymity, and the future of technologies and their&amp;nbsp;implications.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers">computers</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/freedom">freedom</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/privacy">privacy</category>
+ <pubDate>Mon, 14 Dec 2009 20:27:35 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">140 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Windows - Mac Translation Guide</title>
+ <link>http://transmissionproject.org/resources/2009/8/windows-mac-translation-guide</link>
+ <description>&lt;p&gt;These &amp;#8220;translation&amp;#8221;-guide are designed for Windows users who have to use a&amp;nbsp;Mac.&lt;/p&gt;
+&lt;p&gt;The first translates standard keyboard combinations for the odd-creature that is the Apple keyboard. This guide was designed by &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; Stephen Loverme serving at &lt;span class=&quot;caps&quot;&gt;HOME&lt;/span&gt;, Inc. in Boston,&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;MA&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The second translates common visual cues from Windows to the Mac. For example, the Windows spinning hourglass is the same as the swirling rainbow on the Mac. This was created by &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; Lauren Bratslavsky serving at Media Bridges&amp;nbsp;Cincinnati.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/8/windows-mac-translation-guide#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/apple">apple</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers">computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/instructions">instructions</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/mac">mac</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teaching">teaching</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/windows">windows</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Mac translator.pdf" length="816318" type="application/pdf" />
+ <pubDate>Fri, 07 Aug 2009 15:54:27 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">91 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

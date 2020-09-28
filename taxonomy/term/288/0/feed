@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - internship</title>
+ <link>http://transmissionproject.org/taxonomy/term/288/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Internship Flyer</title>
+ <link>http://transmissionproject.org/resources/2010/11/internship-flyer</link>
+ <description>&lt;p&gt;A flyer to help recruit for a Digital Media Production Internship by Corps member Sam&amp;nbsp;Kaplan.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/11/internship-flyer#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/flyer">flyer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internship">internship</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-recruitment">Volunteer recruitment</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Internship.pdf" length="31970" type="application/pdf" />
+ <pubDate>Wed, 17 Nov 2010 21:38:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">859 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Internship Form</title>
+ <link>http://transmissionproject.org/resources/2010/4/internship-form</link>
+ <description>&lt;p&gt;An internship feedback form. Created by corps member Erica&amp;nbsp;Jones. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/internship-form#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/feedback">feedback</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/form">form</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internship">internship</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Internship Feedback Form.doc" length="889856" type="application/msword" />
+ <pubDate>Thu, 29 Apr 2010 20:12:15 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">232 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

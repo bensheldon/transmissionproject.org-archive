@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - facilitation</title>
+ <link>http://transmissionproject.org/taxonomy/term/669/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>VISTA Leader</title>
+ <link>http://transmissionproject.org/content/vista-leader-1</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/conflict-management">conflict management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/facilitation">facilitation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/management">management</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/vista-leader">VISTA leader</category>
+ <pubDate>Tue, 23 Nov 2010 21:33:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">897 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

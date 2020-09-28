@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - website creation</title>
+ <link>http://transmissionproject.org/taxonomy/term/511/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-13</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/accessibility">accessibility</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video-editing">video editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-creation">website creation</category>
+ <pubDate>Fri, 22 Oct 2010 16:26:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">530 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

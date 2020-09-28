@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - client database</title>
+ <link>http://transmissionproject.org/taxonomy/term/491/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Program Building, Outreach, and Support</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-outreach-and-support</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/bilingual">bilingual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-program-building">CTC program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/psa">PSA</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <pubDate>Thu, 28 Oct 2010 17:09:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">672 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Student Tracking Database Implementation</title>
+ <link>http://transmissionproject.org/content/student-tracking-database-implementation</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <pubDate>Tue, 26 Oct 2010 19:18:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">630 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>&quot;Star Center&quot; Database Builder</title>
+ <link>http://transmissionproject.org/content/star-center-database-builder</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Tue, 26 Oct 2010 16:00:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">591 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Program Building</title>
+ <link>http://transmissionproject.org/content/ctc-program-building-9</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/client-database">client database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-database">volunteer database</category>
+ <pubDate>Thu, 21 Oct 2010 20:17:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">506 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

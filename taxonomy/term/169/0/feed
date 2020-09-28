@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - communicaiton</title>
+ <link>http://transmissionproject.org/taxonomy/term/169/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>We Media </title>
+ <link>http://transmissionproject.org/events/2010/03/we-media</link>
+ <description>&lt;p&gt;We Media connects individuals and organizations from across industries who believe the power of media, communication and human ingenuity should be applied to innovate in business &lt;span class=&quot;caps&quot;&gt;AND&lt;/span&gt; to make the world better through media. Leaders from all sectors, fields and disciplines join enterprising citizens in participatory programs, unscripted dialogue, workshops, demos and networking events aimed at using the power of our media to strengthen communities geographic and&amp;nbsp;virtual.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/communicaiton">communicaiton</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <pubDate>Mon, 14 Dec 2009 20:09:40 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">134 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Online Marketing Summit</title>
+ <link>http://transmissionproject.org/events/2010/02/online-marketing-summit</link>
+ <description>&lt;p&gt;Covering the topics of Social Media, Search, Email, Demand Generation, Analytics, Usability and Integrated Marketing, Online Marketing Summit offers attendees the opportunity to learn actionable best practices, strategies and tactics from leading authors, academics, brand marketers, and online pioneers.&lt;br /&gt;
+Case studies, personalized one-on-one labs, panel discussions, advanced tactics roundtables and networking events present &lt;span class=&quot;caps&quot;&gt;OMS&lt;/span&gt; attendees with countless options to learn without the distractions of vendor sales&amp;nbsp;pitches.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/communicaiton">communicaiton</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <pubDate>Mon, 14 Dec 2009 19:58:30 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">133 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Nonprofit Technology Conference</title>
+ <link>http://transmissionproject.org/events/2010/04/nonprofit-technology-conference</link>
+ <description>&lt;p&gt;The Nonprofit Technology Conference (&lt;span class=&quot;caps&quot;&gt;NTC&lt;/span&gt;) will bring together an outstanding group of nonprofit leaders, &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; innovators, communications gurus, fundraising superstars amongst other nonprofit staff looking to learn the latest trends, practical how-tos, and &lt;span class=&quot;caps&quot;&gt;IT&lt;/span&gt; solutions to optimize their organization&amp;#8217;s technology to further their missions to create more social good in the&amp;nbsp;world. &lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/communicaiton">communicaiton</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/3">fundraising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it">IT</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/nonprofit">nonprofit</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Mon, 14 Dec 2009 19:37:26 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">129 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

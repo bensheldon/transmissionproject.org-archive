@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - web journalism</title>
+ <link>http://transmissionproject.org/taxonomy/term/586/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website and Program Building</title>
+ <link>http://transmissionproject.org/content/website-and-program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-building">program building</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-journalism">web journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Wed, 27 Oct 2010 19:43:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">658 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

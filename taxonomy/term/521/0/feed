@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - radio programming</title>
+ <link>http://transmissionproject.org/taxonomy/term/521/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-justice">media justice</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media-literacy">media literacy</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/radio-producer">radio producer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/radio-programming">radio programming</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tobacco">tobacco</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/tobacco-prevention">tobacco prevention</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/writing">writing</category>
+ <pubDate>Mon, 25 Oct 2010 15:07:10 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">548 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - direct mail</title>
+ <link>http://transmissionproject.org/taxonomy/term/273/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Friends of Trees Newsletter</title>
+ <link>http://transmissionproject.org/resources/2010/4/friends-of-trees-newsletter</link>
+ <description>&lt;p&gt;Organization newsletter prepared by corps member Toshio&amp;nbsp;Suzuki. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/friends-of-trees-newsletter#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/communication">communication</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/direct-mail">direct mail</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/newsletter">newsletter</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Friends of Trees nltr.pdf" length="376129" type="application/pdf" />
+ <pubDate>Thu, 29 Apr 2010 18:19:43 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">218 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

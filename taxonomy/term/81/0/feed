@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - marketing plan</title>
+ <link>http://transmissionproject.org/taxonomy/term/81/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Marketing Plan and Target Market Analysis</title>
+ <link>http://transmissionproject.org/resources/2009/7/marketing-plan-and-target-market-analysis</link>
+ <description>&lt;p&gt;This Marketing Plan and Target Market Analysis brings together internal and external data points analyze and strategize around funding, volunteers and service provisioning. It was developed by &lt;span class=&quot;caps&quot;&gt;VISTA&lt;/span&gt; member Mary Chant at MicroMentor in Portland,&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;OR&lt;/span&gt;.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2009/7/marketing-plan-and-target-market-analysis#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/analysis">analysis</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/marketing-plan">marketing plan</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/planning">planning</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/26">strategy</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Target Markets_2009.doc" length="41472" type="application/msword" />
+ <pubDate>Tue, 07 Jul 2009 20:13:40 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">71 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

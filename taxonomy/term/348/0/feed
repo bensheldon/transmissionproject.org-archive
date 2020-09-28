@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - usability</title>
+ <link>http://transmissionproject.org/taxonomy/term/348/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Healthy City Site Audit</title>
+ <link>http://transmissionproject.org/resources/2010/9/healthy-city-site-audit</link>
+ <description>&lt;p&gt;An informative and in-depth look at corps member Caitlin Flint&amp;#8217;s audit of Healthy City&amp;#8217;s&amp;nbsp;website.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/healthy-city-site-audit#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/design">design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-web-design-resources">Featured Web Design Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/usability">usability</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/cflint_HealthyCityAudit_ConnetAccout (1).pdf" length="4042142" type="application/pdf" />
+ <pubDate>Thu, 23 Sep 2010 16:18:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">284 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

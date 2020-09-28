@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - logo contest</title>
+ <link>http://transmissionproject.org/taxonomy/term/592/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach</title>
+ <link>http://transmissionproject.org/content/outreach-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/listserve">listserve</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/logo-contest">logo contest</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <pubDate>Thu, 28 Oct 2010 16:17:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">666 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

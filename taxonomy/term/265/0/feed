@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - memo</title>
+ <link>http://transmissionproject.org/taxonomy/term/265/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Unconference Memo of Understanding</title>
+ <link>http://transmissionproject.org/resources/2010/4/unconference-memo-of-understanding</link>
+ <description>&lt;p&gt;Memo of Understanding between Community Software Lab and Organizers&amp;#8217; Collaborative regarding a joint Unconference. Prepared by corps member Carolyn&amp;nbsp;Thompson.  &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/unconference-memo-of-understanding#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/agreement">agreement</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/memo">memo</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/MegaSeg Basics_0.docx" length="564782" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Wed, 28 Apr 2010 20:49:36 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">213 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

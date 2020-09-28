@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - digital media</title>
+ <link>http://transmissionproject.org/taxonomy/term/310/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Storytelling Web Development</title>
+ <link>http://transmissionproject.org/content/digital-storytelling-web-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-development">web development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <pubDate>Tue, 02 Nov 2010 20:55:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">752 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Youth Media Program Development</title>
+ <link>http://transmissionproject.org/content/youth-media-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers-in-home">computers in home</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/spanish-language">spanish language</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/teens">teens</category>
+ <pubDate>Tue, 02 Nov 2010 17:31:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">734 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Philadelphia Independent Film and Video Association</title>
+ <link>http://transmissionproject.org/projects/philadelphia-independent-film-and-video-association</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-divide">digital divide</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/film">film</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <georss:point>39.955915 -75.206763</georss:point>
+ <pubDate>Thu, 07 Oct 2010 14:16:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">310 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Digital Media and Learning Conference</title>
+ <link>http://transmissionproject.org/events/2011/03/digital-media-and-learning-conference</link>
+ <description>&lt;p&gt;The Digital Media and Learning Conference is an annual event supported by the MacArthur Foundation and organized by the &lt;a href=&quot;http://dmlcentral.net/about/what-all-about&quot;&gt;Digital Media and Learning Research Hub&lt;/a&gt; at University of California, Irvine. The conference is meant to be an inclusive, international and annual gathering of scholars and practitioners in the field, focused on fostering interdisciplinary and participatory dialog and linking theory, empirical study, policy, and&amp;nbsp;practice.&lt;/p&gt;
+&lt;p&gt;The second conference will be held between March 3-5, 2011 at the Hilton Long Beach Conference and Meeting Center in Long Beach, California. The theme will be &amp;#8220;Designing Learning&amp;nbsp;Futures.&amp;#8221;&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technology">technology</category>
+ <pubDate>Thu, 30 Sep 2010 20:53:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">302 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Digital Media Questionnaire</title>
+ <link>http://transmissionproject.org/resources/2010/9/digital-media-questionnaire</link>
+ <description>&lt;p&gt;A Digital Media Questionnaire that corps member Sam Kaplan created at &lt;a href=&quot;www.accesshumboldt.net/&quot;&gt;Access Humboldt&lt;/a&gt; to survey Humboldt County digital media resources (institutions, organizations, programs, festivals, businesses, schools/classes, etc.) to determine what areas of the county and/or specific populations are most in need of additional digital media programs, and what types of digital media programs are most&amp;nbsp;needed.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/9/digital-media-questionnaire#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/canvass">canvass</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community">community</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-outreach-resources">Featured Outreach Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/survey">survey</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/4.SamK_survey.pdf" length="50787" type="application/pdf" />
+ <pubDate>Thu, 23 Sep 2010 15:21:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">283 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Banff + Next Media Conference</title>
+ <link>http://transmissionproject.org/events/2010/06/banff-next-media-conference</link>
+ <description>&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; 2010 Program Highlights include content designed to keep you on the cutting edge of both traditional and multi-platform television programming. Building on the expertise and knowledge of 31 years, &lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; will continue to attract the most prestigious players in the industry while addressing the changing climate of the international&amp;nbsp;marketplace.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/multi-media">multi media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <pubDate>Mon, 07 Jun 2010 16:22:15 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">248 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

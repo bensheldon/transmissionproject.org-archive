@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - production</title>
+ <link>http://transmissionproject.org/taxonomy/term/292/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Third Coast Conference</title>
+ <link>http://transmissionproject.org/events/2010/10/third-coast-conference</link>
+ <description>&lt;p&gt; Ready to spend two + days with hundreds of fellow producers, artists, students, and audio enthusiasts, talking shop about radio/audio storytelling on the airwaves and beyond? Ready to come together, listen to each other’s work, share ideas and expertise, and make priceless connections with future colleagues and new&amp;nbsp;friends?&lt;/p&gt;
+&lt;p&gt;Thought so. This fall marks our tenth (!) anniversary, and we hope you&amp;#8217;ll celebrate with us over the course of another radio-drenched weekend here in Chicago.&lt;br /&gt;
+We’ve lined up some amazing presenters like&amp;#8230;Scott Carrier (Independent), Berit Hedemann (Norway), Amy O’Leary (New York Times), Jamie Tarabay (&lt;span class=&quot;caps&quot;&gt;NPR&lt;/span&gt;), and Steven Tilley (&lt;span class=&quot;caps&quot;&gt;AUS&lt;/span&gt;). These and many other radio pros will be tackling a wide range of topics, like&amp;#8230; sound design, voicing, pitching stories, audio slide shows, audio tours, capturing &amp;#8220;the moment&amp;#8221;, equipment and software recommendations, and reporting from unfamiliar places. And that&amp;#8217;s just a&amp;nbsp;taste. &lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art">art</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/artists">artists</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/arts">arts</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audience">audience</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/audio">audio</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/documentary">documentary</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interviewing">interviewing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/news">news</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/production">production</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/public-media">public media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/19">storytelling</category>
+ <pubDate>Wed, 18 Aug 2010 14:41:08 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">262 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Production Project Request Packet</title>
+ <link>http://transmissionproject.org/resources/2010/4/production-project-request-packet</link>
+ <description>&lt;p&gt;Project proposal form for cable access including talent release forms, production notes and shot logs. Prepared by corps member Erica&amp;nbsp;Jones. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/4/production-project-request-packet#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/forms">forms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/peg">PEG</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/production">production</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/MASTER Production Request Packet.doc" length="125440" type="application/msword" />
+ <pubDate>Thu, 29 Apr 2010 20:55:39 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">234 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

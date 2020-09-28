@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - serve america act</title>
+ <link>http://transmissionproject.org/taxonomy/term/189/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>National Conference on Volunteering and Service</title>
+ <link>http://transmissionproject.org/events/2010/06/national-conference-on-volunteering-and-service</link>
+ <description>&lt;p&gt;The 2010 conference, taking place June 28-30 in New York City, comes at a time of unprecedented need and momentum for service. As the economic downturn puts more Americans at risk, service is needed more than ever to meet our national challenges. The Edward M. Kennedy Serve America Act has set the stage for a new era of expansion, innovation and impact for the service movement. Come learn how to seize this momentum and engage citizens in solving problems and making lasting change in your&amp;nbsp;communities.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/serve-america-act">serve america act</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service">service</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <pubDate>Mon, 14 Dec 2009 20:32:39 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">142 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

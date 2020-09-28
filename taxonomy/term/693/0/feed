@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - copy</title>
+ <link>http://transmissionproject.org/taxonomy/term/693/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Computers in the Home Flyer</title>
+ <link>http://transmissionproject.org/resources/2011/2/computers-in-the-home-flyer</link>
+ <description>&lt;p&gt;A flyer promoting a computers in the home program created by corps member Devon Smolca for her home computer initiative, &lt;a href=&quot;http://www.everyfamilyconnected.org/&quot;&gt;L@TCH&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2011/2/computers-in-the-home-flyer#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/computers-in-the-home">computers in the home</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/copy">copy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/flyer">flyer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/latch-recruitment-flyer1.jpg" length="249696" type="image/jpeg" />
+ <pubDate>Thu, 10 Feb 2011 20:12:05 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">920 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

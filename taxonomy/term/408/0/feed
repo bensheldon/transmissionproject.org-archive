@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - Technical Assistance for Non-profits</title>
+ <link>http://transmissionproject.org/taxonomy/term/408/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC Support and Assistance</title>
+ <link>http://transmissionproject.org/content/ctc-support-and-assistance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-outreach">CTC outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-support">CTC support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/it-support">it support</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website-maintenance">website maintenance</category>
+ <pubDate>Thu, 28 Oct 2010 17:15:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">673 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Outreach and Technical Assistance</title>
+ <link>http://transmissionproject.org/content/outreach-and-technical-assistance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/afterschool-programs">afterschool programs</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/11">computer recycling</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <pubDate>Thu, 28 Oct 2010 16:04:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">665 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Webmaster and Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/webmaster-and-outreach-coordinator</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/cms">cms</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/drupal">Drupal</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/webmaster">webmaster</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 28 Oct 2010 15:44:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">663 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>IT Support and Consulting</title>
+ <link>http://transmissionproject.org/content/it-support-and-consulting</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-outreach">community outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <pubDate>Thu, 21 Oct 2010 18:53:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">497 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>The Wilderness Technology Alliance</title>
+ <link>http://transmissionproject.org/projects/the-wilderness-technology-alliance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service-learning">service learning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>38.895446 -77.013236</georss:point>
+ <pubDate>Wed, 20 Oct 2010 17:54:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">451 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>TecsChange</title>
+ <link>http://transmissionproject.org/projects/tecschange</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>42.351652 -71.061309</georss:point>
+ <pubDate>Wed, 20 Oct 2010 17:21:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">444 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>RTPNet</title>
+ <link>http://transmissionproject.org/projects/rtpnet</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>35.829531 -78.712782</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:46:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">436 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Realizing Every Community Asset Foundation (RECA) / Rainier VISTA</title>
+ <link>http://transmissionproject.org/projects/realizing-every-community-asset-foundation-reca-rainier-vista</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-technology-center">community technology center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/free-net">free-net</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>46.211246 -119.137234</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:35:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">434 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Edlab Group/Puget Sound Center for Teaching, Learning and Technology</title>
+ <link>http://transmissionproject.org/projects/edlab-grouppuget-sound-center-for-teaching-learning-and-technology</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-inclusion">digital inclusion</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>47.825846 -122.277739</georss:point>
+ <pubDate>Wed, 20 Oct 2010 16:17:11 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">432 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Pangea Foundation</title>
+ <link>http://transmissionproject.org/projects/pangea-foundation</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/data">data</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/information-design">information design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>32.851273 -117.215470</georss:point>
+ <pubDate>Wed, 20 Oct 2010 15:26:56 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">423 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

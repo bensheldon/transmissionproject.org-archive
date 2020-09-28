@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - computer refurbishing training</title>
+ <link>http://transmissionproject.org/taxonomy/term/651/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Program Development</title>
+ <link>http://transmissionproject.org/content/program-development-2</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-lab">computer lab</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-refurbishing-training">computer refurbishing training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Tue, 23 Nov 2010 15:58:30 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">875 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC Outreach and Development</title>
+ <link>http://transmissionproject.org/content/ctc-outreach-and-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-refurbishing-training">computer refurbishing training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Tue, 23 Nov 2010 15:31:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">872 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Refurbished Computers Program Development</title>
+ <link>http://transmissionproject.org/content/refurbished-computers-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/bilingual">bilingual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-refurbishing-training">computer refurbishing training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-coordinating">program coordinating</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/refurbished-computers">refurbished computers</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/5">research</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/35">training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/training-manual">training manual</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <pubDate>Wed, 10 Nov 2010 20:35:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">848 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - innovation</title>
+ <link>http://transmissionproject.org/taxonomy/term/199/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Open Video Conference</title>
+ <link>http://transmissionproject.org/events/2010/10/open-video-conference</link>
+ <description>&lt;p&gt;The Open Video Conference (OVC) is a multi-day summit of thought leaders in business, academia, art, and activism to explore the future of online video. The first Open Video Conference was host to over 800 guests, including 150 workshop leaders, panelists and speakers. Over 8,000 viewers tuned in from home to watch the live broadcast. The event earned coverage in WIRED, NewTeeVee, BBC News, Filmmaker Magazine, and The New&amp;nbsp;Yorker.&lt;/p&gt;
+&lt;p&gt;OVC is a showcase for technical and creative innovation in online video. But the Open Video Conference transcends technical details and grapples with some larger&amp;nbsp;questions:&lt;/p&gt;
+&lt;p&gt;With so much free stuff out there, how will creators get paid?&lt;br /&gt;
+Do we need to change the rules of copyright?&lt;br /&gt;
+Who decides what you watch?&lt;br /&gt;
+Who knows what you watch?&lt;br /&gt;
+Is online video a force for good? Or is there just too much weird stuff out&amp;nbsp;there?&lt;/p&gt;
+&lt;p&gt;This year, OVC is bigger and better. Join us for two days of inspiring talks, hands-on workshops, parties film screenings, and much more. Whether you are an artist, a developer, an entrepreneur, a student, or just a citizen of the web, OVC will spark your imagination for what’s possible with open&amp;nbsp;video.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art-and-creativity">art and creativity</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/copyright">copyright</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/innovation">innovation</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/2">online</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <pubDate>Mon, 20 Sep 2010 17:48:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">273 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Observations on the FCC Open Internet Workshop at MIT</title>
+ <link>http://transmissionproject.org/current/2010/1/observations-on-the-fcc-open-internet-workshop-at-mit</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/FCC-innovation.jpg&quot; alt=&quot;Mira and Belinda from the Transmission Project&quot; title=&quot;Mira and Belinda from the Transmission Project&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Transmission Project staff took a field-trip to yesterday&amp;#8217;s &lt;a href=&quot;http://www.openinternet.gov/workshops/innovation-investment-and-the-open-internet.html&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; Workshop on Innovation, Investment and the Open Internet&lt;/a&gt;. As a 3.5 hour, 12 panelist show (plus 2 moderators, a introductory framer, a commissioner and a video introduction from Chairman Genachowski), it was surprisingly engaging. The key question of the evening seemed to be framed as &amp;#8220;Business isn&amp;#8217;t so bullish on internet anymore, what&amp;#8217;s&amp;nbsp;changed?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Despite the contemporary focus on Net Neutrality, that phrase was nearly never mentioned. Instead, the panelists answered the key question of &amp;#8220;what&amp;#8217;s changed?&amp;#8221; from a number of&amp;nbsp;angles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New technology enabling better (or worse, depending on &lt;span class=&quot;caps&quot;&gt;POV&lt;/span&gt;) Quality of Service (van Schewick, Standford&amp;nbsp;Law);
+&lt;/li&gt;&lt;li&gt;Market Power or absence of robust competition for ISPs (Greenstein,&amp;nbsp;Kellogg/Northwestern);
+&lt;/li&gt;&lt;li&gt;Declining profitability of network deployment (Weldon,&amp;nbsp;Alcatel-Lucent);
+&lt;/li&gt;&lt;li&gt;Declining interoperability, especially on mobile networks (Glueck,&amp;nbsp;Skyfire);
+&lt;/li&gt;&lt;li&gt;Shared ethos and goodwill have been replaced by business management and unclear rules (Berners-Lee, &lt;span class=&quot;caps&quot;&gt;W3C&lt;/span&gt;; and Hyatt, Conduit&amp;nbsp;Labs);
+&lt;/li&gt;&lt;li&gt;Network management/QoS inconsistency between networks (David Clark,&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;MIT&lt;/span&gt;);
+&lt;/li&gt;&lt;li&gt;The looming threat of as-yet-undefined regulation (Kim Riley,&amp;nbsp;Camiant);
+&lt;/li&gt;&lt;li&gt;Government and Google threats (Tykeson,&amp;nbsp;BendBroadband);
+&lt;/li&gt;&lt;li&gt;The internet has moved from an emerging platform to an established one (Yoo, UPenn&amp;nbsp;Law)
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The primary takeaway I had was &amp;#8220;Network Management/Quality of Service (QoS) is acceptable (even beneficial) so long as it is initiated by the user, not the network or application provider&amp;#8221;. Everyone on the panel seemed to agree that this was acceptable, and innovation would emerge around the mechanisms and models for providing this to&amp;nbsp;users.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://transmissionproject.org/sites/transmissionproject.org/files/fcc-innovation-twit.jpg&quot; alt=&quot;Twitter question about vertical integration&quot; title=&quot;Twitter question about vertical integration&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;No one talked about vertical integration of networks and content providers: Comcast-&lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; was mentioned just once near the end. Tim Berners-Lee was the only person on the panels who tried to represent the point of view of a end-user: indifference to the network architecture and concerns over personal&amp;nbsp;privacy.&lt;/p&gt;
+&lt;p&gt;In regards to how the &lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; could act, David Clark made a plea for &lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt;-led facilitation for consistency among network providers, rather than&amp;nbsp;regulation. &lt;/p&gt;
+&lt;p&gt;Outside the panel, Brough Turner (sitting in the row in front of us) told us that much of the workshop discussion was moot: &lt;a href=&quot;http://blogs.broughturner.com/2010/01/network-neutrality-common-carriage-and-layers-international-view.html&quot;&gt;the current &lt;span class=&quot;caps&quot;&gt;US&lt;/span&gt; economic model for network deployment won&amp;#8217;t create robust competition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The diversity scorecard of the panel was 11 men, 6 women; 12 white, 5&amp;nbsp;not. &lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/current/2010/1/observations-on-the-fcc-open-internet-workshop-at-mit#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/fcc">FCC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/innovation">innovation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet">internet</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/workshop">workshop</category>
+ <pubDate>Thu, 14 Jan 2010 17:06:50 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">157 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>World’s Fair Use Day</title>
+ <link>http://transmissionproject.org/events/2010/01/world%E2%80%99s-fair-use-day</link>
+ <description>&lt;p&gt;World’s Fair Use Day (&lt;span class=&quot;caps&quot;&gt;WFUD&lt;/span&gt;) is a free, all-day celebration of the doctrine of fair use: the legal right that allows innovators and creators to make particular uses of copyrighted materials. &lt;span class=&quot;caps&quot;&gt;WFUD&lt;/span&gt; will take place at the Newseum in Washington &lt;span class=&quot;caps&quot;&gt;D.C.&lt;/span&gt; on Tuesday January 12, 2010, and will be organized by Public Knowledge (&lt;span class=&quot;caps&quot;&gt;PK&lt;/span&gt;), a Washington D.C.-based non-profit, consumer-advocacy group. &lt;span class=&quot;caps&quot;&gt;PK&lt;/span&gt; works to ensure that communications and intellectual property policies encourage creativity, further free expression and discourse and provide universal access to knowledge. As part of its campaign to return balance to copyright law, &lt;span class=&quot;caps&quot;&gt;PK&lt;/span&gt; hopes to use &lt;span class=&quot;caps&quot;&gt;WFUD&lt;/span&gt; to educate the public about the importance of fair use in an information&amp;nbsp;society.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;WFUD&lt;/span&gt; will be widely attended and will provide attendees with a unique opportunity to network with policymakers, artists, academics, business innovators, media professionals, press, and consumer&amp;nbsp;advocates.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/copyright">copyright</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fair-use">fair use</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/innovation">innovation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/participatory-media">participatory media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/31">policy</category>
+ <pubDate>Tue, 05 Jan 2010 21:31:30 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">151 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

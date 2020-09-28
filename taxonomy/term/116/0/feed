@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - Aspiration</title>
+ <link>http://transmissionproject.org/taxonomy/term/116/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Nonprofit Software Development Summit, 2009</title>
+ <link>http://transmissionproject.org/events/2009/11/nonprofit-software-development-summit-2009</link>
+ <description>&lt;blockquote&gt;&lt;p&gt;
+The 2009 Nonprofit Software Development Summit will be the third annual convening of people and organizations developing software tools, web applications and other technology to support social justice causes. Bringing together a diverse range of users, developers, technologists, managers, eRiders, integrators and other practitioners who self-identify under the umbrella of “developing nonprofit software”, the 2009 DevSummit will provide an opportunity both to gather as a community and to take stock of the field, while building connections and&amp;nbsp;capacity.
+&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/aspiration">Aspiration</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/open-source">open source</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/oss">OSS</category>
+ <pubDate>Mon, 17 Aug 2009 19:38:52 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">98 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

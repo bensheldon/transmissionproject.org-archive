@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - business</title>
+ <link>http://transmissionproject.org/taxonomy/term/174/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Development</title>
+ <link>http://transmissionproject.org/content/website-development-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/business">business</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/entrepreneurship">entrepreneurship</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/web-design">web design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 23 Nov 2010 15:51:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">874 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>South By Southwest</title>
+ <link>http://transmissionproject.org/events/2010/03/south-by-southwest</link>
+ <description>&lt;p&gt;Year after year, the event is a launching pad for new creative content. New media presentations, music showcases and film screenings provide buzz-generating exposure for creators and compelling entertainment for audiences. Conference panel discussions present a forum for learning, business activity thrives at the Trade Shows and global networking opportunities abound. Austin serves as the perfect backdrop for &lt;span class=&quot;caps&quot;&gt;SXSW&lt;/span&gt;, where career development flourishes amid the relaxed atmosphere. Intellectual and creative intermingling among industry leaders continues to spark new ideas and carve the path for the future of each ever-evolving field, long after the events&amp;#8217;&amp;nbsp;conclusion.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/business">business</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/career-development">career development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/film">film</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/music">music</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/new-media">new media</category>
+ <pubDate>Mon, 14 Dec 2009 20:13:07 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">135 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

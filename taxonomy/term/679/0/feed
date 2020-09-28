@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - volunteer manual</title>
+ <link>http://transmissionproject.org/taxonomy/term/679/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Volunteer Manual</title>
+ <link>http://transmissionproject.org/resources/2010/12/volunteer-manual</link>
+ <description>&lt;p&gt;A volunteer manual developed by corps member Megan Andrews. The &amp;#8220;House Rules&amp;#8221; section was given by another station, KBOO, out of&amp;nbsp;Portland.&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/12/volunteer-manual#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/featured-volunteer-staff-training-resources">Featured Volunteer &amp;amp; Staff Training Resources</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/internet-radio">internet radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/manual">manual</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer">volunteer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordination">volunteer coordination</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-manual">volunteer manual</category>
+ <enclosure url="http://transmissionproject.org/sites/transmissionproject.org/files/Manual in full.docx" length="824049" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+ <pubDate>Mon, 06 Dec 2010 20:37:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">909 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

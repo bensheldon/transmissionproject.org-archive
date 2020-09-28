@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - program development</title>
+ <link>http://transmissionproject.org/taxonomy/term/475/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Youth Program Development</title>
+ <link>http://transmissionproject.org/content/youth-program-development-3</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/6">marketing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Tue, 23 Nov 2010 17:37:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">888 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Job Skills Program Development</title>
+ <link>http://transmissionproject.org/content/job-skills-program-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc">CTC</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/jobs-training">jobs training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-training">volunteer training</category>
+ <pubDate>Tue, 09 Nov 2010 20:26:43 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">820 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>CTC assistance</title>
+ <link>http://transmissionproject.org/content/ctc-assistance-3</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/ctc-assistance">CTC assistance</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <pubDate>Tue, 26 Oct 2010 18:37:52 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">623 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Program Building</title>
+ <link>http://transmissionproject.org/content/program-building-0</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-training">volunteer training</category>
+ <pubDate>Fri, 22 Oct 2010 15:55:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">523 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Program and Curriculum Development</title>
+ <link>http://transmissionproject.org/content/program-and-curriculum-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-literacy">digital literacy</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <pubDate>Thu, 21 Oct 2010 19:23:30 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">502 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Program Building</title>
+ <link>http://transmissionproject.org/content/program-building</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/program-development">program development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <pubDate>Thu, 21 Oct 2010 17:04:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">479 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

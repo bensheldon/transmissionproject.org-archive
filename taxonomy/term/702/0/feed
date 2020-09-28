@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - rural. radio_group</title>
+ <link>http://transmissionproject.org/taxonomy/term/702/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Bangor Area Commons Radio Show</title>
+ <link>http://transmissionproject.org/resources/2010/11/the-bangor-area-commons-radio-show</link>
+ <description>&lt;p&gt;&lt;span class=&quot;quo&quot;&gt;&amp;#8216;&lt;/span&gt;The Bangor Area Commons&amp;#8217; radio show produced by corps member Meaghan Lasala. As part of Meaghan’s outreach efforts to connect with the Bangor community she has started this public affairs show dedicated to the people, stories, and issues of Bangor. The show not only spreads awareness of WERU to the Bangor area but also demonstrates to Bangor residents the power of local, community&amp;nbsp;radio.&lt;/p&gt;
+&lt;p&gt;See her full archive of shows here: &lt;a href=&quot;http://archives.weru.org/category/99-9-hour&quot; title=&quot;http://archives.weru.org/category/99-9-hour&quot;&gt;http://archives.weru.org/category/99-9-hour&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://transmissionproject.org/resources/2010/11/the-bangor-area-commons-radio-show#comments</comments>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-journalism">community journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-radio">community radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/interview">interview</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/journalism">journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/rural-radiogroup">rural. radio_group</category>
+ <pubDate>Tue, 30 Nov 2010 17:46:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">903 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

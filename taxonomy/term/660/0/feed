@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - train the trainer</title>
+ <link>http://transmissionproject.org/taxonomy/term/660/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Outreach Coordinator</title>
+ <link>http://transmissionproject.org/content/outreach-coordinator-11</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/curricula-development">curricula development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/grant-writing">grant writing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/graphic-design">graphic design</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainer">train the trainer</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/volunteer-coordinating">volunteer coordinating</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Tue, 23 Nov 2010 18:06:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">891 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Media Watch Team Social Media Development</title>
+ <link>http://transmissionproject.org/content/media-watch-team-social-media-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/blogging">blogging</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/citizen-journalism">citizen journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-journalism">community journalism</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/database">database</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/resource-database">resource database</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/33">social media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/staff-training">staff training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainer">train the trainer</category>
+ <pubDate>Tue, 23 Nov 2010 16:08:20 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">876 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Event Planning</title>
+ <link>http://transmissionproject.org/content/event-planning</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/curriculum-development">curriculum development</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/evaluation">evaluation</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/event-planning">event planning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/fund-raising">fund raising</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/train-the-trainer">train the trainer</category>
+ <pubDate>Mon, 22 Nov 2010 21:02:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">870 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

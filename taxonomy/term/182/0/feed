@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - service learning</title>
+ <link>http://transmissionproject.org/taxonomy/term/182/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Wilderness Technology Alliance</title>
+ <link>http://transmissionproject.org/projects/the-wilderness-technology-alliance</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service-learning">service learning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/technical-assistance-for-non-profits">Technical Assistance for Non-profits</category>
+ <georss:point>38.895446 -77.013236</georss:point>
+ <pubDate>Wed, 20 Oct 2010 17:54:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">451 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>21st Annual National Service-Learning Conference</title>
+ <link>http://transmissionproject.org/events/2010/03/21st-annual-national-service-learning-conference</link>
+ <description>&lt;p&gt;The conference is the largest gathering of youth and practitioners involved in service-learning, drawing approximately 2,500 attendees from across the United States and many other countries each year. Through three days of general sessions, thought leader series, service-learning projects, and networking, the conference engages participants in local, national, and global issues that service-learning addresses. Come explore more than 100 exhibits, and nearly 150 hands-on workshops and service-learning&amp;nbsp;projects.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/18">education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/service-learning">service learning</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth">youth</category>
+ <pubDate>Mon, 14 Dec 2009 20:22:41 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">138 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>Transmission Project - television</title>
+ <link>http://transmissionproject.org/taxonomy/term/96/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Termite TV</title>
+ <link>http://transmissionproject.org/projects/termite-tv</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/art-center">art center</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/video">video</category>
+ <georss:point>39.952335 -75.163789</georss:point>
+ <pubDate>Thu, 07 Oct 2010 14:23:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">311 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Access Humboldt</title>
+ <link>http://transmissionproject.org/projects/access-humboldt</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/access">access</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/community-media">community media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media-training">digital media training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <georss:point>40.790302 -124.158874</georss:point>
+ <pubDate>Wed, 06 Oct 2010 19:52:41 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">308 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Banff + Next Media Conference</title>
+ <link>http://transmissionproject.org/events/2010/06/banff-next-media-conference</link>
+ <description>&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; 2010 Program Highlights include content designed to keep you on the cutting edge of both traditional and multi-platform television programming. Building on the expertise and knowledge of 31 years, &lt;span class=&quot;caps&quot;&gt;BANFF&lt;/span&gt; will continue to attract the most prestigious players in the industry while addressing the changing climate of the international&amp;nbsp;marketplace.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/category/universal-tags/digital-media">digital media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/multi-media">multi media</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <pubDate>Mon, 07 Jun 2010 16:22:15 +0000</pubDate>
+ <dc:creator>Mira Allen</dc:creator>
+ <guid isPermaLink="false">248 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>PublicMediaCamp</title>
+ <link>http://transmissionproject.org/events/2009/10/publicmediacamp</link>
+ <description>&lt;p&gt;On the weekend of October 17th at American University&amp;#8217;s campus in Washington &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;NPR&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;PBS&lt;/span&gt; and the &lt;span class=&quot;caps&quot;&gt;AU&lt;/span&gt; Center for Social Media will co-host a two-day event that we hope will serve as the kickoff for similar community collaboration events around the country. PublicMediaCamp is going to be organized as an unconference - an event without a rigid, top-down programmatic structure, with the sessions organized by the participants themselves. We&amp;#8217;re modeling it on other unconferences like Barcamp and Podcamp, which have successfully spawned similar volunteer-driven events around the world, as well as public media unconferences that have been hosted by Minnesota Public Radio and &lt;span class=&quot;caps&quot;&gt;KUSP&lt;/span&gt; in Santa Cruz,&amp;nbsp;&lt;span class=&quot;caps&quot;&gt;CA&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;At PublicMediaCamp, we&amp;#8217;re hoping to bring together as many as 300 people from around the country - public broadcasters, coders, community technology activists, citizen journalists, neighborhood organizers and the like - to begin this national conversation. It&amp;#8217;s hard to say how the two days will be spent; I wouldn&amp;#8217;t be surprised if we see techies engaging in code sprints, bloggers developing community journalism projects, community activists proposing station-hosted townhall meetings, etc. But that&amp;#8217;s what&amp;#8217;s exciting about unconferences &amp;#8211; they are each as unique and powerful as the people who decide to&amp;nbsp;participate.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ll also be teaching public broadcasters how to host their own their own local PublicMediaCamps, to get the ball rolling in their communities. The Corporation for Public Broadcasting is funding for a number of scholarships for station staff to attend PublicMediaCamp and experience an unconference for themselves. We&amp;#8217;re also working closely with Peter Corbett of iStrategyLabs, host of many successful &lt;span class=&quot;caps&quot;&gt;DC&lt;/span&gt;-area unconferences, to help us create a &amp;#8220;PublicMediaCamp-in-a-box&amp;#8221; toolkit that will help stations work with their communities to organize unconferences of their&amp;nbsp;own.&lt;/p&gt;
+</description>
+ <category domain="http://transmissionproject.org/taxonomy/term/16">conference</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/media">media</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/15">radio</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/television">television</category>
+ <pubDate>Tue, 04 Aug 2009 21:45:32 +0000</pubDate>
+ <dc:creator>Belinda Rawlins</dc:creator>
+ <guid isPermaLink="false">88 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://transmissionproject.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Transmission Project - magazine</title>
+ <link>http://transmissionproject.org/taxonomy/term/496/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTC VISTA Project Program Support</title>
+ <link>http://transmissionproject.org/content/ctc-vista-project-program-support</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/administrative-tasks">administrative tasks</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/editing">editing</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/layout-design">layout design</category>
+ <category domain="http://transmissionproject.org/taxonomy/term/28">leadership</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/magazine">magazine</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/outreach">outreach</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/website">website</category>
+ <pubDate>Thu, 21 Oct 2010 20:33:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">510 at http://transmissionproject.org</guid>
+</item>
+<item>
+ <title>Computer Training Curriculum Development</title>
+ <link>http://transmissionproject.org/content/computer-training-curriculum-development</link>
+ <description></description>
+ <category domain="http://transmissionproject.org/category/universal-tags/broadband-adoption">broadband adoption</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/computer-skills-training">computer skills training</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/digitial-literacy-education">digitial literacy education</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/magazine">magazine</category>
+ <category domain="http://transmissionproject.org/category/universal-tags/youth-media">youth media</category>
+ <pubDate>Thu, 21 Oct 2010 20:26:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">508 at http://transmissionproject.org</guid>
+</item>
+</channel>
+</rss>
